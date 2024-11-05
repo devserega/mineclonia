@@ -1,0 +1,31 @@
+{
+	"$schema": "https://raw.githubusercontent.com/LuaLS/vscode-lua/master/setting/schema.json",
+	"hint.enable": true,
+	"runtime.version": "LuaJIT",
+	"diagnostics": {
+		"disable": [
+			"lowercase-global",
+			"redefined-local",
+			"undefined-field",
+		]
+	},
+	"diagnostics.globals": [
+		"minetest",
+		"core",
+		"dump",
+		"dump2",
+		"Raycast",
+		"Settings",
+		"PseudoRandom",
+		"PerlinNoise",
+		"VoxelManip",
+		"SecureRandom",
+		"VoxelArea",
+		"PerlinNoiseMap",
+		"PcgRandom",
+		"ItemStack",
+		"AreaStore",
+		"vector"
+	],
+	"workspace.ignoreDir": [".luacheckrc"]
+}

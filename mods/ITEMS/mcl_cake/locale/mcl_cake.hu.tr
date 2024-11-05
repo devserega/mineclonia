@@ -1,0 +1,12 @@
+# textdomain: mcl_cake
+Cake=Torta
+With 7 tasty slices!=Hét fincsi szelettel!
+Hunger points: +@1 per slice=Éhség pontok: +@1 szeletenként
+Cakes can be placed and eaten to restore hunger points. A cake has 7 slices. Each slice restores 2 hunger points and 0.4 saturation points. Cakes will be destroyed when dug or when the block below them is broken.=A torta elfogyasztása helyreállítja az éhségpontokat. Egy torta 7 szeletből áll. Minden szelet 2 éhségpontot és 0,4 jóllakottsági pontot állít vissza. A sütemények megsemmisülnek az ásástól, vagy ha az alattuk lévő blokk eltörik.
+Place the cake anywhere, then rightclick it to eat a single slice. You can't eat from the cake when your hunger bar is full.=Helyezd a tortát bárhová, majd kattints rá jobb gombbal egyetlen szelet elfogyasztásához. Nem ehetsz a süteményből, ha az éhségsávod tele van.
+Cake (6 Slices Left)=Torta (6 szelet maradt)
+Cake (5 Slices Left)=Torta (5 szelet maradt)
+Cake (4 Slices Left)=Torta (4 szelet maradt)
+Cake (3 Slices Left)=Torta (3 szelet maradt)
+Cake (2 Slices Left)=Torta (2 szelet maradt)
+Cake (1 Slice Left)=Torta (1 szelet maradt)

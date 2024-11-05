@@ -1,0 +1,9 @@
+# textdomain: mcl_monster_eggs
+Hides a silverfish=Cache un Poisson d'Argent
+Infested Stone=Roche Infestée
+Infested Cobblestone=Pierre Infestée
+Infested Stone Bricks=Pierre Taillée Infestée
+Infested Cracked Stone Bricks=Pierre Taillée Craquelée Infestée
+Infested Mossy Stone Bricks=Pierre Taillée Moussue Infestée
+Infested Chiseled Stone Bricks=Pierre sculptée Infestée
+@n			An infested block is a block from which a silverfish will pop out when it is broken.@n			It looks identical to its normal counterpart.@n		=@n\t\t\tUn bloc infesté est un bloc d'où sort un poisson d'argent lorsqu'il est cassé.@n\t\t\tIl est identique à son homologue normal.@n\t\t

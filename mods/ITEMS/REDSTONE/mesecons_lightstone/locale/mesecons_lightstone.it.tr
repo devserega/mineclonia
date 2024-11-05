@@ -1,0 +1,4 @@
+# textdomain: mesecons_lightstone
+Redstone Lamp=Lampada di Pietrarossa
+Glows when powered by redstone power=Si illumina quando è attivato dalla corrente di pietrarossa
+Redstone lamps are simple redstone components which glow brightly (light level @1) when they receive redstone power.=Le lampade di pietrarossa sono semplici componenti di pietrarossa che brillano fortemente (livello di luce @1) quando ricevono della corrente di pietrarossa.

@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_composters x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-08-13 17:09+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.codeberg.org/"
+"projects/mineclonia/mcl_composters/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+
+msgid "Composter"
+msgstr "堆肥桶"
+
+msgid "Composters can convert various organic items into bonemeal."
+msgstr ""
+
+msgid "Use organic items on the composter to fill it with layers of compost. Every time an item is put in the composter, there is a chance that the composter adds another layer of compost.  Some items have a bigger chance of adding an extra layer than other items.  After filling up with 7 layers of compost, the composter is full.  After a delay of approximately one second the composter becomes ready and bone meal can be retrieved from it. Right-clicking the composter takes out the bone meal empties the composter."
+msgstr ""
+
+msgid "Converts organic items into bonemeal"
+msgstr ""
+
+msgid "filled"
+msgstr ""
+
+msgid "ready for harvest"
+msgstr "準備好收成"

@@ -1,0 +1,8 @@
+# textdomain: mcl_weather
+Gives ability to control weather=Abilita il controllo meteorologico
+Changes the weather to the specified parameter.=Cambia le condizioni meteorologiche al parametro specificato.
+Error: No weather specified.=Errore: Nessuna condizione meteorologica specificata.
+Error: Invalid parameters.=
+Error: Duration can't be less than 1 second.=
+Error: Invalid weather specified. Use “clear”, “rain”, “snow” or “thunder”.=
+Toggles between clear weather and weather with downfall (randomly rain, thunderstorm or snow)=

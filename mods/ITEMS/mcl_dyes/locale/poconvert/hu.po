@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_dyes x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "White"
+msgstr "Fehér"
+
+msgid "Light Grey"
+msgstr "Világosszürke"
+
+msgid "Grey"
+msgstr "Szürke"
+
+msgid "Black"
+msgstr "Fekete"
+
+msgid "Purple"
+msgstr ""
+
+msgid "Blue"
+msgstr "Kék"
+
+msgid "Light Blue"
+msgstr "Világoskék"
+
+msgid "Cyan"
+msgstr "Türkiz"
+
+msgid "Green"
+msgstr "Zöld"
+
+msgid "Lime"
+msgstr "Élénkzöld"
+
+msgid "Yellow"
+msgstr "Sárga"
+
+msgid "Brown"
+msgstr "Barna"
+
+msgid "Orange"
+msgstr "Narancs"
+
+msgid "Red"
+msgstr "Vörös"
+
+msgid "Magenta"
+msgstr "Bíbor"
+
+msgid "Pink"
+msgstr "Rózsaszín"
+
+msgid "@1 Dye"
+msgstr ""
+
+msgid "This item is a dye which is used for dyeing and crafting."
+msgstr ""
+
+msgid "Rightclick on a sheep to dye its wool. Other things are dyed by crafting."
+msgstr ""
+

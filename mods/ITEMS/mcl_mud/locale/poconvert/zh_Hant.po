@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_mud x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-08-15 18:36+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.codeberg.org/"
+"projects/mineclonia/mcl_mud/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+
+msgid "Mud"
+msgstr "泥巴"
+
+msgid "Mud is a decorative block that generates in mangrove swamps. Mud can also be obtained by using water bottles on dirt or coarse dirt."
+msgstr ""
+
+msgid "Packed Mud"
+msgstr ""
+
+msgid "Packed mud is a decorative block used to craft mud bricks."
+msgstr ""
+
+msgid "Mud Bricks"
+msgstr ""
+
+msgid "Decorative block crafted from packed mud."
+msgstr ""
+
+msgid "Mud Brick Stair"
+msgstr ""
+
+msgid "Mud Brick Slab"
+msgstr ""

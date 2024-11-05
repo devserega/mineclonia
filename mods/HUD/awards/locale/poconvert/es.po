@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain awards x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Secret Award Unlocked: @1"
+msgstr "Logro secreto desbloqueado: @1"
+
+msgid "Award Unlocked: @1"
+msgstr "Logro Desbloqueado: @1"
+
+msgid "Secret Advancement Made!"
+msgstr "¡Logro secreto conseguido!"
+
+msgid "Goal Completed!"
+msgstr "¡Objetivo completado!"
+
+msgid "Challenge Completed!"
+msgstr "!Desafío completado!"
+
+msgid "Advancement Made!"
+msgstr "¡Logro conseguido!"
+
+msgid "[c|clear|disable|enable]"
+msgstr "[c|clear|disable|enable]"
+
+msgid "Show, clear, disable or enable your awards"
+msgstr "Mostrar, borrar, deshabilitar o habilitar tus logros"
+
+msgid "All your awards and statistics have been cleared. You can now start again."
+msgstr "Todos tus logros y estadísticas se han reiniciado. Ahora puedes empezar de nuevo."
+
+msgid "You have disabled awards."
+msgstr "Has deshabilitado los logros."
+
+msgid "You have enabled awards."
+msgstr "Has habilitado los logros."
+
+msgid "<award ID>"
+msgstr "<logro ID>"
+
+msgid "Show details of an award"
+msgstr "Mostrar detalles de un logro"
+
+msgid "Award not found."
+msgstr "Logro no encontrado."
+
+msgid "<name>"
+msgstr "<nombre>"
+
+msgid "Get the awards statistics for the given player or yourself"
+msgstr "Obtener las estadísticas de tus logros o de otro jugador"
+
+msgid "Error: No achivements available."
+msgstr "Error: No hay logros disponibles."
+
+msgid "OK"
+msgstr "Aceptar"
+
+msgid "(Secret Award)"
+msgstr "(Logro Secreto)"
+
+msgid "Unlock this award to find out what it is."
+msgstr "Desbloquea este logro para descubrir qué es."
+
+msgid "@1 (unlocked)"
+msgstr "@1 (desbloqueado)"
+
+msgid "You've disabled awards. Type /awards enable to reenable."
+msgstr "Has desactivado los logros. Introduce /awards enable para habilitarlos."
+
+msgid "Error: No award available."
+msgstr "Error: No hay logros disponibles."
+
+msgid "You have not unlocked any awards."
+msgstr "No has desbloqueado ningún logro."
+
+msgid "@1’s awards:"
+msgstr "Logros de @1:"
+
+msgid "@1/@2 chat messages"
+msgstr "@1/@2 mensajes de chat"
+
+msgid "Send a chat message"
+msgstr "Enviar un mensaje de chat"
+
+msgid "Chat @1 times"
+msgstr "Chatear @1 veces"
+
+msgid "@1/@2 joins"
+msgstr "Se unió @1/@2 veces"
+
+msgid "Join once"
+msgstr "Unirse una vez"
+
+msgid "Join @1 times"
+msgstr "Unirse @1 veces"
+
+msgid "@1/@2 deaths"
+msgstr "@1/@2 muertes"
+
+msgid "Die once of @1"
+msgstr "Morir una vez de @1"
+
+msgid "Die @1 times of @2"
+msgstr "Morir @1 veces de @2"
+
+msgid "Die @1 times."
+msgstr "Morir @1 veces."
+
+msgid "Mine @1 times"
+msgstr "Minar @1 veces"
+
+msgid "@1/@2 dug"
+msgstr "@1/@2 excavado"
+
+msgid "Mine: @1"
+msgstr "Minar: @1"
+
+msgid "Mine: @1×@2"
+msgstr "Minar: @1x@2"
+
+msgid "Mine @1 block."
+msgstr "Minar bloque de @1."
+
+msgid "Mine @1 blocks."
+msgstr "Minar bloques de @1."
+
+msgid "@1/@2 placed"
+msgstr "@1/@2 colocado(s)"
+
+msgid "Place: @1"
+msgstr "Colocar: @1"
+
+msgid "Place: @1×@2"
+msgstr "Colocar:@1x@2"
+
+msgid "Place @1 block."
+msgstr "Colocar bloque de @1."
+
+msgid "Place @1 blocks."
+msgstr "Colocar bloques de @1."
+
+msgid "@1/@2 crafted"
+msgstr "@1/@2 fabricado(s)"
+
+msgid "Craft: @1"
+msgstr "Fabricar: @1"
+
+msgid "Craft: @1×@2"
+msgstr "Fabricar: @1×@2"
+
+msgid "Craft @1 item"
+msgstr "Fabricar @1 ítem"
+
+msgid "Craft @1 items."
+msgstr "Fabricar @1 artículos."
+
+msgid "@1/@2 eaten"
+msgstr "@1/@2 comido(s)"
+
+msgid "Eat @1"
+msgstr "Comer @1"
+
+msgid "Eat @1×@2"
+msgstr "Comer @1x@2"
+
+msgid "Eat @1 item"
+msgstr "Comer @1 artículo"
+
+msgid "Eat @1 items."
+msgstr "Comer @1 artículos."
+

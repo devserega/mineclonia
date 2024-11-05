@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_banners x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-08-16 07:50+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.codeberg.org/"
+"projects/mineclonia/mcl_banners/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+
+msgid "White Banner"
+msgstr "白色旗幟"
+
+msgid "White"
+msgstr "白色"
+
+msgid "Grey Banner"
+msgstr "灰色旗幟"
+
+msgid "Grey"
+msgstr "灰色"
+
+msgid "Light Grey Banner"
+msgstr "淺灰色旗幟"
+
+msgid "Light Grey"
+msgstr "淺灰色"
+
+msgid "Black Banner"
+msgstr "黑色旗幟"
+
+msgid "Black"
+msgstr "黑色"
+
+msgid "Red Banner"
+msgstr "紅色旗幟"
+
+msgid "Red"
+msgstr "紅色"
+
+msgid "Yellow Banner"
+msgstr "黃色旗幟"
+
+msgid "Yellow"
+msgstr "黃色"
+
+msgid "Green Banner"
+msgstr "綠色旗幟"
+
+msgid "Green"
+msgstr "綠色"
+
+msgid "Cyan Banner"
+msgstr "青色旗幟"
+
+msgid "Cyan"
+msgstr "青色"
+
+msgid "Blue Banner"
+msgstr "藍色旗幟"
+
+msgid "Blue"
+msgstr "藍色"
+
+msgid "Magenta Banner"
+msgstr "洋紅色旗幟"
+
+msgid "Magenta"
+msgstr "洋紅色"
+
+msgid "Orange Banner"
+msgstr "橘色旗幟"
+
+msgid "Orange"
+msgstr "橘色"
+
+msgid "Purple Banner"
+msgstr "紫色旗幟"
+
+msgid "Violet"
+msgstr ""
+
+msgid "Brown Banner"
+msgstr "棕色旗幟"
+
+msgid "Brown"
+msgstr "棕色"
+
+msgid "Pink Banner"
+msgstr "粉紅色旗幟"
+
+msgid "Pink"
+msgstr "粉紅色"
+
+msgid "Lime Banner"
+msgstr "淺綠色旗幟"
+
+msgid "Lime"
+msgstr "淺綠色"
+
+msgid "Light Blue Banner"
+msgstr "淺藍色旗幟"
+
+msgid "Light Blue"
+msgstr "淺藍色"
+
+msgid "Banner"
+msgstr "旗幟"
+
+msgid "Banners are tall colorful decorative blocks. They can be placed on the floor and at walls. Banners can be emblazoned with a variety of patterns using a lot of dye in crafting."
+msgstr ""
+
+msgid "Use crafting to draw a pattern on top of the banner. Emblazoned banners can be emblazoned again to combine various patterns. You can draw up to 12 layers on a banner that way. If the banner includes a gradient, only 3 layers are possible."
+msgstr ""
+
+msgid "You can copy the pattern of a banner by placing two banners of the same color in the crafting grid—one needs to be emblazoned, the other one must be clean. Finally, you can use a banner on a cauldron with water to wash off its top-most layer."
+msgstr ""
+
+msgid "@1 Banner"
+msgstr "@1旗幟"
+
+msgid "Preview Banner"
+msgstr "預覽旗幟"
+
+msgid "Paintable decoration"
+msgstr "可塗裝裝飾"
+
+msgid "Can be used to craft special banner designs on the loom"
+msgstr ""
+
+msgid "Special Banner Pattern"
+msgstr "特殊旗幟圖案"
+
+msgid "@1 Bordure"
+msgstr ""
+
+msgid "@1 Bricks"
+msgstr ""
+
+msgid "@1 Roundel"
+msgstr ""
+
+msgid "@1 Creeper Charge"
+msgstr ""
+
+msgid "@1 Saltire"
+msgstr ""
+
+msgid "@1 Bordure Indented"
+msgstr ""
+
+msgid "@1 Per Bend Inverted"
+msgstr ""
+
+msgid "@1 Per Bend Sinister Inverted"
+msgstr ""
+
+msgid "@1 Per Bend"
+msgstr ""
+
+msgid "@1 Per Bend Sinister"
+msgstr ""
+
+msgid "@1 Flower Charge"
+msgstr ""
+
+msgid "@1 Gradient"
+msgstr ""
+
+msgid "@1 Base Gradient"
+msgstr ""
+
+msgid "@1 Per Fess Inverted"
+msgstr ""
+
+msgid "@1 Per Fess"
+msgstr ""
+
+msgid "@1 Per Pale"
+msgstr ""
+
+msgid "@1 Per Pale Inverted"
+msgstr ""
+
+msgid "@1 Thing Charge"
+msgstr ""
+
+msgid "@1 Globe Charge"
+msgstr ""
+
+msgid "@1 Piglin Charge"
+msgstr ""
+
+msgid "@1 Lozenge"
+msgstr ""
+
+msgid "@1 Skull Charge"
+msgstr ""
+
+msgid "@1 Paly"
+msgstr ""
+
+msgid "@1 Base Dexter Canton"
+msgstr ""
+
+msgid "@1 Base Sinister Canton"
+msgstr ""
+
+msgid "@1 Chief Dexter Canton"
+msgstr ""
+
+msgid "@1 Chief Sinister Canton"
+msgstr ""
+
+msgid "@1 Cross"
+msgstr ""
+
+msgid "@1 Base"
+msgstr ""
+
+msgid "@1 Pale"
+msgstr ""
+
+msgid "@1 Bend Sinister"
+msgstr ""
+
+msgid "@1 Bend"
+msgstr ""
+
+msgid "@1 Pale Dexter"
+msgstr ""
+
+msgid "@1 Fess"
+msgstr ""
+
+msgid "@1 Pale Sinister"
+msgstr ""
+
+msgid "@1 Chief"
+msgstr ""
+
+msgid "@1 Chevron"
+msgstr ""
+
+msgid "@1 Chevron Inverted"
+msgstr ""
+
+msgid "@1 Base Indented"
+msgstr ""
+
+msgid "@1 Chief Indented"
+msgstr ""
+
+msgid "@1 Flow"
+msgstr ""
+
+msgid "@1 Guster"
+msgstr ""
+
+msgid "And one additional layer"
+msgstr ""
+
+msgid "And @1 additional layers"
+msgstr ""

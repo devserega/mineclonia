@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_boats x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-10-19 13:44+0000\n"
+"Last-Translator: liulitchi <liulitchi@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Simplified Han script) <https://translate.codeberg."
+"org/projects/mineclonia/mcl_boats/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "Sneak to dismount"
+msgstr ""
+
+msgid "Boats are used to travel on the surface of water."
+msgstr ""
+
+msgid "Rightclick on a water source to place the boat. Rightclick the boat to enter it. Use [Left] and [Right] to steer, [Forwards] to speed up and [Backwards] to slow down or move backwards. Use [Sneak] to leave the boat, punch the boat to make it drop as an item."
+msgstr ""
+
+msgid "Boat"
+msgstr "船"
+
+msgid "Water vehicle"
+msgstr "水上运输工具"
+
+msgid "Chest Boats are used to travel on the surface of water. And transport goods"
+msgstr "驶于水上，运输货物"
+
+msgid "Rightclick on a water source to place the boat. Rightclick the boat to enter it. Use [Left] and [Right] to steer, [Forwards] to speed up and [Backwards] to slow down or move backwards. Use [Sneak] to leave the boat, punch the boat to make it drop as an item. Use [Sneak] + [Rightclick] to open the boat's chest"
+msgstr ""
+
+msgid "Chest Boat"
+msgstr "运输船"

@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_colorblocks x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Terracotta is a basic building material. It comes in many different colors."
+msgstr "La terracotta è un materiale da costruzione basilare. È disponibile in molti colori diversi."
+
+msgid "Glazed terracotta is a decorative block with a complex pattern. It can be rotated by placing it in different directions."
+msgstr "La terracotta smaltata è un blocco decorativo con un motivo complesso. Può venire rotata piazzandola in direzioni diverse."
+
+msgid "Concrete powder is used for creating concrete, but it can also be used as decoration itself. It comes in different colors. Concrete powder turns into concrete of the same color when it comes in contact with water."
+msgstr "La polvere di calcestruzzo viene utilizzata per formare il calcestruzzo, ma può anche ugualmente essere utilizzata come decorazione. È disponibile in diversi colori. La polvere di calcestruzzo si trasforma in calcestruzzo dello stesso colore a contatto con l'acqua."
+
+msgid "Concrete is a decorative block which comes in many different colors. It is notable for having a very strong and clean color."
+msgstr ""
+
+msgid "Turns into concrete on water contact"
+msgstr ""
+
+msgid "Terracotta"
+msgstr ""
+
+msgid "Terracotta is a basic building material which comes in many different colors. This particular block is uncolored."
+msgstr ""
+
+msgid "@1 Terracotta"
+msgstr ""
+
+msgid "@1 Glazed Terracotta"
+msgstr ""
+
+msgid "@1 Concrete Powder"
+msgstr ""
+
+msgid "@1 Concrete"
+msgstr ""
+
+msgid "Colored Terracotta"
+msgstr ""
+
+msgid "Glazed Terracotta"
+msgstr ""
+
+msgid "Concrete Powder"
+msgstr ""
+
+msgid "Concrete"
+msgstr ""
+

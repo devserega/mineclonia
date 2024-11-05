@@ -1,0 +1,8 @@
+# textdomain: mesecons_solarpanel
+Daylight Sensor=Napfény Érzékelő
+Provides redstone power when in sunlight=Napsütés esetén vöröskő jelet ad
+Can be inverted=Megfordítható a működése
+Daylight sensors are redstone components which provide redstone power when they are in sunlight and no power otherwise. They can also be inverted.=A napfény érzékelő egy vöröskő szerkezet ami napsütés esetén vöröskő jelet ad, egyébként nem ad jelet. Megfordítható a működése.
+In inverted state, they provide redstone power when they are not in sunlight and no power otherwise.=Megfordított működés esetén jelet ad, ha nem süt ad és nem ad jelet, ha süt.
+Use the daylight sensor to toggle its state.=Használd a napfény érzékelőt, hogy megfordítsd a működését.
+Inverted Daylight Sensor=Megfordított Napfény Érzékelő

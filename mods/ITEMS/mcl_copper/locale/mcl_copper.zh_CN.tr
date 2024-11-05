@@ -1,0 +1,38 @@
+# textdomain: mcl_copper
+Waxed @1=
+Copper Ingot=铜锭
+Molten Raw Copper. It is used to craft blocks.=
+Raw Copper=粗铜
+Raw Copper. Mine a Copper Ore to get it.=
+Copper Ore=铜矿石
+Some copper contained in stone, it is pretty common and can be found below sea level.=
+Block of Raw Copper=粗铜块
+A block used for compact raw copper storage.=
+Exposed=
+Weathered=
+Oxidized=
+Block of=
+@1 Copper=
+@1 copper is mostly a decorative block.=
+@1 Cut Copper=
+@1 Chiseled Copper=
+@1 Chiseled copper is mostly a decorative block.=
+@1 Copper Grate=
+@1 Copper Bulb On=
+@1 Copper Bulb=
+@1 Copper Trapdoor=
+@1 Copper Door=
+@1 Cut Copper Stairs=
+@1 Cut Copper Slab=
+
+
+##### not used anymore #####
+
+Block of Copper=铜块
+Exposed Copper=斑驳铜块
+Weathered Copper=锈蚀铜块
+Oxidized Copper=氧化铜块
+Cut Copper=切制铜块
+Exposed Cut Copper=斑驳切制铜块
+Weathered Cut Copper=锈蚀切制铜块
+Oxidized Cut Copper=氧化切制铜块

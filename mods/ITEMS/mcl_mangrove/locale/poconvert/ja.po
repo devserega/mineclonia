@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_mangrove x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Mangrove"
+msgstr ""
+
+msgid "Mangrove Roots"
+msgstr "マングローブの根"
+
+msgid "Mangrove roots are decorative blocks that form as part of mangrove trees."
+msgstr "マングローブの根は、マングローブの木の一部として形成される装飾ブロックです。"
+
+msgid "Mangrove Propagule"
+msgstr "マングローブの芽"
+
+msgid "Needs soil and light to grow"
+msgstr "生育に必要なのは土と光"
+
+msgid "When placed on soil (such as dirt) and exposed to light, an propagule will grow into an mangrove after some time."
+msgstr "土壌（土など）の上に置き、光を当てると、しばらくのちマングローブに成長します。"
+
+msgid "Hanging Propagule"
+msgstr "芽"
+
+msgid "Grows on Mangrove leaves"
+msgstr "マングローブの葉に生育"
+
+msgid "water logged mangrove roots"
+msgstr "水没したマングローブの根"
+
+msgid "Mangrove roots, despite being a full block, can be waterlogged and do not flow water out"
+msgstr "マングローブの根は、フルブロックであるにもかかわらず水没することがあり、水が流出しない"
+
+msgid "These cannot be crafted yet only occure when get in contact of water."
+msgstr "これはクラフトできないものの、水と接触したときだけ発生します。"
+
+msgid "Muddy Mangrove Roots"
+msgstr "泥に塗れたマングローブの根"
+
+msgid "crafted with Mud and Mangrove roots"
+msgstr "泥とマングローブの根で作られたもの"
+
+msgid "Muddy Mangrove Roots is a block from mangrove swamp.It drowns player a bit inside it."
+msgstr "泥に塗れたマングローブの根は、マングローブの沼地から1ブロックの場所にあります。"
+

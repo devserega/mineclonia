@@ -1,0 +1,7 @@
+# textdomain: mcl_wool
+Carpet=Teppich
+Wool=Wolle
+Wool is a decorative block which comes in many different colors.=Wolle ist ein dekorativer Block, den es in vielen verschiedenen Farben gibt.
+Carpets are thin floor covers which come in many different colors.=Teppiche sind dünne Bodenbeläge, die es in vielen verschiedenen Farben gibt.
+@1 Wool=@1 Wolle
+@1 Carpet=@1 Teppich

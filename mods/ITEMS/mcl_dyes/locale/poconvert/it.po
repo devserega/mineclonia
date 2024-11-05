@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_dyes x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "White"
+msgstr "Bianco"
+
+msgid "Light Grey"
+msgstr "Grigio Chiaro"
+
+msgid "Grey"
+msgstr "Grigio"
+
+msgid "Black"
+msgstr "Nero"
+
+msgid "Purple"
+msgstr "Viola"
+
+msgid "Blue"
+msgstr "Blu"
+
+msgid "Light Blue"
+msgstr "Azzurro"
+
+msgid "Cyan"
+msgstr "Ciano"
+
+msgid "Green"
+msgstr "Verde"
+
+msgid "Lime"
+msgstr "Lime"
+
+msgid "Yellow"
+msgstr "Giallo"
+
+msgid "Brown"
+msgstr "Marrone"
+
+msgid "Orange"
+msgstr "Arancione"
+
+msgid "Red"
+msgstr "Rosso"
+
+msgid "Magenta"
+msgstr "Magenta"
+
+msgid "Pink"
+msgstr "Rosa"
+
+msgid "@1 Dye"
+msgstr "Colorante @1"
+
+msgid "This item is a dye which is used for dyeing and crafting."
+msgstr "Questo oggetto è un colorante utilizzato per tingere ed assemblare."
+
+msgid "Rightclick on a sheep to dye its wool. Other things are dyed by crafting."
+msgstr "Clicca col tasto destro su una pecora per tingerne la lana. Degli altri materiali sono tinti attraverso l'assemblaggio."
+

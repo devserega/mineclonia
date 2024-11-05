@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_experience x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-08-13 17:09+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.codeberg.org/"
+"projects/mineclonia/mcl_experience/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+
+msgid "Bottle o' Enchanting"
+msgstr "經驗瓶"
+
+msgid "[[<player>] <xp>]"
+msgstr "[[<玩家>] <經驗值>]"
+
+msgid "Gives a player some XP"
+msgstr "給一名玩家一些經驗值"
+
+msgid "Error: Too many parameters!"
+msgstr ""
+
+msgid "Error: Incorrect value of XP"
+msgstr ""
+
+msgid "Error: Player not found"
+msgstr ""
+
+msgid "Added @1 XP to @2, total: @3, experience level: @4"
+msgstr "已增加 @1 點經驗值至 @2，總計：@3，經驗等級：@4"

@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_droppers x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Dropper"
+msgstr "Podajnik"
+
+msgid "Inventory"
+msgstr "Ekwipunek"
+
+msgid "9 inventory slots"
+msgstr "9 miejsc ekwipunku"
+
+msgid "Drops item when powered by redstone power"
+msgstr "Wyrzuca przedmiot gdy zasilony czerwienitem"
+
+msgid "A dropper is a redstone component and a container with 9 inventory slots which, when supplied with redstone power, drops an item or puts it into a container in front of it."
+msgstr "Podajnik jest urządzeniem czerwienitowym i pojemnikiem z 9 miejscami, który po dostarczeniu energii czerwienitowej wyrzuca przedmiot lub umieszcza go w pojemniku przed nim."
+
+msgid "Droppers can be placed in 6 possible directions, items will be dropped out of the hole. Use the dropper to access its inventory. Supply it with redstone energy once to make the dropper drop or transfer a random item."
+msgstr "Podajniki mogą być skierowane w 6 możliwych kierunkach, przedmioty będą wyrzucane z dziury. Użyj podajnika aby zyskać dostęp do jego ekwipunku. Dostarcz do niego energii czerwienitowej aby sprawić by wyrzucił lub przeniósł losowy przedmiot."
+
+msgid "Downwards-Facing Dropper"
+msgstr "Podajnik skierowany w dół"
+
+msgid "Upwards-Facing Dropper"
+msgstr "Podajnik skierowany w górę"
+

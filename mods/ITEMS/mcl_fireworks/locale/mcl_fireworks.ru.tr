@@ -1,0 +1,6 @@
+# textdomain: mcl_fireworks
+Firework Rocket=Фейерверк
+@1s power left. Not using rocket.=Осталось @1 энергии. Ракета не используется.
+Elytra not deployed. Jump while falling down to deploy.=Элитра не развернута. Прыгайте, когда падаете, чтобы развернуть ее.
+Elytra not equipped.=Элитра не экипирована.
+Flight Duration: @1s=Продолжительность полета: @1 с

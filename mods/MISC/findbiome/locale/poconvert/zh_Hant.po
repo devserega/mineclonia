@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain findbiome x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-08-12 07:19+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.codeberg.org/"
+"projects/mineclonia/findbiome/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+
+msgid "Find and teleport to biome"
+msgstr "尋找並傳送至生物群落"
+
+msgid "<biome>"
+msgstr "<biome>"
+
+msgid "No player."
+msgstr "沒有玩家。"
+
+msgid "Biome found at @1."
+msgstr "生物群落發現於 @1。"
+
+msgid "No biome found!"
+msgstr "找不到生物群落！"
+
+msgid "Biome does not exist!"
+msgstr "生物群落不存在！"
+
+msgid "List all biomes"
+msgstr "列出所有生物群落"
+
+msgid "No biomes."
+msgstr "沒有生物群落。"

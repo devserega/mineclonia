@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_banners x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: dk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "White Banner"
+msgstr "Hvidt vanner"
+
+msgid "White"
+msgstr "Hvid"
+
+msgid "Grey Banner"
+msgstr "Gråt banner"
+
+msgid "Grey"
+msgstr "Grå"
+
+msgid "Light Grey Banner"
+msgstr "Lysegråt banner"
+
+msgid "Light Grey"
+msgstr "Lysegrå"
+
+msgid "Black Banner"
+msgstr "Sort banner"
+
+msgid "Black"
+msgstr "Sort"
+
+msgid "Red Banner"
+msgstr "Rødt banner"
+
+msgid "Red"
+msgstr "Rød"
+
+msgid "Yellow Banner"
+msgstr "Gult banner"
+
+msgid "Yellow"
+msgstr "Gul"
+
+msgid "Green Banner"
+msgstr "Grønt banner"
+
+msgid "Green"
+msgstr "Grøn"
+
+msgid "Cyan Banner"
+msgstr "Cyanblåt banner"
+
+msgid "Cyan"
+msgstr "Cyanblå"
+
+msgid "Blue Banner"
+msgstr "Blåt banner"
+
+msgid "Blue"
+msgstr "Blå"
+
+msgid "Magenta Banner"
+msgstr "Magenta banner"
+
+msgid "Magenta"
+msgstr "Magenta"
+
+msgid "Orange Banner"
+msgstr "Orange banner"
+
+msgid "Orange"
+msgstr "Orange"
+
+msgid "Purple Banner"
+msgstr "Lilla banner"
+
+msgid "Violet"
+msgstr "Lilla"
+
+msgid "Brown Banner"
+msgstr "Brunt banner"
+
+msgid "Brown"
+msgstr "Brund"
+
+msgid "Pink Banner"
+msgstr "Lyserødt banner"
+
+msgid "Pink"
+msgstr "Lyserøde"
+
+msgid "Lime Banner"
+msgstr "Limegrønt banner"
+
+msgid "Lime"
+msgstr "Limegrøn"
+
+msgid "Light Blue Banner"
+msgstr "Lyseblåt banner"
+
+msgid "Light Blue"
+msgstr "Lyseblå"
+
+msgid "Banner"
+msgstr ""
+
+msgid "Banners are tall colorful decorative blocks. They can be placed on the floor and at walls. Banners can be emblazoned with a variety of patterns using a lot of dye in crafting."
+msgstr "Bannere er høje, farverige udsmykningsblokke. De kan placeres på gulve og vægge. Bannere kan præges med et væld af mønste ved at bruge meget farvestof ved produktion."
+
+msgid "Use crafting to draw a pattern on top of the banner. Emblazoned banners can be emblazoned again to combine various patterns. You can draw up to 12 layers on a banner that way. If the banner includes a gradient, only 3 layers are possible."
+msgstr "Brug håndværk til at tegne et mønster på banneret. Prægede bannere kan præges igen for at skabe forskellige mønstre. Du kan lave op til 12 lag ovenpå hinanden. Hvis banneret har en gradient, kan du kun lave 3 lag."
+
+msgid "You can copy the pattern of a banner by placing two banners of the same color in the crafting grid—one needs to be emblazoned, the other one must be clean. Finally, you can use a banner on a cauldron with water to wash off its top-most layer."
+msgstr "Du kan kopiere menteret på et banner ved at placere to bannere i den samme farve i håndværksgitteret. Det ene skal være præget, det andet rent. Du kan også bruge et banner på en keddel med vand for at vaske det øverste lag af."
+
+msgid "@1 Banner"
+msgstr ""
+
+msgid "Preview Banner"
+msgstr ""
+
+msgid "Paintable decoration"
+msgstr "Udsmykning som kan males"
+
+msgid "Can be used to craft special banner designs on the loom"
+msgstr ""
+
+msgid "Special Banner Pattern"
+msgstr ""
+
+msgid "@1 Bordure"
+msgstr "@1 kantbånd"
+
+msgid "@1 Bricks"
+msgstr "@1 mursten"
+
+msgid "@1 Roundel"
+msgstr "@1 rundstok"
+
+msgid "@1 Creeper Charge"
+msgstr "@1 creeper"
+
+msgid "@1 Saltire"
+msgstr "@1 saltire"
+
+msgid "@1 Bordure Indented"
+msgstr "@1 kantbånd med savtakker"
+
+msgid "@1 Per Bend Inverted"
+msgstr "@1 nederste venstre diagnoal halvfarvning"
+
+msgid "@1 Per Bend Sinister Inverted"
+msgstr "@1 nederste højre diagonal halvfarvning"
+
+msgid "@1 Per Bend"
+msgstr "@1 øverste højre diagonal halvfarvning"
+
+msgid "@1 Per Bend Sinister"
+msgstr "@1 øverste venstre diagonal halvfarvning"
+
+msgid "@1 Flower Charge"
+msgstr "@1 blomst"
+
+msgid "@1 Gradient"
+msgstr "@1 gradvist oppefra"
+
+msgid "@1 Base Gradient"
+msgstr "@1 gradvist nedefra"
+
+msgid "@1 Per Fess Inverted"
+msgstr "@1 nederste halvdel"
+
+msgid "@1 Per Fess"
+msgstr "@1 øverste halvdel"
+
+msgid "@1 Per Pale"
+msgstr "@1 venstre halvdel"
+
+msgid "@1 Per Pale Inverted"
+msgstr "@1 højre halvdel"
+
+msgid "@1 Thing Charge"
+msgstr "@1 Mojang"
+
+msgid "@1 Globe Charge"
+msgstr ""
+
+msgid "@1 Piglin Charge"
+msgstr ""
+
+msgid "@1 Lozenge"
+msgstr "@1 Rhombe"
+
+msgid "@1 Skull Charge"
+msgstr "@1 dødningehovde"
+
+msgid "@1 Paly"
+msgstr "@1 lodrette striber"
+
+msgid "@1 Base Dexter Canton"
+msgstr "@1 nederste højre hjørne"
+
+msgid "@1 Base Sinister Canton"
+msgstr "@1 nederste venstre hjørne"
+
+msgid "@1 Chief Dexter Canton"
+msgstr "@1 øverste højre hjørne"
+
+msgid "@1 Chief Sinister Canton"
+msgstr "@1 øverste venstre hjørne"
+
+msgid "@1 Cross"
+msgstr "@1 kryds"
+
+msgid "@1 Base"
+msgstr "@1 bundstribe"
+
+msgid "@1 Pale"
+msgstr "@1 lodret centerstribe"
+
+msgid "@1 Bend Sinister"
+msgstr "@1 diagonal stribe fra nederste venstre hjørne"
+
+msgid "@1 Bend"
+msgstr "@1 diagonal stribe fra nederste højre hjørne"
+
+msgid "@1 Pale Dexter"
+msgstr "@1 venstrestribe"
+
+msgid "@1 Fess"
+msgstr "@1 vandret midterstribe"
+
+msgid "@1 Pale Sinister"
+msgstr "@1 højrestribe"
+
+msgid "@1 Chief"
+msgstr "@1 topstribe"
+
+msgid "@1 Chevron"
+msgstr "@1 bundtrekant"
+
+msgid "@1 Chevron Inverted"
+msgstr "@1 toptrekant"
+
+msgid "@1 Base Indented"
+msgstr "@1 savtakker i bunden"
+
+msgid "@1 Chief Indented"
+msgstr "@1 savtakker i toppen"
+
+msgid "@1 Flow"
+msgstr ""
+
+msgid "@1 Guster"
+msgstr ""
+
+msgid "And one additional layer"
+msgstr "Og ét yderligere lag"
+
+msgid "And @1 additional layers"
+msgstr "Og @1 yderligere lag"
+

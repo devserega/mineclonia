@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_pottery_sherds x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Angler"
+msgstr ""
+
+msgid "Archer"
+msgstr ""
+
+msgid "Arms Up"
+msgstr ""
+
+msgid "Blade"
+msgstr ""
+
+msgid "Brewer"
+msgstr ""
+
+msgid "Burn"
+msgstr ""
+
+msgid "Danger"
+msgstr ""
+
+msgid "Explorer"
+msgstr ""
+
+msgid "Friend"
+msgstr ""
+
+msgid "Heartbreak"
+msgstr ""
+
+msgid "Heart"
+msgstr ""
+
+msgid "Howl"
+msgstr ""
+
+msgid "Miner"
+msgstr ""
+
+msgid "Mourner"
+msgstr ""
+
+msgid "Plenty"
+msgstr ""
+
+msgid "Prize"
+msgstr ""
+
+msgid "Sheaf"
+msgstr ""
+
+msgid "Shelter"
+msgstr ""
+
+msgid "Skull"
+msgstr ""
+
+msgid "Snort"
+msgstr ""
+
+msgid "Flow"
+msgstr ""
+
+msgid "Guster"
+msgstr ""
+
+msgid "Scrape"
+msgstr ""
+
+msgid "@1 Pottery Sherd"
+msgstr ""
+
+msgid "Used for crafting decorated pots"
+msgstr ""
+
+msgid "Decorated Pot"
+msgstr ""
+
+msgid "Pots are decorative blocks."
+msgstr ""
+
+msgid "Specially decorated pots can be crafted using pottery sherds"
+msgstr ""
+

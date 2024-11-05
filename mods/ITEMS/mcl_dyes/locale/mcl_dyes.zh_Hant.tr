@@ -1,0 +1,20 @@
+# textdomain: mcl_dyes
+White=白色
+Light Grey=淺灰色
+Grey=灰色
+Black=黑色
+Purple=紫色
+Blue=藍色
+Light Blue=淺藍色
+Cyan=青色
+Green=綠色
+Lime=淺綠色
+Yellow=黃色
+Brown=棕色
+Orange=橘色
+Red=紅色
+Magenta=洋紅色
+Pink=粉紅色
+@1 Dye=@1染料
+This item is a dye which is used for dyeing and crafting.=此物品是一種用於染色和合成的染料。
+Rightclick on a sheep to dye its wool. Other things are dyed by crafting.=右鍵點擊一隻羊來為其羊毛染色。其他東西透過合成染色。

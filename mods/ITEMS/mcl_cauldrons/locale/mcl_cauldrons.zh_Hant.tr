@@ -1,0 +1,8 @@
+# textdomain: mcl_cauldrons
+Cauldron=鍋釜
+Stores water=儲存水
+Cauldrons are used to store water and slowly fill up under rain.=鍋釜是用來儲存水的，在下雨的情況下會慢慢注滿水。
+Place a water bucket into the cauldron to fill it with water. Place an empty bucket on a full cauldron to retrieve the water. Place a water bottle into the cauldron to fill the cauldron to one third with water. Place a glass bottle in a cauldron with water to retrieve one third of the water.=
+Cauldron (@1/3 Water)=鍋釜（@1／3 水）
+Cauldron (@1/3 Lava)=鍋釜（@1／3 熔岩）
+Cauldron (@1/3 River Water)=鍋釜（@1／3 河水）

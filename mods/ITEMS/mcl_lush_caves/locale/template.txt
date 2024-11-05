@@ -1,0 +1,21 @@
+# textdomain: mcl_lush_caves
+Azalea Plant=
+Flowering Azalea Plant=
+Moss=
+Moss is a green block found in lush caves=
+Moss carpet=
+Hanging roots=
+Cave vines=
+Rooted dirt=
+Glow berry=
+This is a food item which can be eaten.=
+Azalea Leaves=
+Leaves of an Azalea tree=
+Flowering Azalea Leaves=
+The Flowering Leaves of an Azalea tree=
+Spore blossom=
+Needs soil and bone meal to grow=
+Azalea=
+Azalea is a small plant which often occurs in lush caves. It can be broken by hand or any tool. By using bone meal, azalea can be turned into an azalea tree.=
+Flowering Azalea=
+Flowering azalea is a small plant which often occurs in lush caves. It can be broken by hand or any tool. By using bone meal, flowering azalea can be turned into an azalea tree.=

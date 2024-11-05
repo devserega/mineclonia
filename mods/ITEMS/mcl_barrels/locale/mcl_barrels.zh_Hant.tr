@@ -1,0 +1,7 @@
+# textdomain: mcl_barrels
+Barrel=木桶
+Inventory=物品欄
+27 inventory slots=27 個物品欄位
+Barrels are containers which provide 27 inventory slots.=木桶是提供 27 個物品欄位的容器。
+To access its inventory, rightclick it. When broken, the items will drop out.=要存取其物品欄，右鍵點擊它。當破壞時，物品會掉落。
+Barrel Open=木桶打開

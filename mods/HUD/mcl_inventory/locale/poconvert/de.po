@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_inventory x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Building Blocks"
+msgstr "Baublöcke"
+
+msgid "Decoration Blocks"
+msgstr "Dekoblöcke"
+
+msgid "Redstone"
+msgstr "Redstone"
+
+msgid "Transportation"
+msgstr "Transport"
+
+msgid "Miscellaneous"
+msgstr "Sonstiges"
+
+msgid "Search Items"
+msgstr "Gegenstände durchsuchen"
+
+msgid "Foodstuffs"
+msgstr "Lebensmittel"
+
+msgid "Tools"
+msgstr "Werkzeuge"
+
+msgid "Combat"
+msgstr "Kampf"
+
+msgid "Mobs"
+msgstr "Mobs"
+
+msgid "Brewing"
+msgstr "Gebräu"
+
+msgid "Materials"
+msgstr "Materialien"
+
+msgid "Survival Inventory"
+msgstr "Überlebensinventar"
+
+msgid "Not in Creative Inventory"
+msgstr "Nicht im Kreativ-Inventar"
+
+msgid "Advancements"
+msgstr "Fortschritte"
+
+msgid "Switch stack size"
+msgstr "Wechsle die Größe des Stapels"
+
+msgid "@1 / @2"
+msgstr "@1 / @2"
+
+msgid "Recipe book"
+msgstr "Fertigungsbuch"
+
+msgid "Help"
+msgstr "Hilfe"
+
+msgid "Select player skin"
+msgstr "Spieleraussehen ändern"
+
+msgid "Crafting"
+msgstr "Fertigen"
+
+msgid "Fill Craft Grid"
+msgstr "Fülle das Fertigungsraster"
+
+msgid "Achievements"
+msgstr "Errungenschaften"
+

@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_mangrove x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Mangrove"
+msgstr "Mangrove"
+
+msgid "Mangrove Roots"
+msgstr "Racines de Palétuvier"
+
+msgid "Mangrove roots are decorative blocks that form as part of mangrove trees."
+msgstr "Les racines de palétuvier sont des blocs décoratifs qui font partie des palétuviers."
+
+msgid "Mangrove Propagule"
+msgstr "Propagule de Palétuvier"
+
+msgid "Needs soil and light to grow"
+msgstr "A besoin de terre et de lumière pour pousser"
+
+msgid "When placed on soil (such as dirt) and exposed to light, an propagule will grow into an mangrove after some time."
+msgstr "Lorsque placé sur la terre et exposée à la lumière, une propagule pousera en palétuvier après un certain temps."
+
+msgid "Hanging Propagule"
+msgstr "Propagule suspendue"
+
+msgid "Grows on Mangrove leaves"
+msgstr "Pousse sur les feuilles de Palétuvier"
+
+msgid "water logged mangrove roots"
+msgstr "racines de palétuvier immergées"
+
+msgid "Mangrove roots, despite being a full block, can be waterlogged and do not flow water out"
+msgstr "Les racines de palétuvier sont un bloc plein mais qui peut être immergé et ne remplace pas l'eau"
+
+msgid "These cannot be crafted yet only occure when get in contact of water."
+msgstr "Elles ne peuvent être fabriquées mais se forment au contact de l'eau."
+
+msgid "Muddy Mangrove Roots"
+msgstr "Racines de Palétuvier Boueuses"
+
+msgid "crafted with Mud and Mangrove roots"
+msgstr "fabriqué avec de la Boue et des racines de Palétuvier"
+
+msgid "Muddy Mangrove Roots is a block from mangrove swamp.It drowns player a bit inside it."
+msgstr "Les Racines de Palétuvier Boueuses sont un bloc du marécage de la mangrove. Il noie un joueur à l'intérieur."
+

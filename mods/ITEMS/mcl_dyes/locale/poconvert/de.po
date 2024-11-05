@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_dyes x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "White"
+msgstr "Weißer"
+
+msgid "Light Grey"
+msgstr "Hellgrauer"
+
+msgid "Grey"
+msgstr "Grauer"
+
+msgid "Black"
+msgstr "Schwarzer"
+
+msgid "Purple"
+msgstr "Violetter"
+
+msgid "Blue"
+msgstr "Blauer"
+
+msgid "Light Blue"
+msgstr "Hellblauer"
+
+msgid "Cyan"
+msgstr "Türkiser"
+
+msgid "Green"
+msgstr "Grüner"
+
+msgid "Lime"
+msgstr "Hellgrüner"
+
+msgid "Yellow"
+msgstr "Gelber"
+
+msgid "Brown"
+msgstr "Brauner"
+
+msgid "Orange"
+msgstr "Oranger"
+
+msgid "Red"
+msgstr "Roter"
+
+msgid "Magenta"
+msgstr "Magenta"
+
+msgid "Pink"
+msgstr "Rosa"
+
+msgid "@1 Dye"
+msgstr "@1 Farbstoff"
+
+msgid "This item is a dye which is used for dyeing and crafting."
+msgstr "Dieser Gegenstand ist ein Farbstoff, der zum Färben und in der Herstellung benutzt werden kann."
+
+msgid "Rightclick on a sheep to dye its wool. Other things are dyed by crafting."
+msgstr "Rechtsklicke ein Schaf, um seine Wolle zu färben. Andere Dinge werden mit der Fertigung eingefärbt."
+

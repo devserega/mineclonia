@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mesecons_pressureplates x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "A pressure plate is a redstone component which supplies its surrounding blocks with redstone power while someone or something rests on top of it."
+msgstr "Eine Druckplatte ist eine Redstonekomponente, die ihre benachbarten Blöcke mit Redstoneenergie versorgt, wenn sich jemand oder etwas auf ihr befindet."
+
+msgid "Provides redstone power when pushed"
+msgstr "Gibt Redstoneenergie, wenn gedrückt"
+
+msgid "Pushable by players, mobs and objects"
+msgstr "Drückbar von Spielern, Mobs und Objekten"
+
+msgid "Pushable by players and mobs"
+msgstr "Drückbar von Spielern und Mobs"
+
+msgid "Pushable by mobs"
+msgstr "Drückbar von Mobs"
+
+msgid "Pushable by players"
+msgstr "Drückbar von Spielern"
+
+msgid "Stone Pressure Plate"
+msgstr "Steindruckplatte"
+
+msgid "A stone pressure plate is a redstone component which supplies its surrounding blocks with redstone power while a player or mob stands on top of it. It is not triggered by anything else."
+msgstr "Eine Steindruckplatte ist eine Redstonekomponente, die ihre benachbarten Blöcke mit Redstoneenergie versorgt, solange sich ein Spieler oder Mob auf ihm befindet. Sie wird von nichts anderem ausgelöst."
+
+msgid "Polished Blackstone Pressure Plate"
+msgstr "Druckplatte aus poliertem Schwarzstein"
+
+msgid "A polished blackstone pressure plate is a redstone component which supplies its surrounding blocks with redstone power while a player or mob stands on top of it. It is not triggered by anything else."
+msgstr "Eine Druckplatte aus poliertem Schwarzstein ist eine Redstone-Komponente, die die umliegenden Blöcke mit Redstone-Energie versorgt, solange ein Spieler oder eine Kreatur auf ihr steht. Sie wird durch nichts anderes ausgelöst."
+

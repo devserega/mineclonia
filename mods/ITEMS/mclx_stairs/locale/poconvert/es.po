@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mclx_stairs x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Lapis Lazuli Stairs"
+msgstr "Escaleras de lapislázuli"
+
+msgid "Lapis Lazuli Slab"
+msgstr "Losa de lapislázuli"
+
+msgid "Gold Stairs"
+msgstr "Escaleras de oro"
+
+msgid "Gold Slab"
+msgstr "Losa de oro"
+
+msgid "Iron Stairs"
+msgstr "Escaleras de hierro"
+
+msgid "Iron Slab"
+msgstr "Losa de hierro"
+
+msgid "Cracked Stone Brick Stairs"
+msgstr "Escaleras de ladrillo de piedra agrietada"
+
+msgid "Cracked Stone Brick Slab"
+msgstr "Losa de ladrillo de piedra agrietada"
+
+msgid "Cracked Deepslate Brick Stairs"
+msgstr "Escaleras de ladrillo de pizarra profunda agrietadas"
+
+msgid "Cracked Deepslate Brick Slab"
+msgstr "Losa de ladrillo de pizarra profunda agrietada"
+
+msgid "Cracked Deepslate Tile Stairs"
+msgstr "Escaleras de baldosas de pizarra profunda agrietadas"
+
+msgid "Cracked Deepslate Tile Slab"
+msgstr "Losa de baldosas de pizarra profunda agrietada"
+
+msgid "End Stone Stairs"
+msgstr "Escaleras de piedra del End"
+
+msgid "End Stone Slab"
+msgstr "Losa de piedra del End"
+
+msgid "Smooth Stone Stairs"
+msgstr "Escaleras de piedra lisa"
+
+msgid "Terracotta Stairs"
+msgstr "Escaleras de terracota"
+
+msgid "Terracotta Slab"
+msgstr "Losa de terracota"
+
+msgid "@1 Concrete Stairs"
+msgstr "Escaleras de hormigón @1"
+
+msgid "@1 Concrete Slab"
+msgstr "Losa de hormigón @1"
+
+msgid "@1 Terracotta Stairs"
+msgstr "Escaleras de terracota @1"
+
+msgid "@1 Terracotta Slab"
+msgstr "Losa de terracota @1"
+
+msgid "Concrete Slab"
+msgstr "Losa de hormigón"
+
+msgid "Double Concrete Slab"
+msgstr "Losa doble de hormigón"
+
+msgid "Concrete Stairs"
+msgstr "Escaleras de hormigón"
+
+msgid "Double Terracotta Slab"
+msgstr "Losa doble de terracota"
+

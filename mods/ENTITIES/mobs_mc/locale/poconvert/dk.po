@@ -1,0 +1,327 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mobs_mc x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: dk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Axolotl"
+msgstr "Salamander"
+
+msgid "Bat"
+msgstr "Flagermus"
+
+msgid "Blaze"
+msgstr "Blaze"
+
+msgid "Chicken"
+msgstr "Kylling"
+
+msgid "Cod"
+msgstr "Torsk"
+
+msgid "Cow"
+msgstr "Ko"
+
+msgid "Mooshroom"
+msgstr "Svamp"
+
+msgid "Creeper"
+msgstr "Creeper"
+
+msgid "Charged Creeper"
+msgstr ""
+
+msgid "Dolphin"
+msgstr "Delfin"
+
+msgid "Ender Dragon"
+msgstr "Enderdrage"
+
+msgid "Enderman"
+msgstr "Enderman"
+
+msgid "Endermite"
+msgstr "Endermide"
+
+msgid "Ghast"
+msgstr "Ghast"
+
+msgid "Ghast Fireball"
+msgstr ""
+
+msgid "Guardian"
+msgstr "Beskytter"
+
+msgid "Elder Guardian"
+msgstr "Gammel beskytter"
+
+msgid "Hoglin"
+msgstr ""
+
+msgid "Zoglin"
+msgstr ""
+
+msgid "Baby Hoglin"
+msgstr ""
+
+msgid "Horse"
+msgstr "Hest"
+
+msgid "Skeleton Horse"
+msgstr "Skelethest"
+
+msgid "Zombie Horse"
+msgstr "Zombiehest"
+
+msgid "Donkey"
+msgstr "Æsel"
+
+msgid "Mule"
+msgstr "Muldyr"
+
+msgid "Sneak to dismount"
+msgstr ""
+
+msgid "Iron Golem"
+msgstr "Jerngolem"
+
+msgid "Llama"
+msgstr "Lama"
+
+msgid "Ocelot"
+msgstr "Ozelot"
+
+msgid "Cat"
+msgstr ""
+
+msgid "Parrot"
+msgstr "Papegøje"
+
+msgid "Pig"
+msgstr "Gris"
+
+msgid "Piglin"
+msgstr ""
+
+msgid "Zombiefied Piglin"
+msgstr ""
+
+msgid "Piglin Brute"
+msgstr ""
+
+msgid "Zombie Piglin"
+msgstr ""
+
+msgid "Pillager"
+msgstr "Plyndrer"
+
+msgid "Polar Bear"
+msgstr "Isbjørn"
+
+msgid "Rabbit"
+msgstr "Kanin"
+
+msgid "Killer Bunny"
+msgstr "Dræberkanin"
+
+msgid "Salmon"
+msgstr "Laks"
+
+msgid "Sheep"
+msgstr "Får"
+
+msgid "Shulker"
+msgstr "Shulker"
+
+msgid "Silverfish"
+msgstr "Sølvfisk"
+
+msgid "Skeleton"
+msgstr "Skelet"
+
+msgid "Stray"
+msgstr "Omstrejfer"
+
+msgid "Wither Skeleton"
+msgstr "Wither-skelet"
+
+msgid "Slime - big"
+msgstr ""
+
+msgid "Slime - small"
+msgstr ""
+
+msgid "Slime - tiny"
+msgstr ""
+
+msgid "Magma Cube - big"
+msgstr ""
+
+msgid "Magma Cube - small"
+msgstr ""
+
+msgid "Magma Cube - tiny"
+msgstr ""
+
+msgid "Magma Cube"
+msgstr "Magmakube"
+
+msgid "Slime"
+msgstr "Slimklump"
+
+msgid "Snow Golem"
+msgstr "Snegolem"
+
+msgid "Spider"
+msgstr "Edderkop"
+
+msgid "Cave Spider"
+msgstr "Huleedderkop"
+
+msgid "Squid"
+msgstr "Blæksprutte"
+
+msgid "Glow Squid"
+msgstr ""
+
+msgid "Strider"
+msgstr ""
+
+msgid "Baby Strider"
+msgstr ""
+
+msgid "Tropical Fish"
+msgstr ""
+
+msgid "Tropical fish"
+msgstr "Tropisk fisk"
+
+msgid "Vex"
+msgstr "Vex"
+
+msgid "Villager"
+msgstr "Landsbyboer"
+
+msgid "Evoker"
+msgstr "Fremkalder"
+
+msgid "Illusioner"
+msgstr "Illusionist"
+
+msgid "Vindicator"
+msgstr "Hævner"
+
+msgid "Zombie Villager"
+msgstr "Zombie landsbyboer"
+
+msgid "@1 sleeps here"
+msgstr ""
+
+msgid "A villager sleeps here"
+msgstr ""
+
+msgid "@1 works here"
+msgstr ""
+
+msgid "A villager works here"
+msgstr ""
+
+msgid "Unemployed"
+msgstr ""
+
+msgid "Farmer"
+msgstr "Landmand"
+
+msgid "Fisherman"
+msgstr "Fisker"
+
+msgid "Fletcher"
+msgstr "Pilemager"
+
+msgid "Shepherd"
+msgstr "Fårehyrde"
+
+msgid "Librarian"
+msgstr "Bibliotikar"
+
+msgid "Cartographer"
+msgstr "Kartograf"
+
+msgid "Armorer"
+msgstr "Rustningesmed"
+
+msgid "Leatherworker"
+msgstr "Læderarbejder"
+
+msgid "Butcher"
+msgstr "Slagter"
+
+msgid "Weapon Smith"
+msgstr "Våbensmed"
+
+msgid "Tool Smith"
+msgstr "Værktøjssmed"
+
+msgid "Cleric"
+msgstr "Gejstlig"
+
+msgid "Mason"
+msgstr ""
+
+msgid "Nitwit"
+msgstr "Tåbe"
+
+msgid "Wandering Trader"
+msgstr ""
+
+msgid "Novice"
+msgstr ""
+
+msgid "Apprentice"
+msgstr ""
+
+msgid "Journeyman"
+msgstr ""
+
+msgid "Expert"
+msgstr ""
+
+msgid "Master"
+msgstr ""
+
+msgid "Witch"
+msgstr "Heks"
+
+msgid "Wither"
+msgstr "Wither"
+
+msgid "Wolf"
+msgstr "Ulv"
+
+msgid "Dog"
+msgstr ""
+
+msgid "Zombie"
+msgstr "Zombie"
+
+msgid "Baby Zombie"
+msgstr ""
+
+msgid "Husk"
+msgstr "Udtørretskal"
+
+msgid "Baby Husk"
+msgstr ""
+
+msgid "Zombified Piglin"
+msgstr ""
+

@@ -1,0 +1,20 @@
+# textdomain: mcl_dyes
+White=blanco
+Light Grey=gris claro
+Grey=gris
+Black=negro
+Purple=morado
+Blue=azul
+Light Blue=azul claro
+Cyan=cian
+Green=verde
+Lime=verde lima
+Yellow=amarillo
+Brown=marrón
+Orange=naranja
+Red=rojo
+Magenta=magenta
+Pink=rosa
+@1 Dye=Tinte @1
+This item is a dye which is used for dyeing and crafting.=Este ítem es un tinte que se utiliza para teñir y elaborar.
+Rightclick on a sheep to dye its wool. Other things are dyed by crafting.=Haga clic derecho sobre una oveja para teñir su lana. Otras cosas pueden ser teñidas mediante el crafteo.

@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_copper x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-08-13 17:09+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.codeberg.org/"
+"projects/mineclonia/mcl_copper/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+
+msgid "Waxed @1"
+msgstr "上蠟的@1"
+
+msgid "Copper Ingot"
+msgstr "銅錠"
+
+msgid "Molten Raw Copper. It is used to craft blocks."
+msgstr "熔化的銅原礦。它用於製作方塊。"
+
+msgid "Raw Copper"
+msgstr "銅原礦"
+
+msgid "Raw Copper. Mine a Copper Ore to get it."
+msgstr ""
+
+msgid "Copper Ore"
+msgstr "銅礦石"
+
+msgid "Some copper contained in stone, it is pretty common and can be found below sea level."
+msgstr ""
+
+msgid "Block of Raw Copper"
+msgstr ""
+
+msgid "A block used for compact raw copper storage."
+msgstr ""
+
+msgid "Exposed"
+msgstr ""
+
+msgid "Weathered"
+msgstr ""
+
+msgid "Oxidized"
+msgstr ""
+
+msgid "Block of"
+msgstr ""
+
+msgid "@1 Copper"
+msgstr "@1銅"
+
+msgid "@1 copper is mostly a decorative block."
+msgstr ""
+
+msgid "@1 Cut Copper"
+msgstr ""
+
+msgid "@1 Chiseled Copper"
+msgstr ""
+
+msgid "@1 Chiseled copper is mostly a decorative block."
+msgstr ""
+
+msgid "@1 Copper Grate"
+msgstr ""
+
+msgid "@1 Copper Bulb On"
+msgstr ""
+
+msgid "@1 Copper Bulb"
+msgstr ""
+
+msgid "@1 Copper Trapdoor"
+msgstr "@1銅活板門"
+
+msgid "@1 Copper Door"
+msgstr "@1銅門"

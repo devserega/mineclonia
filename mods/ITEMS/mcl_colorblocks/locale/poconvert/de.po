@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_colorblocks x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Terracotta is a basic building material. It comes in many different colors."
+msgstr "Terrakotta ist ein Baumaterial. Es gibt es in vielen verschiedenen Farben."
+
+msgid "Glazed terracotta is a decorative block with a complex pattern. It can be rotated by placing it in different directions."
+msgstr "Glasierte Terrakotta ist ein dekorativer Block mit einem komplexen Muster. Sie kann rotiert werden, indem man sie in verschiedene Richtungen platziert."
+
+msgid "Concrete powder is used for creating concrete, but it can also be used as decoration itself. It comes in different colors. Concrete powder turns into concrete of the same color when it comes in contact with water."
+msgstr "Betonpulver wird benutzt, um Beton herzustellen, aber es kann auch selbst als Dekoration benutzt werden. Es kommt in verschiedenen Farben daher. Betonpulver verwandelt sich in Beton der selben Farbe, wenn es mit Wasser in Berührung kommt."
+
+msgid "Concrete is a decorative block which comes in many different colors. It is notable for having a very strong and clean color."
+msgstr "Beton ist ein dekorativer Block, der in verschiedenen Farben daherkommt. Er hat eine besonders kräftige und klare Farbe."
+
+msgid "Turns into concrete on water contact"
+msgstr "Wird zu Beton bei Wasserkontakt"
+
+msgid "Terracotta"
+msgstr "Terrakotta"
+
+msgid "Terracotta is a basic building material which comes in many different colors. This particular block is uncolored."
+msgstr "Terrakotta ist ein Baumaterial, welches in vielen verschiedenen Farben vorkommt. Diese Variante ist ungefärbt."
+
+msgid "@1 Terracotta"
+msgstr "@1 Terrakotta"
+
+msgid "@1 Glazed Terracotta"
+msgstr "@1 Glasierte Terrakotta"
+
+msgid "@1 Concrete Powder"
+msgstr "@1 Betonpulver"
+
+msgid "@1 Concrete"
+msgstr "@1 Beton"
+
+msgid "Colored Terracotta"
+msgstr "Gefärbte Terrakotta"
+
+msgid "Glazed Terracotta"
+msgstr "Glasierte Terrakotta"
+
+msgid "Concrete Powder"
+msgstr "Betonpulver"
+
+msgid "Concrete"
+msgstr "Beton"
+

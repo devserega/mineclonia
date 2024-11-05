@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_bows x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-07-10 13:00+0000\n"
+"Last-Translator: liulitchi <liulitchi@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Simplified) <https://translate.codeberg.org/projects/"
+"mineclonia/mcl_bows/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+
+msgid "Arrow"
+msgstr "箭"
+
+msgid "Ammunition"
+msgstr ""
+
+msgid "Damage from bow: 1-10"
+msgstr ""
+
+msgid "Damage from dispenser: 3"
+msgstr ""
+
+msgid "Arrows are ammunition for bows and dispensers."
+msgstr ""
+
+msgid "An arrow fired from a bow has a regular damage of 1-9. At full charge, there's a 20% chance of a critical hit dealing 10 damage instead. An arrow fired from a dispenser always deals 3 damage."
+msgstr ""
+
+msgid "Arrows might get stuck on solid blocks and can be retrieved again. They are also capable of pushing wooden buttons."
+msgstr ""
+
+msgid "To use arrows as ammunition for a bow, just put them anywhere in your inventory, they will be used up automatically. To use arrows as ammunition for a dispenser, place them in the dispenser's inventory. To retrieve an arrow that sticks in a block, simply walk close to it."
+msgstr ""
+
+msgid "Bow"
+msgstr "弓"
+
+msgid "Bows are ranged weapons to shoot arrows at your foes."
+msgstr ""
+
+msgid "To use the bow, you first need to have at least one arrow anywhere in your inventory (unless in Creative Mode). Hold down the right mouse button (or the zoom key) to charge, release to shoot."
+msgstr ""
+
+msgid "Launches arrows"
+msgstr ""
+
+msgid "The speed and damage of the arrow increases the longer you charge. The regular damage of the arrow is between 1 and 9. At full charge, there's also a 20% of a critical hit, dealing 10 damage instead."
+msgstr ""
+
+msgid "Crossbow"
+msgstr "弩"
+
+msgid "Crossbows are ranged weapons to shoot arrows at your foes."
+msgstr ""
+
+msgid "To use the crossbow, you first need to have at least one arrow anywhere in your inventory (unless in Creative Mode). Hold down the right mouse button (or zoom key) to charge, release to load an arrow into the chamber, then to shoot press left mouse."
+msgstr ""
+
+msgid "To use the crossbow, you first need to have at least one arrow anywhere in your inventory (unless in Creative Mode). Hold down the right mouse button to charge, release to load an arrow into the chamber, then to shoot press left mouse."
+msgstr ""

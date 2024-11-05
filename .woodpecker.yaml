@@ -1,0 +1,8 @@
+steps:
+  luacheck:
+    name: Luacheck
+    image: mineunit/luacheck
+    commands:
+      - luacheck --quiet --std minetest+max --config .luacheckrc mods/
+when:
+  - event: push

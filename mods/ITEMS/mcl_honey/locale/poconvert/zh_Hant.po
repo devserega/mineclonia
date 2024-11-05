@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_honey x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-09-03 04:18+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.codeberg.org/"
+"projects/mineclonia/mcl_honey/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.7\n"
+
+msgid "Honeycomb"
+msgstr "蜂巢"
+
+msgid "Used to craft beehives and protect copper blocks from further oxidation."
+msgstr ""
+
+msgid "Use on copper blocks to prevent further oxidation."
+msgstr ""
+
+msgid "Honeycomb Block"
+msgstr "蜂巢塊"
+
+msgid "Honeycomb Block. Used as a decoration."
+msgstr ""
+
+msgid "Honey Bottle"
+msgstr "蜂蜜瓶"
+
+msgid "Honey Bottle is used to craft honey blocks and to restore hunger points."
+msgstr ""
+
+msgid "Drinking will restore 6 hunger points. Can also be used to craft honey blocks."
+msgstr ""
+
+msgid "Honey Block"
+msgstr "蜂蜜塊"
+
+msgid "Honey Block. Used as a decoration and in redstone. Is sticky on some sides."
+msgstr ""

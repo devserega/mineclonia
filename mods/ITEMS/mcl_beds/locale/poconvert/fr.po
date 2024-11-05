@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_beds x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Beds allow you to sleep at night and make the time pass faster."
+msgstr "Les lits vous permettent de dormir la nuit et de faire passer le temps plus rapidement."
+
+msgid "To use a bed, stand close to it and right-click the bed to sleep in it. Sleeping only works when the sun sets, at night or during a thunderstorm. The bed must also be clear of any danger."
+msgstr "Pour utiliser un lit, tenez-vous près de lui et faites un clic droit sur le lit pour y dormir. Dormir ne fonctionne que lorsque le soleil se couche, la nuit ou pendant un orage. Le lit doit également être à l'abri de tout danger."
+
+msgid "You have heard of other worlds in which a bed would set the start point for your next life. But this world is not one of them."
+msgstr "Vous avez entendu parler d'autres mondes dans lesquels un lit serait le point de départ de votre prochaine vie. Mais ce monde n'en fait pas partie."
+
+msgid "By using a bed, you set the starting point for your next life. If you die, you will start your next life at this bed, unless it is obstructed or destroyed."
+msgstr "En utilisant un lit, vous définissez le point de départ de votre prochaine vie. Si vous mourez, vous commencerez votre prochaine vie dans ce lit, à moins qu'il ne soit obstrué ou détruit."
+
+msgid "In this world, going to bed won't skip the night, but it will skip thunderstorms."
+msgstr "Dans ce monde, aller au lit ne sautera pas la nuit, mais cela évitera les orages."
+
+msgid "Sleeping allows you to skip the night. The night is skipped when all players in this world went to sleep. The night is skipped after sleeping for a few seconds. Thunderstorms can be skipped in the same manner."
+msgstr "Dormir vous permet de sauter la nuit. La nuit est sautée lorsque tous les joueurs de ce monde se sont endormis. La nuit est sautée après avoir dormi quelques secondes. Les orages peuvent être évités de la même manière."
+
+msgid "Allows you to sleep"
+msgstr "Vous permet de dormir"
+
+msgid "Bed"
+msgstr "Lit"
+
+msgid "@1 Bed"
+msgstr "Lit @1"
+
+msgid "You can only sleep at night or during a thunderstorm."
+msgstr "Vous ne pouvez dormir que la nuit ou pendant un orage."
+
+msgid "You can't sleep, the bed's too far away!"
+msgstr "Vous ne pouvez pas dormir, le lit est trop loin !"
+
+msgid "This bed is already occupied!"
+msgstr "Ce lit est déjà occupé !"
+
+msgid "You have to stop moving before going to bed!"
+msgstr "Vous devez arrêter de bouger avant de vous coucher !"
+
+msgid "You can't sleep now, monsters are nearby!"
+msgstr "Vous ne pouvez pas dormir maintenant, les monstres sont à proximité !"
+
+msgid "You can't sleep, the bed is obstructed!"
+msgstr "Vous ne pouvez pas dormir, le lit est obstrué !"
+
+msgid "It's too dangerous to sleep here!"
+msgstr "C'est trop dangereux de dormir ici !"
+
+msgid "Leave bed"
+msgstr "Quitter le lit"
+
+msgid "Abort sleep"
+msgstr "Abandonner le sommeil"
+
+msgid "Chat:"
+msgstr "Chat :"
+
+msgid "send!"
+msgstr "Envoyer !"
+
+msgid "Players in bed: @1/@2"
+msgstr "Joueurs au lit : @1/@2"
+
+msgid "Note: Night skip is disabled."
+msgstr "Remarque : Le saut de nuit est désactivé."
+
+msgid "You're sleeping."
+msgstr "Vous dormez."
+
+msgid "You will fall asleep when all players are in bed."
+msgstr "Vous vous endormirez lorsque tous les joueurs seront au lit."
+
+msgid "You will fall asleep when @1% of all players are in bed."
+msgstr "Vous vous endormirez lorsque @1% de tous les joueurs seront au lit."
+
+msgid "You're in bed."
+msgstr "Vous êtes au lit."
+
+msgid "@1/@2 players currently in bed."
+msgstr "@1/@2 joueurs actuellement couchés."
+
+msgid "You exceeded the maximum number of messages per 10 seconds!"
+msgstr "Vous avez dépassé le nombre maximum de messages par 10 secondes !"
+
+msgid "You are missing the 'shout' privilege! It's required in order to talk in chat..."
+msgstr "Il vous manque le privilège « shout » ! Il est nécessaire pour parler dans le chat..."
+
+msgid "Sorry, but you have to wait @1 seconds until you may use this button again!"
+msgstr "Désolé, mais vous devez attendre @1 secondes avant de pouvoir utiliser à nouveau ce bouton !"
+
+msgid "Hey! Would you guys mind sleeping?"
+msgstr "Hé ! Ça vous dérangerait de dormir ?"
+
+msgid "New respawn position set!"
+msgstr "Nouvelle position de réapparition définie !"
+
+msgid "Respawn Anchor"
+msgstr "Ancre de réapparition"
+

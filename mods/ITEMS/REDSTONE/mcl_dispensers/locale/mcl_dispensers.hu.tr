@@ -1,0 +1,25 @@
+# textdomain: mcl_dispensers
+Dispenser=Adagoló
+Inventory=Eszköztár
+9 inventory slots=9 rekeszű tároló
+Launches item when powered by redstone power=Kilő tárgyakat, amennyiben vöröskő jelet kap
+A dispenser is a block which acts as a redstone component which, when powered with redstone power, dispenses an item. It has a container with 9 inventory slots.=Az Adagoló egy vöröskő szerkezet, amely ha vöröskő jelet kap, kilő egy tárgyat. 9 rekeszes tárolója van.
+Place the dispenser in one of 6 possible directions. The “hole” is where items will fly out of the dispenser. Use the dispenser to access its inventory. Insert the items you wish to dispense. Supply the dispenser with redstone energy once to dispense a random item.=Helyezz el egy Adagolót a hat lehetséges irány valamelyikébe. A "lyukon" keresztül fog a tárgy kirepülni. Használd az Adagolót a tároló eléréséhez. Tedd bele a tárgyakat, amiket ki szeretnél lőni. Vezess bele vöröskő jelet, hogy kilőjön egy véletlenszerűen kiválasztott tárgyat.
+The dispenser will do different things, depending on the dispensed item:=Az Adagoló a beletöltött tárgyak függvényében különbözőképpen viselkedhet:
+• Arrows: Are launched=• Nyilak: kilövi őket
+• Eggs and snowballs: Are thrown=• Tojás és hógolyó: elhajítja őket
+• Fire charges: Are fired in a straight line=• Tűzlabda: egyenes irányba kilövi
+• Armor: Will be equipped to players and armor stands=• Páncélzat: ráadja a játékosra vagy a páncéltartóra
+• Boats: Are placed on water or are dropped=• Csónakok: vízre helyezi vagy kidobja őket
+• Minecart: Are placed on rails or are dropped=• Csillék: sínre helyezi vagy kidobja őket
+• Bone meal: Is applied on the block it is facing=• Csontliszt: rászórja a felé eső blokkra
+• Empty buckets: Are used to collect a liquid source=• Üres vödrök: folyadék forrást gyűjt be vele
+• Filled buckets: Are used to place a liquid source=• Teli vödrök: folyadék forrást helyez el belőle
+• Heads, pumpkins: Equipped to players and armor stands, or placed as a block=• Fejek, tökök: ráadja a játékosra vagy állványzatra vagy blokként elhelyezi
+• Shulker boxes: Are placed as a block=• Kagylapuló héj: blokként elhelyezi
+• TNT: Is placed and ignited=• TNT: elhelyezi és meggyújtja
+• Flint and steel: Is used to ignite a fire in air and to ignite TNT=• Kova és acél: tüzet gyújt vele a levegőben és meggyújtja a TNT-t
+• Spawn eggs: Will summon the mob they contain=• Kelesztő tojás: kikelti a benne rejlő mobot
+• Other items: Are simply dropped=• Egyéb: egyszerűen kidobja
+Downwards-Facing Dispenser=Lefele Néző Adagoló
+Upwards-Facing Dispenser=Felfelé Néző Adagoló

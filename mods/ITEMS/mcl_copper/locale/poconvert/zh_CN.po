@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_copper x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-07-10 13:00+0000\n"
+"Last-Translator: liulitchi <liulitchi@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Simplified) <https://translate.codeberg.org/projects/"
+"mineclonia/mcl_copper/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+
+msgid "Waxed @1"
+msgstr ""
+
+msgid "Copper Ingot"
+msgstr "铜锭"
+
+msgid "Molten Raw Copper. It is used to craft blocks."
+msgstr ""
+
+msgid "Raw Copper"
+msgstr "粗铜"
+
+msgid "Raw Copper. Mine a Copper Ore to get it."
+msgstr ""
+
+msgid "Copper Ore"
+msgstr "铜矿石"
+
+msgid "Some copper contained in stone, it is pretty common and can be found below sea level."
+msgstr ""
+
+msgid "Block of Raw Copper"
+msgstr "粗铜块"
+
+msgid "A block used for compact raw copper storage."
+msgstr ""
+
+msgid "Block of Copper"
+msgstr "铜块"
+
+msgid "A block of copper is mostly a decorative block."
+msgstr ""
+
+msgid "Exposed Copper"
+msgstr "斑驳铜块"
+
+msgid "Exposed copper is a decorative block."
+msgstr ""
+
+msgid "Weathered Copper"
+msgstr "锈蚀铜块"
+
+msgid "Weathered copper is a decorative block."
+msgstr ""
+
+msgid "Oxidized Copper"
+msgstr "氧化铜块"
+
+msgid "Oxidized copper is a decorative block."
+msgstr ""
+
+msgid "Cut Copper"
+msgstr "切制铜块"
+
+msgid "Cut copper is a decorative block."
+msgstr ""
+
+msgid "Exposed Cut Copper"
+msgstr "斑驳切制铜块"
+
+msgid "Exposed cut copper is a decorative block."
+msgstr ""
+
+msgid "Weathered Cut Copper"
+msgstr "锈蚀切制铜块"
+
+msgid "Weathered cut copper is a decorative block."
+msgstr ""
+
+msgid "Oxidized Cut Copper"
+msgstr "氧化切制铜块"
+
+msgid "Oxidized cut copper is a decorative block."
+msgstr ""

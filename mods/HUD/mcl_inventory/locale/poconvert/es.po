@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_inventory x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Building Blocks"
+msgstr "Bloques de construcción"
+
+msgid "Decoration Blocks"
+msgstr "Bloques de decoración"
+
+msgid "Redstone"
+msgstr "Redstone"
+
+msgid "Transportation"
+msgstr "Transporte"
+
+msgid "Miscellaneous"
+msgstr "Varios"
+
+msgid "Search Items"
+msgstr "Buscar ítems"
+
+msgid "Foodstuffs"
+msgstr "Comidas y bebidas"
+
+msgid "Tools"
+msgstr "Herramientas"
+
+msgid "Combat"
+msgstr "Combate"
+
+msgid "Mobs"
+msgstr "Mobs"
+
+msgid "Brewing"
+msgstr "Alquimia"
+
+msgid "Materials"
+msgstr "Materiales"
+
+msgid "Survival Inventory"
+msgstr "Inventario de supervivencia"
+
+msgid "Not in Creative Inventory"
+msgstr "No está en el Inventario Creativo"
+
+msgid "Advancements"
+msgstr "Logros"
+
+msgid "Switch stack size"
+msgstr "Cambiar la cantidad de ítems por stack"
+
+msgid "@1 / @2"
+msgstr "@1 / @2"
+
+msgid "Recipe book"
+msgstr "Libro de recetas"
+
+msgid "Help"
+msgstr "Ayuda"
+
+msgid "Select player skin"
+msgstr "Seleccionar skin"
+
+msgid "Crafting"
+msgstr "Crafteo"
+
+msgid "Fill Craft Grid"
+msgstr "Llenar la cuadrícula de crafteo"
+
+msgid "Achievements"
+msgstr "Logros"
+

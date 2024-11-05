@@ -1,0 +1,327 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mobs_mc x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Axolotl"
+msgstr "Axolotl"
+
+msgid "Bat"
+msgstr "Denevér"
+
+msgid "Blaze"
+msgstr "Őrláng"
+
+msgid "Chicken"
+msgstr "Csirke"
+
+msgid "Cod"
+msgstr "Tőkehal"
+
+msgid "Cow"
+msgstr "Tehén"
+
+msgid "Mooshroom"
+msgstr "Múúmba"
+
+msgid "Creeper"
+msgstr "Lopódzó"
+
+msgid "Charged Creeper"
+msgstr "Feltöltött Lopódzó"
+
+msgid "Dolphin"
+msgstr "Delfin"
+
+msgid "Ender Dragon"
+msgstr "Végzetsárkány"
+
+msgid "Enderman"
+msgstr "Bevégző"
+
+msgid "Endermite"
+msgstr "Végbogár"
+
+msgid "Ghast"
+msgstr "Szellem"
+
+msgid "Ghast Fireball"
+msgstr "Tűzgolyó"
+
+msgid "Guardian"
+msgstr "Őrszem"
+
+msgid "Elder Guardian"
+msgstr "Vén Őrszem"
+
+msgid "Hoglin"
+msgstr "Varacskos"
+
+msgid "Zoglin"
+msgstr "Zord Varacskos"
+
+msgid "Baby Hoglin"
+msgstr "Varacskos Malac"
+
+msgid "Horse"
+msgstr "Ló"
+
+msgid "Skeleton Horse"
+msgstr "Csontváz Ló"
+
+msgid "Zombie Horse"
+msgstr "Zombi Ló"
+
+msgid "Donkey"
+msgstr "Szamár"
+
+msgid "Mule"
+msgstr "Öszvér"
+
+msgid "Sneak to dismount"
+msgstr "Guggolj, hogy leszereld"
+
+msgid "Iron Golem"
+msgstr "Vas Gólem"
+
+msgid "Llama"
+msgstr "Láma"
+
+msgid "Ocelot"
+msgstr "Párducmacska"
+
+msgid "Cat"
+msgstr "Macska"
+
+msgid "Parrot"
+msgstr "Papagáj"
+
+msgid "Pig"
+msgstr "Malac"
+
+msgid "Piglin"
+msgstr "Malacfej"
+
+msgid "Zombiefied Piglin"
+msgstr "Zombi Malacfej"
+
+msgid "Piglin Brute"
+msgstr "Durva Malacfej"
+
+msgid "Zombie Piglin"
+msgstr "Élőhalott Piglin"
+
+msgid "Pillager"
+msgstr "Rabló"
+
+msgid "Polar Bear"
+msgstr "Jegesmedve"
+
+msgid "Rabbit"
+msgstr "Nyúl"
+
+msgid "Killer Bunny"
+msgstr "Vérnyúl"
+
+msgid "Salmon"
+msgstr "Lazac"
+
+msgid "Sheep"
+msgstr "Bárány"
+
+msgid "Shulker"
+msgstr "Kagylapuló"
+
+msgid "Silverfish"
+msgstr "Ezüsthal"
+
+msgid "Skeleton"
+msgstr "Csontváz"
+
+msgid "Stray"
+msgstr "Jégjáró"
+
+msgid "Wither Skeleton"
+msgstr "Sorvasztó Csontváz"
+
+msgid "Slime - big"
+msgstr "Zselé - nagy"
+
+msgid "Slime - small"
+msgstr "Zselé - kicsi"
+
+msgid "Slime - tiny"
+msgstr "Zselé - parány"
+
+msgid "Magma Cube - big"
+msgstr "Magma Kocka - nagy"
+
+msgid "Magma Cube - small"
+msgstr "Magma Kocka - kicsi"
+
+msgid "Magma Cube - tiny"
+msgstr "Magma Kocka - apró"
+
+msgid "Magma Cube"
+msgstr "Magma Kocka"
+
+msgid "Slime"
+msgstr "Zselé"
+
+msgid "Snow Golem"
+msgstr "Hógólem"
+
+msgid "Spider"
+msgstr "Pók"
+
+msgid "Cave Spider"
+msgstr "Barlangi Pók"
+
+msgid "Squid"
+msgstr "Tintahal"
+
+msgid "Glow Squid"
+msgstr "Fénylő Tintahal"
+
+msgid "Strider"
+msgstr "Álomfutó"
+
+msgid "Baby Strider"
+msgstr "Álomfutócska"
+
+msgid "Tropical Fish"
+msgstr "Trópusi Hal"
+
+msgid "Tropical fish"
+msgstr "Trópusi hal"
+
+msgid "Vex"
+msgstr "Bosszancs"
+
+msgid "Villager"
+msgstr "Falusi"
+
+msgid "Evoker"
+msgstr "Idéző"
+
+msgid "Illusioner"
+msgstr "Szemfényvesztő"
+
+msgid "Vindicator"
+msgstr "Védelmező"
+
+msgid "Zombie Villager"
+msgstr "Zombi Falulakó"
+
+msgid "@1 sleeps here"
+msgstr "@1 itt alszik"
+
+msgid "A villager sleeps here"
+msgstr "Itt alszik egy falusi"
+
+msgid "@1 works here"
+msgstr "@1 itt dolgozik"
+
+msgid "A villager works here"
+msgstr "Itt dolgozik egy falubeli"
+
+msgid "Unemployed"
+msgstr "Munkanélküli"
+
+msgid "Farmer"
+msgstr "Földműves"
+
+msgid "Fisherman"
+msgstr "Halász"
+
+msgid "Fletcher"
+msgstr "Nyílkészitő"
+
+msgid "Shepherd"
+msgstr "Juhász"
+
+msgid "Librarian"
+msgstr "Könyvtáros"
+
+msgid "Cartographer"
+msgstr "Térképész"
+
+msgid "Armorer"
+msgstr "Pajzs Kovács"
+
+msgid "Leatherworker"
+msgstr "Tímár"
+
+msgid "Butcher"
+msgstr "Mészáros"
+
+msgid "Weapon Smith"
+msgstr "Fegyver Kovács"
+
+msgid "Tool Smith"
+msgstr "Eszköz Kovács"
+
+msgid "Cleric"
+msgstr "Pap"
+
+msgid "Mason"
+msgstr "Kőműves"
+
+msgid "Nitwit"
+msgstr "Falu Bolondja"
+
+msgid "Wandering Trader"
+msgstr "Vándor Kereskedő"
+
+msgid "Novice"
+msgstr "Kezdő"
+
+msgid "Apprentice"
+msgstr "Tanuló"
+
+msgid "Journeyman"
+msgstr "Kereskedő"
+
+msgid "Expert"
+msgstr "Szakértő"
+
+msgid "Master"
+msgstr "Mester"
+
+msgid "Witch"
+msgstr "Boszi"
+
+msgid "Wither"
+msgstr "Sorvasztó"
+
+msgid "Wolf"
+msgstr "Farkas"
+
+msgid "Dog"
+msgstr "Kutya"
+
+msgid "Zombie"
+msgstr "Zombi"
+
+msgid "Baby Zombie"
+msgstr "Bébi Zombi"
+
+msgid "Husk"
+msgstr "Sivatagi Zombi"
+
+msgid "Baby Husk"
+msgstr "Sivatagi Zombika"
+
+msgid "Zombified Piglin"
+msgstr "Malacfej Zombi"
+

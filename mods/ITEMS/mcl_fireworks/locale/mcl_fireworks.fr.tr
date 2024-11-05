@@ -1,0 +1,6 @@
+# textdomain: mcl_fireworks
+Firework Rocket=Fusée de Feu d'Artifice
+@1s power left. Not using rocket.=@1s puissance restante. Fusée non utilisée.
+Elytra not deployed. Jump while falling down to deploy.=Élytres non déployées. Sautez au cours d'une chute pour les déployer.
+Elytra not equipped.=Élytres non équipées.
+Flight Duration: @1s=Durée du vol : @1s

@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_villages x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-08-26 12:08+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.codeberg.org/"
+"projects/mineclonia/mcl_villages/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.7\n"
+
+msgid "Crop type @1 is not supported"
+msgstr "不支援作物類型 @1"
+
+msgid "The timer for this @1 has not run yet!"
+msgstr ""
+
+msgid "A villager sleeps here"
+msgstr ""
+
+msgid "Prevent paths from being placed during villager generation. Replaced by air after village path generation"
+msgstr ""
+
+msgid "Mark the node as a good place for paths to connect to"
+msgstr ""
+
+msgid "A place to plant @1 crops"
+msgstr ""

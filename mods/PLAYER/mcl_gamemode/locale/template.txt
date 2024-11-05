@@ -1,0 +1,6 @@
+# textdomain: mcl_gamemode
+[<gamemode>] [<player>]=
+Change gamemode (survival/creative) for yourself or player=
+Player not online=
+Failed to set Gamemode @1 for player @2=
+Gamemode for player @1: @2=

@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_bamboo x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-08-12 07:19+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.codeberg.org/"
+"projects/mineclonia/mcl_bamboo/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+
+msgid "Bamboo Raft"
+msgstr "竹筏"
+
+msgid "Chest Bamboo Raft"
+msgstr "竹筏連箱子"
+
+msgid "Bamboo"
+msgstr "竹子"
+
+msgid "Bamboo Plant"
+msgstr "竹子植株"
+
+msgid "Bamboo Mosaic Plank"
+msgstr ""
+
+msgid "Scaffolding"
+msgstr "鷹架"
+
+msgid "Scaffolding is a temporary structure to easily climb up while building that is easily removed"
+msgstr "鷹架是一種臨時結構，在建築時可以輕鬆攀爬，並且易於拆除"
+
+msgid "Scaffolding horizontal"
+msgstr ""
+
+msgid "Scaffolding block..."
+msgstr ""

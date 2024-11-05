@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_comparators x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-08-13 17:09+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.codeberg.org/"
+"projects/mineclonia/mcl_comparators/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+
+msgid "Redstone comparators are multi-purpose redstone components."
+msgstr "紅石比較器是多用途紅石元件。"
+
+msgid "They can transmit a redstone signal, detect whether a block contains any items and compare multiple signals."
+msgstr ""
+
+msgid "A redstone comparator has 1 main input, 2 side inputs and 1 output. The output is in arrow direction, the main input is in the opposite direction. The other 2 sides are the side inputs."
+msgstr ""
+
+msgid "The main input can powered in 2 ways: First, it can be powered directly by redstone power like any other component. Second, it is powered if, and only if a container (like a chest) is placed in front of it and the container contains at least one item."
+msgstr ""
+
+msgid "The side inputs are only powered by normal redstone power. The redstone comparator can operate in two modes: Transmission mode and subtraction mode. It starts in transmission mode and the mode can be changed by using the block."
+msgstr ""
+
+msgid "Transmission mode:\n"
+"The front torch is unlit and lowered. The output is powered if, and only if the main input is powered. The two side inputs are ignored."
+msgstr ""
+
+msgid "Subtraction mode:\n"
+"The front torch is lit. The output is powered if, and only if the main input is powered and none of the side inputs is powered."
+msgstr ""
+
+msgid "Redstone Comparator"
+msgstr "紅石比較器"
+
+msgid "Redstone Comparator (Powered)"
+msgstr ""
+
+msgid "Redstone Comparator (Subtract)"
+msgstr "紅石比較器（作差）"
+
+msgid "Redstone Comparator (Subtract, Powered)"
+msgstr ""

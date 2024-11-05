@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_armor x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "This is a piece of equippable armor which reduces the amount of damage you receive."
+msgstr "Это часть надеваемой брони, уменьшающая получаемый вами урон."
+
+msgid "To equip it, put it on the corresponding armor slot in your inventory menu."
+msgstr "Чтобы надеть, поместите в соответствующий слот брони в вашем инвентаря."
+
+msgid "Leather Cap"
+msgstr "Кожаная кепка"
+
+msgid "Leather Tunic"
+msgstr "Кожаная туника"
+
+msgid "Leather Pants"
+msgstr "Кожаные брюки"
+
+msgid "Leather Boots"
+msgstr "Кожаные сапоги"
+
+msgid "Colorize a piece of leather armor, or wash it"
+msgstr "Раскрасьте кожаную броню или почистите ее"
+
+msgid "Not leather armor."
+msgstr "Не кожаные доспехи."
+
+msgid "Washed."
+msgstr "Вымытый."
+
+msgid "Done: @1"
+msgstr "Выполнено: @1"
+
+msgid "Player isn't online"
+msgstr "Игрок не в сети"
+
+msgid "Golden Helmet"
+msgstr "Золотой шлем"
+
+msgid "Golden Chestplate"
+msgstr "Золотая кираса"
+
+msgid "Golden Leggings"
+msgstr "Золотые поножи"
+
+msgid "Golden Boots"
+msgstr "Золотые ботинки"
+
+msgid "Chainmail Helmet"
+msgstr "Кольчужный шлем"
+
+msgid "Chainmail Chestplate"
+msgstr "Кольчужный нагрудник"
+
+msgid "Chainmail Leggings"
+msgstr "Кольчужные леггинсы"
+
+msgid "Chainmail Boots"
+msgstr "Кольчужные сапоги"
+
+msgid "Iron Helmet"
+msgstr "Железный шлем"
+
+msgid "Iron Chestplate"
+msgstr "Железная кираса"
+
+msgid "Iron Leggings"
+msgstr "Железные поножи"
+
+msgid "Iron Boots"
+msgstr "Железные ботинки"
+
+msgid "Diamond Helmet"
+msgstr "Алмазный шлем"
+
+msgid "Diamond Chestplate"
+msgstr "Алмазная кираса"
+
+msgid "Diamond Leggings"
+msgstr "Алмазные поножи"
+
+msgid "Diamond Boots"
+msgstr "Алмазные ботинки"
+
+msgid "Netherite Helmet"
+msgstr "Незеритовый шлем"
+
+msgid "Netherite Chestplate"
+msgstr "Незеритовая кираса"
+
+msgid "Netherite Leggings"
+msgstr "Незеритовые поножи"
+
+msgid "Netherite Boots"
+msgstr "Незеритовые ботинки"
+
+msgid "Projectile Protection"
+msgstr "Защита от снарядов"
+
+msgid "Reduces projectile damage."
+msgstr "Уменьшает урон от летящих снарядов."
+
+msgid "Blast Protection"
+msgstr "Взрывоустойчивость"
+
+msgid "Reduces explosion damage and knockback."
+msgstr "Уменьшает урон и отбрасывание от взрывов."
+
+msgid "Fire Protection"
+msgstr "Огнеупорность"
+
+msgid "Reduces fire damage."
+msgstr "Уменьшает урон от огня."
+
+msgid "Protection"
+msgstr "Защита"
+
+msgid "Reduces most types of damage by 4% for each level."
+msgstr "Уменьшает большинство типов урона на 4% за каждый уровень."
+
+msgid "Feather Falling"
+msgstr "Невесомость"
+
+msgid "Reduces fall damage."
+msgstr "Уменьшает урон от падения."
+
+msgid "Aqua Affinity"
+msgstr "Подводник"
+
+msgid "Increases underwater mining speed."
+msgstr "Увеличивает скорость добычи под водой."
+
+msgid "Curse of Binding"
+msgstr "Проклятие несъёмности"
+
+msgid "Item cannot be removed from armor slots except due to death, breaking or in Creative Mode."
+msgstr "Броню нельзя снять из слота, кроме как умерев, сломав или в режиме творчества."
+
+msgid "Thorns"
+msgstr "Шипы"
+
+msgid "Reflects some of the damage taken when hit, at the cost of reducing durability with each proc."
+msgstr "Отражает немного полученного урона при ударе ценой снижения прочности при срабатывании."
+
+msgid "Elytra"
+msgstr "Элитра"
+
+msgid "Smithing Template"
+msgstr "Кузнечный шаблон"
+
+msgid "@1 Armor Trim"
+msgstr "@1 Окантовка брони"
+
+msgid "Applies to:"
+msgstr "Применяется для:"
+
+msgid "Armor"
+msgstr "Броня"
+
+msgid "Ingredients:"
+msgstr "Ингредиенты:"
+
+msgid "Ingot & Crystals"
+msgstr "Слитки и кристаллы"
+

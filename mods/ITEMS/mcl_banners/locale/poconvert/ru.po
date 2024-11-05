@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_banners x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "White Banner"
+msgstr "Белый флаг"
+
+msgid "White"
+msgstr "Белый"
+
+msgid "Grey Banner"
+msgstr "Серый флаг"
+
+msgid "Grey"
+msgstr "Серый"
+
+msgid "Light Grey Banner"
+msgstr "Светло-серый флаг"
+
+msgid "Light Grey"
+msgstr "Светло-серый"
+
+msgid "Black Banner"
+msgstr "Чёрный флаг"
+
+msgid "Black"
+msgstr "Черный"
+
+msgid "Red Banner"
+msgstr "Красный флаг"
+
+msgid "Red"
+msgstr "Красный"
+
+msgid "Yellow Banner"
+msgstr "Жёлтый флаг"
+
+msgid "Yellow"
+msgstr "Желтый"
+
+msgid "Green Banner"
+msgstr "Зелёный флаг"
+
+msgid "Green"
+msgstr "Зеленый"
+
+msgid "Cyan Banner"
+msgstr "Бирюзовый флаг"
+
+msgid "Cyan"
+msgstr "Циановый"
+
+msgid "Blue Banner"
+msgstr "Синий флаг"
+
+msgid "Blue"
+msgstr "Синий"
+
+msgid "Magenta Banner"
+msgstr "Сиреневый флаг"
+
+msgid "Magenta"
+msgstr "Сиреневый"
+
+msgid "Orange Banner"
+msgstr "Оранжевый флаг"
+
+msgid "Orange"
+msgstr "Оранжевый"
+
+msgid "Purple Banner"
+msgstr "Фиолетовый флаг"
+
+msgid "Violet"
+msgstr "Фиолетовый"
+
+msgid "Brown Banner"
+msgstr "Коричневый флаг"
+
+msgid "Brown"
+msgstr "Коричневый"
+
+msgid "Pink Banner"
+msgstr "Розовый флаг"
+
+msgid "Pink"
+msgstr "Розовый"
+
+msgid "Lime Banner"
+msgstr "Лаймовый флаг"
+
+msgid "Lime"
+msgstr "Лаймовый"
+
+msgid "Light Blue Banner"
+msgstr "Голубой флаг"
+
+msgid "Light Blue"
+msgstr "Голубой"
+
+msgid "Banner"
+msgstr "Флаг"
+
+msgid "Banners are tall colorful decorative blocks. They can be placed on the floor and at walls. Banners can be emblazoned with a variety of patterns using a lot of dye in crafting."
+msgstr "Флаги - высокие цветные декоративные блоки. Их можно размещать на полу и на стенах. Флаги можно украшать разнообразными узорами при помощью красителей во время создания."
+
+msgid "Use crafting to draw a pattern on top of the banner. Emblazoned banners can be emblazoned again to combine various patterns. You can draw up to 12 layers on a banner that way. If the banner includes a gradient, only 3 layers are possible."
+msgstr "Используйте сетку крафта, чтобы нарисовать узор поверх флага. Украшенные флаги можно украсить повторно, чтобы сочетать разные узоры. Таким способом вы можете нарисовать до 12 слоев на одном флаге. Если флаг содержит градиент, возможно только 3 слоя."
+
+msgid "You can copy the pattern of a banner by placing two banners of the same color in the crafting grid—one needs to be emblazoned, the other one must be clean. Finally, you can use a banner on a cauldron with water to wash off its top-most layer."
+msgstr "Вы можете скопировать рисунок флага, поместив два флага одного цвета в сетку крафта - один должен быть украшенный, другой - чистый. Вы можете использовать флаг на котле с водой, чтобы смыть верхний слой."
+
+msgid "@1 Banner"
+msgstr "@1 флаг"
+
+msgid "Preview Banner"
+msgstr "Предпросмотр баннера"
+
+msgid "Paintable decoration"
+msgstr "Раскрашиваемая декорация"
+
+msgid "Can be used to craft special banner designs on the loom"
+msgstr "Можно использовать для изготовления специальных флагов на ткацком станке"
+
+msgid "Special Banner Pattern"
+msgstr "Специальный флаговый узор"
+
+msgid "@1 Bordure"
+msgstr "@1 простая кайма"
+
+msgid "@1 Bricks"
+msgstr "@1 кирпичный фон"
+
+msgid "@1 Roundel"
+msgstr "@1 круг в центре"
+
+msgid "@1 Creeper Charge"
+msgstr "@1 лицо крипера"
+
+msgid "@1 Saltire"
+msgstr "@1 диагональный крест"
+
+msgid "@1 Bordure Indented"
+msgstr "@1 рельефная кайма"
+
+msgid "@1 Per Bend Inverted"
+msgstr "@1 нижняя левая половина"
+
+msgid "@1 Per Bend Sinister Inverted"
+msgstr "@1 нижняя правая половина"
+
+msgid "@1 Per Bend"
+msgstr "@1 верхняя правая половина"
+
+msgid "@1 Per Bend Sinister"
+msgstr "@1 верхняя левая половина"
+
+msgid "@1 Flower Charge"
+msgstr "@1 цветок"
+
+msgid "@1 Gradient"
+msgstr "@1 верхний градиент"
+
+msgid "@1 Base Gradient"
+msgstr "@1 нижний градиент"
+
+msgid "@1 Per Fess Inverted"
+msgstr "@1 нижняя половина"
+
+msgid "@1 Per Fess"
+msgstr "@1 верхняя половина"
+
+msgid "@1 Per Pale"
+msgstr "@1 левая половина"
+
+msgid "@1 Per Pale Inverted"
+msgstr "@1 правая половина"
+
+msgid "@1 Thing Charge"
+msgstr "@1 нечто"
+
+msgid "@1 Globe Charge"
+msgstr "@1 Заряженный глобус"
+
+msgid "@1 Piglin Charge"
+msgstr "@1 Заряженный Пиглин"
+
+msgid "@1 Lozenge"
+msgstr "@1 Ромб в центре"
+
+msgid "@1 Skull Charge"
+msgstr "@1 Весёлый Роджер"
+
+msgid "@1 Paly"
+msgstr "@1 продольные полосы"
+
+msgid "@1 Base Dexter Canton"
+msgstr "@1 нижний левый угол"
+
+msgid "@1 Base Sinister Canton"
+msgstr "@1 нижний правый угол"
+
+msgid "@1 Chief Dexter Canton"
+msgstr "@1 верхний левый угол"
+
+msgid "@1 Chief Sinister Canton"
+msgstr "@1 верхний правый угол"
+
+msgid "@1 Cross"
+msgstr "@1 крест"
+
+msgid "@1 Base"
+msgstr "@1 треть снизу"
+
+msgid "@1 Pale"
+msgstr "@1 вертикальная центральная линия"
+
+msgid "@1 Bend Sinister"
+msgstr "@1 диагональная линия сверху справа"
+
+msgid "@1 Bend"
+msgstr "@1 диагональная линия сверху слева"
+
+msgid "@1 Pale Dexter"
+msgstr "@1 треть слева"
+
+msgid "@1 Fess"
+msgstr "@1 Разделение"
+
+msgid "@1 Pale Sinister"
+msgstr "@1 треть справа"
+
+msgid "@1 Chief"
+msgstr "@1 треть сверху"
+
+msgid "@1 Chevron"
+msgstr "@1 треугольник снизу"
+
+msgid "@1 Chevron Inverted"
+msgstr "@1 треугольник сверху"
+
+msgid "@1 Base Indented"
+msgstr "@1 гребешки снизу"
+
+msgid "@1 Chief Indented"
+msgstr "@1 гребешки сверху"
+
+msgid "@1 Flow"
+msgstr "@1 Поток"
+
+msgid "@1 Guster"
+msgstr "@1 Гаст"
+
+msgid "And one additional layer"
+msgstr "И один дополнительный слой"
+
+msgid "And @1 additional layers"
+msgstr "И @1 дополнительных слоёв"
+

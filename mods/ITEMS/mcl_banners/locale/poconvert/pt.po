@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_banners x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "White Banner"
+msgstr "Estandarte Branco"
+
+msgid "White"
+msgstr "Branco"
+
+msgid "Grey Banner"
+msgstr "Estandarte cinza"
+
+msgid "Grey"
+msgstr "Cinza"
+
+msgid "Light Grey Banner"
+msgstr "Estandarte cinza-claro"
+
+msgid "Light Grey"
+msgstr "Cinza-claro"
+
+msgid "Black Banner"
+msgstr "Estandarte preto"
+
+msgid "Black"
+msgstr "Preto"
+
+msgid "Red Banner"
+msgstr "Estandarte vermelho"
+
+msgid "Red"
+msgstr "Vermelho"
+
+msgid "Yellow Banner"
+msgstr "Estandarte amarelo"
+
+msgid "Yellow"
+msgstr "Amarelo"
+
+msgid "Green Banner"
+msgstr "Estandarte verde"
+
+msgid "Green"
+msgstr "Verde"
+
+msgid "Cyan Banner"
+msgstr "Estandarte ciano"
+
+msgid "Cyan"
+msgstr "Ciano"
+
+msgid "Blue Banner"
+msgstr "Estandarte azul"
+
+msgid "Blue"
+msgstr "Azul"
+
+msgid "Magenta Banner"
+msgstr "Estandarte magenta"
+
+msgid "Magenta"
+msgstr "Magenta"
+
+msgid "Orange Banner"
+msgstr "Estandarte laranja"
+
+msgid "Orange"
+msgstr "Laranja"
+
+msgid "Purple Banner"
+msgstr "Estandarte roxo"
+
+msgid "Violet"
+msgstr "Roxo"
+
+msgid "Brown Banner"
+msgstr "Estandarte marrom"
+
+msgid "Brown"
+msgstr "Marrom"
+
+msgid "Pink Banner"
+msgstr "Estandarte rosa"
+
+msgid "Pink"
+msgstr "Rosa"
+
+msgid "Lime Banner"
+msgstr "Estandarte lima"
+
+msgid "Lime"
+msgstr "Lima"
+
+msgid "Light Blue Banner"
+msgstr "Estandarte azul-claro"
+
+msgid "Light Blue"
+msgstr "Azul-claro"
+
+msgid "Banner"
+msgstr "Estandarte"
+
+msgid "Banners are tall colorful decorative blocks. They can be placed on the floor and at walls. Banners can be emblazoned with a variety of patterns using a lot of dye in crafting."
+msgstr "Estandartes são altos blocos decorativos coloridos. Eles podem ser colocados no piso e nas paredes. Estandartes podem ser estampados com uma variedade de padrões usando um monte de cores na fabricação."
+
+msgid "Use crafting to draw a pattern on top of the banner. Emblazoned banners can be emblazoned again to combine various patterns. You can draw up to 12 layers on a banner that way. If the banner includes a gradient, only 3 layers are possible."
+msgstr ""
+
+msgid "You can copy the pattern of a banner by placing two banners of the same color in the crafting grid—one needs to be emblazoned, the other one must be clean. Finally, you can use a banner on a cauldron with water to wash off its top-most layer."
+msgstr ""
+
+msgid "@1 Banner"
+msgstr ""
+
+msgid "Preview Banner"
+msgstr ""
+
+msgid "Paintable decoration"
+msgstr ""
+
+msgid "Can be used to craft special banner designs on the loom"
+msgstr ""
+
+msgid "Special Banner Pattern"
+msgstr ""
+
+msgid "@1 Bordure"
+msgstr "@1 Borda"
+
+msgid "@1 Bricks"
+msgstr "@1 Tijolos"
+
+msgid "@1 Roundel"
+msgstr "@1 Círculo central"
+
+msgid "@1 Creeper Charge"
+msgstr "@1 Creeper"
+
+msgid "@1 Saltire"
+msgstr "@1 Cruz diagonal"
+
+msgid "@1 Bordure Indented"
+msgstr "@1 Borda encaracolada"
+
+msgid "@1 Per Bend Inverted"
+msgstr "@1 Esquerda da diagonal"
+
+msgid "@1 Per Bend Sinister Inverted"
+msgstr "@1 Direita da diagonal invertida"
+
+msgid "@1 Per Bend"
+msgstr "@1 Direita da diagonal"
+
+msgid "@1 Per Bend Sinister"
+msgstr "@1 Esquerda da diagonal invertida"
+
+msgid "@1 Flower Charge"
+msgstr "@1 Flor"
+
+msgid "@1 Gradient"
+msgstr "@1 Gradiente"
+
+msgid "@1 Base Gradient"
+msgstr "@1 Gradiente invertido"
+
+msgid "@1 Per Fess Inverted"
+msgstr "@1 Metade horizontal inferior"
+
+msgid "@1 Per Fess"
+msgstr "@1 Metade horizontal superior"
+
+msgid "@1 Per Pale"
+msgstr "@1 Metade vertical esquerda"
+
+msgid "@1 Per Pale Inverted"
+msgstr "@1 Metade vertical direita"
+
+msgid "@1 Thing Charge"
+msgstr "@1 Coisa"
+
+msgid "@1 Globe Charge"
+msgstr "@1 Globo"
+
+msgid "@1 Piglin Charge"
+msgstr "@1 Piglin"
+
+msgid "@1 Lozenge"
+msgstr "@1 Losango central"
+
+msgid "@1 Skull Charge"
+msgstr "@1 Crânio"
+
+msgid "@1 Paly"
+msgstr "@1 Listras pequenas verticais"
+
+msgid "@1 Base Dexter Canton"
+msgstr "@1 Canto inferior esquerdo"
+
+msgid "@1 Base Sinister Canton"
+msgstr "@1 Canto inferior direito"
+
+msgid "@1 Chief Dexter Canton"
+msgstr "@1 Canto superior esquerdo"
+
+msgid "@1 Chief Sinister Canton"
+msgstr "@1 Canto superior direito"
+
+msgid "@1 Cross"
+msgstr "@1 Cruz"
+
+msgid "@1 Base"
+msgstr "@1 Listra inferior"
+
+msgid "@1 Pale"
+msgstr "@1 Listra central vertical"
+
+msgid "@1 Bend Sinister"
+msgstr "@1 Listra esquerda abaixo"
+
+msgid "@1 Bend"
+msgstr "@1 Listra direita abaixo"
+
+msgid "@1 Pale Dexter"
+msgstr "@1 Listra esquerda"
+
+msgid "@1 Fess"
+msgstr "@1 Listra central horizontal"
+
+msgid "@1 Pale Sinister"
+msgstr "@1 Listra direita"
+
+msgid "@1 Chief"
+msgstr "@1 Listra superior"
+
+msgid "@1 Chevron"
+msgstr "@1 Bifurcação"
+
+msgid "@1 Chevron Inverted"
+msgstr "@1 Bifurcação invertida"
+
+msgid "@1 Base Indented"
+msgstr "@1 Serrilhado inferior"
+
+msgid "@1 Chief Indented"
+msgstr "@1 Serrilhado superior"
+
+msgid "@1 Flow"
+msgstr "@1 Fluxo"
+
+msgid "@1 Guster"
+msgstr "@1 Ventania"
+
+msgid "And one additional layer"
+msgstr "E uma camada adicional"
+
+msgid "And @1 additional layers"
+msgstr "E @1 camadas adicionais"
+

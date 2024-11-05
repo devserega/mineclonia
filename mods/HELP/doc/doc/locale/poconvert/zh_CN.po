@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain doc x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-08-06 13:18+0000\n"
+"Last-Translator: liulitchi <liulitchi@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Simplified) <https://translate.codeberg.org/projects/"
+"mineclonia/doc/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+
+msgid "<"
+msgstr "<"
+
+msgid ">"
+msgstr ""
+
+msgid "Access to the requested entry has been denied; this entry is secret. You may unlock access by progressing in the game. Figure out on your own how to unlock this entry."
+msgstr ""
+
+msgid "All entries read."
+msgstr ""
+
+msgid "All help entries revealed!"
+msgstr ""
+
+msgid "All help entries are already revealed."
+msgstr ""
+
+msgid "Allows you to reveal all hidden help entries with /help_reveal"
+msgstr ""
+
+msgid "Category list"
+msgstr ""
+
+msgid "Currently all entries in this category are hidden from you."
+msgstr ""
+
+msgid "Unlock new entries by progressing in the game."
+msgstr ""
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Entry"
+msgstr ""
+
+msgid "Entry list"
+msgstr ""
+
+msgid "Error: Access denied."
+msgstr ""
+
+msgid "Error: No help available."
+msgstr ""
+
+msgid "Go to category list"
+msgstr ""
+
+msgid "Go to entry list"
+msgstr ""
+
+msgid "Help > @1"
+msgstr ""
+
+msgid "Help > @1 > @2"
+msgstr ""
+
+msgid "Help > @1 > (No Entry)"
+msgstr ""
+
+msgid "Help > (No Category)"
+msgstr ""
+
+msgid "Hidden entries: @1"
+msgstr ""
+
+msgid "Nameless entry (@1)"
+msgstr ""
+
+msgid "New entries: @1"
+msgstr ""
+
+msgid "New help entry unlocked: @1 > @2"
+msgstr ""
+
+msgid "No categories have been registered, but they are required to provide help."
+msgstr ""
+
+msgid "The Documentation System [doc] does not come with help contents on its own, it needs additional mods to add help content. Please make sure such mods are enabled on for this world, and try again."
+msgstr ""
+
+msgid "Number of entries: @1"
+msgstr ""
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Open a window providing help entries about Minetest and more"
+msgstr ""
+
+msgid "Please select a category you wish to learn more about:"
+msgstr ""
+
+msgid "Recommended mods: doc_basics, doc_items, doc_identifier, doc_encyclopedia."
+msgstr ""
+
+msgid "Reveal all hidden help entries to you"
+msgstr ""
+
+msgid "Show entry"
+msgstr ""
+
+msgid "Show category"
+msgstr ""
+
+msgid "Show next entry"
+msgstr ""
+
+msgid "Show previous entry"
+msgstr ""
+
+msgid "This category does not have any entries."
+msgstr ""
+
+msgid "This category has the following entries:"
+msgstr ""
+
+msgid "This category is empty."
+msgstr ""
+
+msgid "This is the help."
+msgstr ""
+
+msgid "You haven't chosen a category yet. Please choose one in the category list first."
+msgstr ""
+
+msgid "You haven't chosen an entry yet. Please choose one in the entry list first."
+msgstr ""
+
+msgid "Collection of help texts"
+msgstr ""
+
+msgid "Notify me when new help is available"
+msgstr ""
+
+msgid "Play notification sound when new help is available"
+msgstr ""
+
+msgid "Show previous image"
+msgstr ""
+
+msgid "Show previous gallery page"
+msgstr ""
+
+msgid "Show next image"
+msgstr ""
+
+msgid "Show next gallery page"
+msgstr ""

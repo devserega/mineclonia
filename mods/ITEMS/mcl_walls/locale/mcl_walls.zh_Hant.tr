@@ -1,0 +1,17 @@
+# textdomain: mcl_walls
+A piece of wall. It cannot be jumped over with a simple jump. When multiple of these are placed to next to each other, they will automatically build a nice wall structure.=一塊牆。無法透過簡單的跳躍來跳過它。當多塊牆彼此相鄰放置時，它們會自動建造一個漂亮的牆結構。
+Cobblestone Wall=鵝卵石牆
+Mossy Cobblestone Wall=青苔鵝卵石牆
+Andesite Wall=安山岩牆
+Granite Wall=花崗岩牆
+Diorite Wall=閃長岩牆
+Brick Wall=紅磚牆
+Sandstone Wall=砂岩牆
+Red Sandstone Wall=紅砂岩牆
+Stone Brick Wall=石磚牆
+Mossy Stone Brick Wall=青苔石磚牆
+Prismarine Wall=海磷石牆
+End Stone Brick Wall=終界石磚牆
+Nether Brick Wall=
+Red Nether Brick Wall=
+Mud Brick Wall=

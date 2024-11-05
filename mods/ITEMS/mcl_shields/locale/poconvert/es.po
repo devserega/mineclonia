@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_shields x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Shield"
+msgstr "Escudo"
+
+msgid "A shield is a tool used for protecting the player against attacks."
+msgstr "Un escudo es una herramienta usada para proteger al jugador de ataques."
+
+msgid "White Shield"
+msgstr "Escudo blanco"
+
+msgid "Grey Shield"
+msgstr "Escudo gris"
+
+msgid "Light Grey Shield"
+msgstr "Escudo gris claro"
+
+msgid "Black Shield"
+msgstr "Escudo negro"
+
+msgid "Red Shield"
+msgstr "Escudo rojo"
+
+msgid "Yellow Shield"
+msgstr "Escudo amarillo"
+
+msgid "Green Shield"
+msgstr "Escudo verde"
+
+msgid "Cyan Shield"
+msgstr "Escudo cian"
+
+msgid "Blue Shield"
+msgstr "Escudo azul"
+
+msgid "Magenta Shield"
+msgstr "Escudo magenta"
+
+msgid "Orange Shield"
+msgstr "Escudo naranja"
+
+msgid "Violet Shield"
+msgstr "Escudo violeta"
+
+msgid "Brown Shield"
+msgstr "Escudo marrón"
+
+msgid "Pink Shield"
+msgstr "Escudo rosa"
+
+msgid "Lime Shield"
+msgstr "Escudo lima"
+
+msgid "Light Blue Shield"
+msgstr "Escudo azul claro"
+

@@ -1,0 +1,8 @@
+# textdomain: mcl_weather
+Gives ability to control weather=賦予控制天氣的能力
+Changes the weather to the specified parameter.=將天氣變更為指定參數。
+Error: No weather specified.=錯誤：未指定天氣。
+Error: Invalid parameters.=錯誤：無效的參數。
+Error: Duration can't be less than 1 second.=錯誤：持續時間不能少於 1 秒。
+Error: Invalid weather specified. Use “clear”, “rain”, “snow” or “thunder”.=
+Toggles between clear weather and weather with downfall (randomly rain, thunderstorm or snow)=在晴朗天氣和降雨天氣之間切換（隨機下雨、雷雨或下雪）

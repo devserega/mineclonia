@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain awards x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Secret Award Unlocked: @1"
+msgstr ""
+
+msgid "Award Unlocked: @1"
+msgstr ""
+
+msgid "Secret Advancement Made!"
+msgstr ""
+
+msgid "Goal Completed!"
+msgstr ""
+
+msgid "Challenge Completed!"
+msgstr ""
+
+msgid "Advancement Made!"
+msgstr ""
+
+msgid "[c|clear|disable|enable]"
+msgstr ""
+
+msgid "Show, clear, disable or enable your awards"
+msgstr ""
+
+msgid "All your awards and statistics have been cleared. You can now start again."
+msgstr ""
+
+msgid "You have disabled awards."
+msgstr ""
+
+msgid "You have enabled awards."
+msgstr ""
+
+msgid "<award ID>"
+msgstr ""
+
+msgid "Show details of an award"
+msgstr ""
+
+msgid "Award not found."
+msgstr ""
+
+msgid "<name>"
+msgstr ""
+
+msgid "Get the awards statistics for the given player or yourself"
+msgstr ""
+
+msgid "Error: No achivements available."
+msgstr ""
+
+msgid "OK"
+msgstr "OK"
+
+msgid "(Secret Award)"
+msgstr ""
+
+msgid "Unlock this award to find out what it is."
+msgstr ""
+
+msgid "@1 (unlocked)"
+msgstr ""
+
+msgid "You've disabled awards. Type /awards enable to reenable."
+msgstr ""
+
+msgid "Error: No award available."
+msgstr ""
+
+msgid "You have not unlocked any awards."
+msgstr ""
+
+msgid "@1’s awards:"
+msgstr ""
+
+msgid "@1/@2 chat messages"
+msgstr ""
+
+msgid "Send a chat message"
+msgstr ""
+
+msgid "Chat @1 times"
+msgstr ""
+
+msgid "@1/@2 joins"
+msgstr ""
+
+msgid "Join once"
+msgstr ""
+
+msgid "Join @1 times"
+msgstr ""
+
+msgid "@1/@2 deaths"
+msgstr ""
+
+msgid "Die once of @1"
+msgstr ""
+
+msgid "Die @1 times of @2"
+msgstr ""
+
+msgid "Die @1 times."
+msgstr ""
+
+msgid "Mine @1 times"
+msgstr ""
+
+msgid "@1/@2 dug"
+msgstr ""
+
+msgid "Mine: @1"
+msgstr ""
+
+msgid "Mine: @1×@2"
+msgstr ""
+
+msgid "Mine @1 block."
+msgstr ""
+
+msgid "Mine @1 blocks."
+msgstr ""
+
+msgid "@1/@2 placed"
+msgstr ""
+
+msgid "Place: @1"
+msgstr ""
+
+msgid "Place: @1×@2"
+msgstr ""
+
+msgid "Place @1 block."
+msgstr ""
+
+msgid "Place @1 blocks."
+msgstr ""
+
+msgid "@1/@2 crafted"
+msgstr ""
+
+msgid "Craft: @1"
+msgstr ""
+
+msgid "Craft: @1×@2"
+msgstr ""
+
+msgid "Craft @1 item"
+msgstr ""
+
+msgid "Craft @1 items."
+msgstr ""
+
+msgid "@1/@2 eaten"
+msgstr ""
+
+msgid "Eat @1"
+msgstr ""
+
+msgid "Eat @1×@2"
+msgstr ""
+
+msgid "Eat @1 item"
+msgstr ""
+
+msgid "Eat @1 items."
+msgstr ""
+

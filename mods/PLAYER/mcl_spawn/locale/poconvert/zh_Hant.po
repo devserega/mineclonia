@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_spawn x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-08-16 07:50+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.codeberg.org/"
+"projects/mineclonia/mcl_spawn/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+
+msgid "Respawn position cleared!"
+msgstr "重生位置已清除！"
+
+msgid "New respawn position set!"
+msgstr "新的重生位置已設定！"
+
+msgid "Couldn't get level of your respawn anchor!"
+msgstr ""
+
+msgid "Your spawn bed was missing or blocked, and you had no charged respawn anchor!"
+msgstr ""

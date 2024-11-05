@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mesecons_solarpanel x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-08-12 07:19+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.codeberg.org/"
+"projects/mineclonia/mesecons_solarpanel/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+
+msgid "Daylight Sensor"
+msgstr "日光感測器"
+
+msgid "Provides redstone power when in sunlight"
+msgstr ""
+
+msgid "Can be inverted"
+msgstr ""
+
+msgid "Daylight sensors are redstone components which provide redstone power when they are in sunlight and no power otherwise. They can also be inverted."
+msgstr ""
+
+msgid "In inverted state, they provide redstone power when they are not in sunlight and no power otherwise."
+msgstr ""
+
+msgid "Use the daylight sensor to toggle its state."
+msgstr ""
+
+msgid "Inverted Daylight Sensor"
+msgstr "反相日光感測器"

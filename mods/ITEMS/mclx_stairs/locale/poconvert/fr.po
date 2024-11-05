@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mclx_stairs x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Lapis Lazuli Stairs"
+msgstr "Escalier de Lapis Lazuli"
+
+msgid "Lapis Lazuli Slab"
+msgstr "Dalle de Lapis Lazuli"
+
+msgid "Gold Stairs"
+msgstr "Escalier en or"
+
+msgid "Gold Slab"
+msgstr "Dalle en or"
+
+msgid "Iron Stairs"
+msgstr "Escalier en fer"
+
+msgid "Iron Slab"
+msgstr "Dalle en fer"
+
+msgid "Cracked Stone Brick Stairs"
+msgstr "Escalier en Brique de Pierre Fissurée"
+
+msgid "Cracked Stone Brick Slab"
+msgstr "Dalle de Brique de Pierre Fissurée"
+
+msgid "Cracked Deepslate Brick Stairs"
+msgstr "Escalier en Ardoise des abimes taillée craquelée"
+
+msgid "Cracked Deepslate Brick Slab"
+msgstr "Dalle en Ardoise des abîmes taillée craquelée"
+
+msgid "Cracked Deepslate Tile Stairs"
+msgstr "Escalier en Ardoise des abîmes carrelée craquelée"
+
+msgid "Cracked Deepslate Tile Slab"
+msgstr "Dalle en ardoise des abîmes carrelée craquelée"
+
+msgid "End Stone Stairs"
+msgstr "Escalier en pierre de l'End"
+
+msgid "End Stone Slab"
+msgstr "Dalle en pierre de l'End"
+
+msgid "Smooth Stone Stairs"
+msgstr "Escalier en roche lisse"
+
+msgid "Terracotta Stairs"
+msgstr "Escalier en terracotta"
+
+msgid "Terracotta Slab"
+msgstr "Dalle en terracotta"
+
+msgid "@1 Concrete Stairs"
+msgstr "Escalier en béton @1"
+
+msgid "@1 Concrete Slab"
+msgstr "Dalle en béton @1"
+
+msgid "@1 Terracotta Stairs"
+msgstr "Escalier en terracotta @1"
+
+msgid "@1 Terracotta Slab"
+msgstr "Dalle en terracotta @1"
+
+msgid "Concrete Slab"
+msgstr "Dalle en Béton"
+
+msgid "Double Concrete Slab"
+msgstr "Double Dalle en Béton"
+
+msgid "Concrete Stairs"
+msgstr "Escalier en Béton"
+
+msgid "Double Terracotta Slab"
+msgstr "Double dalle en Terracotta"
+

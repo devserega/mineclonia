@@ -1,0 +1,9 @@
+# textdomain: findbiome
+Find and teleport to biome=尋找並傳送至生物群落
+<biome>=<biome>
+No player.=沒有玩家。
+Biome found at @1.=生物群落發現於 @1。
+No biome found!=找不到生物群落！
+Biome does not exist!=生物群落不存在！
+List all biomes=列出所有生物群落
+No biomes.=沒有生物群落。

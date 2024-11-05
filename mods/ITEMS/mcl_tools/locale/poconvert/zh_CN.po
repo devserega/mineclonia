@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_tools x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-09-08 18:12+0000\n"
+"Last-Translator: liulitchi <liulitchi@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Simplified) <https://translate.codeberg.org/projects/"
+"mineclonia/mcl_tools/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.7\n"
+
+msgid "Pickaxes are mining tools to mine hard blocks, such as stone. A pickaxe can also be used as weapon, but it is rather inefficient."
+msgstr ""
+
+msgid "An axe is your tool of choice to cut down trees, wood-based blocks and other blocks. Axes deal a lot of damage as well, but they are rather slow."
+msgstr ""
+
+msgid "Swords are great in melee combat, as they are fast, deal high damage and can endure countless battles. Swords can also be used to cut down a few particular blocks, such as cobwebs."
+msgstr ""
+
+msgid "Shovels are tools for digging coarse blocks, such as dirt, sand and gravel. They can also be used to turn grass blocks to grass paths. Shovels can be used as weapons, but they are very weak."
+msgstr ""
+
+msgid "To turn a grass block into a grass path, hold the shovel in your hand, then use (rightclick) the top or side of a grass block. This only works when there's air above the grass block."
+msgstr ""
+
+msgid "Shears are tools to shear sheep and to mine a few block types. Shears are a special mining tool and can be used to obtain the original item from grass, leaves and similar blocks that require cutting."
+msgstr ""
+
+msgid "To shear sheep or carve faceless pumpkins, use the “place” key on them. Faces can only be carved at the side of faceless pumpkins. Mining works as usual, but the drops are different for a few blocks."
+msgstr ""
+
+msgid "Wooden Pickaxe"
+msgstr "木镐"
+
+msgid "Stone Pickaxe"
+msgstr "石镐"
+
+msgid "Iron Pickaxe"
+msgstr "铁镐"
+
+msgid "Golden Pickaxe"
+msgstr "金镐"
+
+msgid "Diamond Pickaxe"
+msgstr "钻石镐"
+
+msgid "Netherite Pickaxe"
+msgstr "下界合金镐"
+
+msgid "Wooden Shovel"
+msgstr "木铲"
+
+msgid "Stone Shovel"
+msgstr "石铲"
+
+msgid "Iron Shovel"
+msgstr "铁铲"
+
+msgid "Golden Shovel"
+msgstr "金铲"
+
+msgid "Diamond Shovel"
+msgstr "钻石铲"
+
+msgid "Netherite Shovel"
+msgstr "下界合金铲"
+
+msgid "Wooden Axe"
+msgstr "木斧"
+
+msgid "Stone Axe"
+msgstr "石斧"
+
+msgid "Iron Axe"
+msgstr "铁斧"
+
+msgid "Golden Axe"
+msgstr "金斧"
+
+msgid "Diamond Axe"
+msgstr "钻石斧"
+
+msgid "Netherite Axe"
+msgstr "下界合金斧"
+
+msgid "Wooden Sword"
+msgstr "木剑"
+
+msgid "Stone Sword"
+msgstr "石剑"
+
+msgid "Iron Sword"
+msgstr "铁剑"
+
+msgid "Golden Sword"
+msgstr "金剑"
+
+msgid "Diamond Sword"
+msgstr "钻石剑"
+
+msgid "Netherite Sword"
+msgstr "下界合金剑"
+
+msgid "Shears"
+msgstr "剪刀"

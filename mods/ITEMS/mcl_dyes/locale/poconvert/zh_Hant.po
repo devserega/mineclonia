@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_dyes x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-08-11 12:06+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.codeberg.org/"
+"projects/mineclonia/mcl_dyes/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+
+msgid "White"
+msgstr "白色"
+
+msgid "Light Grey"
+msgstr "淺灰色"
+
+msgid "Grey"
+msgstr "灰色"
+
+msgid "Black"
+msgstr "黑色"
+
+msgid "Purple"
+msgstr "紫色"
+
+msgid "Blue"
+msgstr "藍色"
+
+msgid "Light Blue"
+msgstr "淺藍色"
+
+msgid "Cyan"
+msgstr "青色"
+
+msgid "Green"
+msgstr "綠色"
+
+msgid "Lime"
+msgstr "淺綠色"
+
+msgid "Yellow"
+msgstr "黃色"
+
+msgid "Brown"
+msgstr "棕色"
+
+msgid "Orange"
+msgstr "橘色"
+
+msgid "Red"
+msgstr "紅色"
+
+msgid "Magenta"
+msgstr "洋紅色"
+
+msgid "Pink"
+msgstr "粉紅色"
+
+msgid "@1 Dye"
+msgstr "@1染料"
+
+msgid "This item is a dye which is used for dyeing and crafting."
+msgstr "此物品是一種用於染色和合成的染料。"
+
+msgid "Rightclick on a sheep to dye its wool. Other things are dyed by crafting."
+msgstr "右鍵點擊一隻羊來為其羊毛染色。其他東西透過合成染色。"

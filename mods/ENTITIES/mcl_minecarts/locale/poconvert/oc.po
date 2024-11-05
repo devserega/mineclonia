@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_minecarts x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: oc\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Sneak-click to remove"
+msgstr ""
+
+msgid "Minecart"
+msgstr "Vagonet"
+
+msgid "Vehicle for fast travel on rails"
+msgstr "Veicule per voiatjar vistament per ralhs."
+
+msgid "Minecarts can be used for a quick transportion on rails."
+msgstr "Los vagonet pòdon èsser utilizats per un transpòrt rapide per ralhs."
+
+msgid "Minecarts only ride on rails and always follow the tracks. At a T-junction with no straight way ahead, they turn left. The speed is affected by the rail type."
+msgstr "Los vagonets ròtlon mas per ralhs e seguisson totjorn la pista. A una joncion T embei ren davant, tòrnon a gaucha."
+
+msgid "You can place the minecart on rails. Right-click it to enter it. Punch it to get it moving."
+msgstr "Podètz plaçar le vagonet per ralhs. Fasetz un clic dreit dessobre per çai rentrar. Tustatz z-o per z-o faire bojar."
+
+msgid "To obtain the minecart, punch it while holding down the sneak key."
+msgstr "Per aver le vagonet, tustatz z-o embei la tocha sneak enfonçada."
+
+msgid "If it moves over a powered activator rail, you'll get ejected."
+msgstr ""
+
+msgid "Sneak to dismount"
+msgstr "Se baissar per descendre"
+
+msgid "Minecart with Chest"
+msgstr "Vagonet embei una Mala"
+
+msgid "Minecart with Furnace"
+msgstr "Vagonet embei un Fornil"
+
+msgid "A minecart with furnace is a vehicle that travels on rails. It can propel itself with fuel."
+msgstr "Un vagonet embei un fornil z-es un veïcule que voiatja per ralhs. Pòt se propulsar embei dau carburant."
+
+msgid "Place it on rails. If you give it some coal, the furnace will start burning for a long time and the minecart will be able to move itself. Punch it to get it moving."
+msgstr "Plaçatz z-o per ralhs. Si li balhatz dau charbon, le fornil vai començar de borlar lòngtemps e porà rotlar. Tustatz z-o per z-o faire bojar."
+
+msgid "To obtain the minecart and furnace, punch them while holding down the sneak key."
+msgstr "Per obtener le vagonet e le fornil, tustatz z-o embei la tocha sneak enfonçada."
+
+msgid "Minecart with Command Block"
+msgstr "Vagonet embei un Blòc de Comandas"
+
+msgid "Minecart with Hopper"
+msgstr "Vagonet embei un Embure"
+
+msgid "Minecart with TNT"
+msgstr "Vagonet embei de la TNT"
+
+msgid "Can be ignited by tools or powered activator rail"
+msgstr "Pòt èsser atubat embei daus otilhs o un ralh d'activacion"
+
+msgid "A minecart with TNT is an explosive vehicle that travels on rail."
+msgstr "Un vagonet embei TNT z-es un vagonet explosiu que voiatja per ralhs."
+
+msgid "Place it on rails. Punch it to move it. The TNT is ignited with a flint and steel or when the minecart is on an powered activator rail."
+msgstr "Plaçatz z-o per ralhs. Tustatz z-o per z-o desplaçar. La TNT z-es atubada embei un batifuòc o quand le vagonet z-es per un ralh d'activacion atubat."
+
+msgid "To obtain the minecart and TNT, punch them while holding down the sneak key. You can't do this if the TNT was ignited."
+msgstr "Per obtenèr le vagonet e la TNT, tustatz z-o embei la tocha sneak enfonçada. Podètz pas faire quo si la TNT z-es atubada."
+
+msgid "Place them on the ground to build your railway, the rails will automatically connect to each other and will turn into curves, T-junctions, crossings and slopes as needed."
+msgstr "Plaçatz z-o per sòu per construrre vostre chamin de fèrre, los ralhs se conectaron entre ilhs e faron de las corbas, de las junccions en T, en traversadas et en pentas au besonh."
+
+msgid "Rail"
+msgstr "Ralh"
+
+msgid "Track for minecarts"
+msgstr "Pista per vagonets"
+
+msgid "Rails can be used to build transport tracks for minecarts. Normal rails slightly slow down minecarts due to friction."
+msgstr "Los ralhs pòdon èsser utilizats per construrre los chamins de transpòrt per los vagonets. Los ralhs normaus ralentissons gentament los vagonet per causa de friccion."
+
+msgid "Powered Rail"
+msgstr "Ralh Atubat"
+
+msgid "Speed up when powered, slow down when not powered"
+msgstr "Acceleratz quand z-es atubat, ralentissetz quand z-es pas atubat."
+
+msgid "Rails can be used to build transport tracks for minecarts. Powered rails are able to accelerate and brake minecarts."
+msgstr "Los ralhs pòdon èsser utilizats per construrre los chamins de transpòrt per los vagonets. Los ralhs atubats son per faire accelerar o frenar los vagonets."
+
+msgid "Without redstone power, the rail will brake minecarts. To make this rail accelerate minecarts, power it with redstone power."
+msgstr "Sens energia de pèirotge, le ralh vai frenar los vagonets. Per que le ralh accelera los vagonets, alimentatz z-o embei de l'energia de pèirotge."
+
+msgid "Activator Rail"
+msgstr "Ralh d'Activacion"
+
+msgid "Activates minecarts when powered"
+msgstr "Activa los vagonets quand pas atubat."
+
+msgid "Rails can be used to build transport tracks for minecarts. Activator rails are used to activate special minecarts."
+msgstr "Los ralhs pòdon èsser utilizats per construrre los chamins de transpòrt per los vagonets. Los ralhs d'activacion son utilizats per activar daus vagonets speciaus."
+
+msgid "To make this rail activate minecarts, power it with redstone power and send a minecart over this piece of rail."
+msgstr "Per activar le ralh, alimentatz z-o embei de l'energia de pèirotge e fasetz rotlar un vagonet per aqueste ralh."
+
+msgid "Detector Rail"
+msgstr "Ralh de Deteccion"
+
+msgid "Emits redstone power when a minecart is detected"
+msgstr "Emeta de l'energia de pèirotge quand un vagonet z-es detectat."
+
+msgid "Rails can be used to build transport tracks for minecarts. A detector rail is able to detect a minecart above it and powers redstone mechanisms."
+msgstr "Los ralhs pòdon èsser utilizats per construirre los chamins de transpòrt per los vagonets. Los ralhs de deteccion pòdon detectar un vagonet per ilhs e atubar un mecanisme de pèirotge."
+
+msgid "To detect a minecart and provide redstone power, connect it to redstone trails or redstone mechanisms and send any minecart over the rail."
+msgstr "Per detectar un vagonet e produrre de l'energia de pèirotge, conectatz le ralh a de la pèirotge e fasetz rotlar un vagonet per i-aul."
+

@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_cake x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-09-17 14:36+0000\n"
+"Last-Translator: liulitchi <liulitchi@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Simplified Han script) <https://translate.codeberg."
+"org/projects/mineclonia/mcl_cake/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "Cake"
+msgstr "蛋糕"
+
+msgid "With 7 tasty slices!"
+msgstr "七块，尽享美味！"
+
+msgid "Hunger points: +@1 per slice"
+msgstr "饥饿点：每块+@1"
+
+msgid "Cakes can be placed and eaten to restore hunger points. A cake has 7 slices. Each slice restores 2 hunger points and 0.4 saturation points. Cakes will be destroyed when dug or when the block below them is broken."
+msgstr ""
+
+msgid "Place the cake anywhere, then rightclick it to eat a single slice. You can't eat from the cake when your hunger bar is full."
+msgstr ""
+
+msgid "Cake (6 Slices Left)"
+msgstr "蛋糕（余6块）"
+
+msgid "Cake (5 Slices Left)"
+msgstr "蛋糕（余5块）"
+
+msgid "Cake (4 Slices Left)"
+msgstr "蛋糕（余4块）"
+
+msgid "Cake (3 Slices Left)"
+msgstr "蛋糕（余3块）"
+
+msgid "Cake (2 Slices Left)"
+msgstr "蛋糕（余2块）"
+
+msgid "Cake (1 Slice Left)"
+msgstr "蛋糕（余1块）"

@@ -1,0 +1,11 @@
+# textdomain: mesecons_pressureplates
+A pressure plate is a redstone component which supplies its surrounding blocks with redstone power while someone or something rests on top of it.=Una placa de presión es un componente de redstone que suministra a sus bloques circundantes energía de redstone mientras alguien o algo descansa sobre ella.
+Provides redstone power when pushed=Emite una señal de redstone cuando es pulsado
+Pushable by players, mobs and objects=Pulsable por jugadores, mobs y objetos
+Pushable by players and mobs=Pulsable por jugadores y mobs
+Pushable by mobs=Pulsable por mobs
+Pushable by players=Pulsable por jugadores
+Stone Pressure Plate=Placa de presión de piedra
+A stone pressure plate is a redstone component which supplies its surrounding blocks with redstone power while a player or mob stands on top of it. It is not triggered by anything else.=Una placa de presión de piedra es un componente de redstone que suministra a sus bloques circundantes poder de redstone mientras un jugador o una criatura se paran encima. No se desencadena por nada más.
+Polished Blackstone Pressure Plate=Placa de presión de piedra negra pulida
+A polished blackstone pressure plate is a redstone component which supplies its surrounding blocks with redstone power while a player or mob stands on top of it. It is not triggered by anything else.=Una placa de presión de piedra negra pulida es un componente de redstone que emite una señal de redstone a los bloques adyacentes mientras un jugador o un mob está encima. No se activa por ningún otro motivo.

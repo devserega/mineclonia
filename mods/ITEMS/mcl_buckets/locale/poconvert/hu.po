@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_buckets x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Bucket of @1"
+msgstr "Teli Vödör @1"
+
+msgid "This bucket is filled with water and @1."
+msgstr "Ebben a vödörben víz és @1 van."
+
+msgid "Place it to empty the bucket and place a @1. Obtain by right clicking on a @2 with a bucket of water."
+msgstr "Tedd le a vödröt, hogy kiürítsd és elhelyezd: @1. Felveheted, ha egy vödör vízzel jobb gombot nyomsz erre: @2."
+
+msgid "Places a water source and a @1."
+msgstr "Vízforrást és @1-t helyez el."
+
+msgid "Empty Bucket"
+msgstr "Üres Vödör"
+
+msgid "A bucket can be used to collect and release liquids."
+msgstr "A vödörrel folyadékot szállíthatsz és önthetsz ki."
+
+msgid "Punch a liquid source to collect it. You can then use the filled bucket to place the liquid somewhere else."
+msgstr "Üss meg egy folyadékforrást a begyűjtéshez. Ezután a teli vödör segítségével elhelyezheted a folyadékot valahol máshol."
+
+msgid "Collects liquids"
+msgstr "Folyadékot gyűjt be"
+
+msgid "Lava Bucket"
+msgstr "Láva Vödör"
+
+msgid "A bucket can be used to collect and release liquids. This one is filled with hot lava, safely contained inside. Use with caution."
+msgstr "A vödör folyadékok összegyűjtésére és kiöntésére használható. Ez tele van forró lávával. Használd óvatosan."
+
+msgid "Get in a safe distance and place the bucket to empty it and create a lava source at this spot. Don't burn yourself!"
+msgstr "Kerülj biztonságos távolságba és helyezd el a vödröt a kiürítéshez. Ezzel lávaforrást hozol létre ezen a helyen. Ne égesd meg magad!"
+
+msgid "Places a lava source"
+msgstr "Lávaforrást helyez el"
+
+msgid "Water Bucket"
+msgstr "Vizes Vödör"
+
+msgid "A bucket can be used to collect and release liquids. This one is filled with water."
+msgstr "A vödör folyadékok összegyűjtésére és kiöntésére használható. Ez vízzel van tele."
+
+msgid "Place it to empty the bucket and create a water source."
+msgstr "Helyezd el a vödröt a kiürítéshez, ezzel vízforrást hozol létre."
+
+msgid "Places a water source"
+msgstr "Vízforrást hoz létre"
+
+msgid "River Water Bucket"
+msgstr "Folyóvizes Vödör"
+
+msgid "A bucket can be used to collect and release liquids. This one is filled with river water."
+msgstr "A vödör folyadékok összegyűjtésére és kiöntésére használható. Ez folyóvízzel van tele."
+
+msgid "Place it to empty the bucket and create a river water source."
+msgstr "Helyezd el a vödröt a kiürítéshez, ezzel folyóvíz forrást hozol létre."
+
+msgid "Places a river water source"
+msgstr "Folyóvíz forrást hoz létre"
+

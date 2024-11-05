@@ -1,0 +1,26 @@
+# textdomain: mclx_stairs
+Lapis Lazuli Stairs=Escalier de Lapis Lazuli
+Lapis Lazuli Slab=Dalle de Lapis Lazuli
+Gold Stairs=Escalier en or
+Gold Slab=Dalle en or
+Iron Stairs=Escalier en fer
+Iron Slab=Dalle en fer
+Cracked Stone Brick Stairs=Escalier en Brique de Pierre Fissurée
+Cracked Stone Brick Slab=Dalle de Brique de Pierre Fissurée
+Cracked Deepslate Brick Stairs=Escalier en Ardoise des abimes taillée craquelée
+Cracked Deepslate Brick Slab=Dalle en Ardoise des abîmes taillée craquelée
+Cracked Deepslate Tile Stairs=Escalier en Ardoise des abîmes carrelée craquelée
+Cracked Deepslate Tile Slab=Dalle en ardoise des abîmes carrelée craquelée
+End Stone Stairs=Escalier en pierre de l'End
+End Stone Slab=Dalle en pierre de l'End
+Smooth Stone Stairs=Escalier en roche lisse
+Terracotta Stairs=Escalier en terracotta
+Terracotta Slab=Dalle en terracotta
+@1 Concrete Stairs=Escalier en béton @1
+@1 Concrete Slab=Dalle en béton @1
+@1 Terracotta Stairs=Escalier en terracotta @1
+@1 Terracotta Slab=Dalle en terracotta @1
+Concrete Slab=Dalle en Béton
+Double Concrete Slab=Double Dalle en Béton
+Concrete Stairs=Escalier en Béton
+Double Terracotta Slab=Double dalle en Terracotta

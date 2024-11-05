@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_banners x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "White Banner"
+msgstr "Bannière Blanche"
+
+msgid "White"
+msgstr "Blanche"
+
+msgid "Grey Banner"
+msgstr "Bannière Grise"
+
+msgid "Grey"
+msgstr "Grise"
+
+msgid "Light Grey Banner"
+msgstr "Bannière Gris Clair"
+
+msgid "Light Grey"
+msgstr "Gris Clair"
+
+msgid "Black Banner"
+msgstr "Bannière Noire"
+
+msgid "Black"
+msgstr "Noire"
+
+msgid "Red Banner"
+msgstr "Bannière Rouge"
+
+msgid "Red"
+msgstr "Rouge"
+
+msgid "Yellow Banner"
+msgstr "Bannière Jaune"
+
+msgid "Yellow"
+msgstr "Jaune"
+
+msgid "Green Banner"
+msgstr "Bannière Verte"
+
+msgid "Green"
+msgstr "Verte"
+
+msgid "Cyan Banner"
+msgstr "Bannière Cyan"
+
+msgid "Cyan"
+msgstr "Cyan"
+
+msgid "Blue Banner"
+msgstr "Bannière Bleue"
+
+msgid "Blue"
+msgstr "Bleue"
+
+msgid "Magenta Banner"
+msgstr "Bannière Magenta"
+
+msgid "Magenta"
+msgstr "Magenta"
+
+msgid "Orange Banner"
+msgstr "Bannière Orange"
+
+msgid "Orange"
+msgstr "Orange"
+
+msgid "Purple Banner"
+msgstr "Bannière Violette"
+
+msgid "Violet"
+msgstr "Violet"
+
+msgid "Brown Banner"
+msgstr "Bannière Marron"
+
+msgid "Brown"
+msgstr "Marron"
+
+msgid "Pink Banner"
+msgstr "Bannière Rose"
+
+msgid "Pink"
+msgstr "Rose"
+
+msgid "Lime Banner"
+msgstr "Bannière Vert Clair"
+
+msgid "Lime"
+msgstr "Vert Clair"
+
+msgid "Light Blue Banner"
+msgstr "Bannière Bleue Clair"
+
+msgid "Light Blue"
+msgstr "Bleu Clair"
+
+msgid "Banner"
+msgstr "Bannière"
+
+msgid "Banners are tall colorful decorative blocks. They can be placed on the floor and at walls. Banners can be emblazoned with a variety of patterns using a lot of dye in crafting."
+msgstr "Les bannières sont de grands blocs décoratifs colorés. Elles peuvent être placées au sol et aux murs. Les bannières peuvent arborer des motifs variés selon les colorants utilisés lors de la fabrication."
+
+msgid "Use crafting to draw a pattern on top of the banner. Emblazoned banners can be emblazoned again to combine various patterns. You can draw up to 12 layers on a banner that way. If the banner includes a gradient, only 3 layers are possible."
+msgstr "Utilisez l'artisanat pour dessiner un motif sur le dessus de la bannière. Les bannières blasonnées peuvent être à nouveau blasonnées pour combiner différents motifs. Vous pouvez dessiner jusqu'à 12 couches sur une bannière de cette façon. Si la bannière comprend un dégradé, seulement 3 couches sont possibles."
+
+msgid "You can copy the pattern of a banner by placing two banners of the same color in the crafting grid—one needs to be emblazoned, the other one must be clean. Finally, you can use a banner on a cauldron with water to wash off its top-most layer."
+msgstr "Vous pouvez copier le motif d'une bannière en plaçant deux bannières de la même couleur dans la grille de fabrication : l'une doit être décorée, l'autre doit être propre. Enfin, vous pouvez utiliser une bannière sur un chaudron avec de l'eau pour laver sa couche la plus haute."
+
+msgid "@1 Banner"
+msgstr "Bannière @1"
+
+msgid "Preview Banner"
+msgstr "Aperçu de Bannière"
+
+msgid "Paintable decoration"
+msgstr "Pochoir"
+
+msgid "Can be used to craft special banner designs on the loom"
+msgstr "Peut être utilisé pour créer des bannières spéciales sur le métier à tisser"
+
+msgid "Special Banner Pattern"
+msgstr "Motif spécial de bannière"
+
+msgid "@1 Bordure"
+msgstr "Bordure (@1)"
+
+msgid "@1 Bricks"
+msgstr "Blocs (@1)"
+
+msgid "@1 Roundel"
+msgstr "Cocarde (@1)"
+
+msgid "@1 Creeper Charge"
+msgstr "Face de Creeper (@1)"
+
+msgid "@1 Saltire"
+msgstr "Saltire (@1)"
+
+msgid "@1 Bordure Indented"
+msgstr "Bordure en retrait (@1)"
+
+msgid "@1 Per Bend Inverted"
+msgstr "Division inclinée inversé (@1)"
+
+msgid "@1 Per Bend Sinister Inverted"
+msgstr "Division oblique inversé (@1)"
+
+msgid "@1 Per Bend"
+msgstr "Division inclinée (@1)"
+
+msgid "@1 Per Bend Sinister"
+msgstr "Division oblique (@1)"
+
+msgid "@1 Flower Charge"
+msgstr "Figure Fleur (@1)"
+
+msgid "@1 Gradient"
+msgstr "Dégradé (@1)"
+
+msgid "@1 Base Gradient"
+msgstr "Dégradé de couleurs (@1)"
+
+msgid "@1 Per Fess Inverted"
+msgstr "Division inverse (@1)"
+
+msgid "@1 Per Fess"
+msgstr "Division (@1)"
+
+msgid "@1 Per Pale"
+msgstr "Division (@1)"
+
+msgid "@1 Per Pale Inverted"
+msgstr "Division inverse (@1)"
+
+msgid "@1 Thing Charge"
+msgstr "Chose (@1)"
+
+msgid "@1 Globe Charge"
+msgstr "@1 Charge de Globe"
+
+msgid "@1 Piglin Charge"
+msgstr "@1 Carge de Piglin"
+
+msgid "@1 Lozenge"
+msgstr "Rhombus (@1)"
+
+msgid "@1 Skull Charge"
+msgstr "Figure de crâne (@1)"
+
+msgid "@1 Paly"
+msgstr "Pieux (@1)"
+
+msgid "@1 Base Dexter Canton"
+msgstr "Coin inférieur droit (@1)"
+
+msgid "@1 Base Sinister Canton"
+msgstr "Coin inférieur gauche (@1)"
+
+msgid "@1 Chief Dexter Canton"
+msgstr "Coin supérieur droit (@1)"
+
+msgid "@1 Chief Sinister Canton"
+msgstr "Coin supérieur gauche (@1)"
+
+msgid "@1 Cross"
+msgstr "Croix (@1)"
+
+msgid "@1 Base"
+msgstr "Pieds (@1)"
+
+msgid "@1 Pale"
+msgstr "Mise (@1)"
+
+msgid "@1 Bend Sinister"
+msgstr "Barre gauche inclinée (@1)"
+
+msgid "@1 Bend"
+msgstr "Barre inclinée (@1)"
+
+msgid "@1 Pale Dexter"
+msgstr "Flanc droit (@1)"
+
+msgid "@1 Fess"
+msgstr "Bar (@1)"
+
+msgid "@1 Pale Sinister"
+msgstr "Flanc gauche (@1)"
+
+msgid "@1 Chief"
+msgstr "Principal (@1)"
+
+msgid "@1 Chevron"
+msgstr "Chevron (@1)"
+
+msgid "@1 Chevron Inverted"
+msgstr "Contre-chevrons (@1)"
+
+msgid "@1 Base Indented"
+msgstr "Pied dentelé (@1)t"
+
+msgid "@1 Chief Indented"
+msgstr "Tête dentelée (@1)"
+
+msgid "@1 Flow"
+msgstr "@1 Flux"
+
+msgid "@1 Guster"
+msgstr "@1 Grappe"
+
+msgid "And one additional layer"
+msgstr "Et une couche supplémentaire"
+
+msgid "And @1 additional layers"
+msgstr "Et @1 couches supplémentaires"
+

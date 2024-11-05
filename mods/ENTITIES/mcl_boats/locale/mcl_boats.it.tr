@@ -1,0 +1,9 @@
+# textdomain: mcl_boats
+Sneak to dismount=Accovacciarsi per scendere
+Boats are used to travel on the surface of water.=Le barche sono utilizzate per viaggiare sulla superfice dell'acqua.
+Rightclick on a water source to place the boat. Rightclick the boat to enter it. Use [Left] and [Right] to steer, [Forwards] to speed up and [Backwards] to slow down or move backwards. Use [Sneak] to leave the boat, punch the boat to make it drop as an item.=Clicca col tasto destro su una sorgente d'acqua per piazzare la barca. Clicca col tasto destro per entrarci. Utilizza [Sinistra] e [Destra] per governare, [Avanti] per accelerare ed [Indietro] per rallentare od indietreggiare. Utilizza [Accovacciati] per uscire dalla barca, colpiscila per causarne la caduta come elemento.
+Boat=
+Water vehicle=
+Chest Boats are used to travel on the surface of water. And transport goods=
+Rightclick on a water source to place the boat. Rightclick the boat to enter it. Use [Left] and [Right] to steer, [Forwards] to speed up and [Backwards] to slow down or move backwards. Use [Sneak] to leave the boat, punch the boat to make it drop as an item. Use [Sneak] + [Rightclick] to open the boat's chest=
+Chest Boat=

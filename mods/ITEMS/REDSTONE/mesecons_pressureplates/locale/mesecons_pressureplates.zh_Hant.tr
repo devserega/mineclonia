@@ -1,0 +1,11 @@
+# textdomain: mesecons_pressureplates
+A pressure plate is a redstone component which supplies its surrounding blocks with redstone power while someone or something rests on top of it.=
+Provides redstone power when pushed=
+Pushable by players, mobs and objects=
+Pushable by players and mobs=
+Pushable by mobs=
+Pushable by players=
+Stone Pressure Plate=石製壓力板
+A stone pressure plate is a redstone component which supplies its surrounding blocks with redstone power while a player or mob stands on top of it. It is not triggered by anything else.=
+Polished Blackstone Pressure Plate=拋光黑石壓力板
+A polished blackstone pressure plate is a redstone component which supplies its surrounding blocks with redstone power while a player or mob stands on top of it. It is not triggered by anything else.=

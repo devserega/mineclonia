@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_weather x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-08-11 12:06+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.codeberg.org/"
+"projects/mineclonia/mcl_weather/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+
+msgid "Gives ability to control weather"
+msgstr "賦予控制天氣的能力"
+
+msgid "Changes the weather to the specified parameter."
+msgstr "將天氣變更為指定參數。"
+
+msgid "Error: No weather specified."
+msgstr "錯誤：未指定天氣。"
+
+msgid "Error: Invalid parameters."
+msgstr "錯誤：無效的參數。"
+
+msgid "Error: Duration can't be less than 1 second."
+msgstr "錯誤：持續時間不能少於 1 秒。"
+
+msgid "Error: Invalid weather specified. Use “clear”, “rain”, “snow” or “thunder”."
+msgstr ""
+
+msgid "Toggles between clear weather and weather with downfall (randomly rain, thunderstorm or snow)"
+msgstr "在晴朗天氣和降雨天氣之間切換（隨機下雨、雷雨或下雪）"

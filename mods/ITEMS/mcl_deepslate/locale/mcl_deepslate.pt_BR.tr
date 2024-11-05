@@ -1,0 +1,67 @@
+# textdomain: mcl_deepslate
+Deepslate=Ardósia
+Deepslate is a stone type found deep underground in the Overworld that functions similar to regular stone but is harder than the stone.=Ardósia é um tipo de rocha encontrado nas profundezas do subterrâneo que possui funções similares às rochas comuns, mas é mais dura que elas.
+Infested Deepslate=Ardósia Infestada
+Reinforced Deepslate=
+Reinforced deepslate is a very hard block undestructable by even wither explosions. It is unobtainable in survival mode.=
+Deepslate Coal Ore=Minério de Carvão em Ardósia
+Deepslate Iron Ore=Minério de Ferro em Ardósia
+Deepslate Gold Ore=Minério de Ouro em Ardósia
+Deepslate Emerald Ore=Minério de Esmeralda em Ardósia
+Deepslate Diamond Ore=Minério de Diamante em Ardósia
+Deepslate Lapis Lazuli Ore=Minério de Lápis-lazuli em Ardósia
+Deepslate Redstone Ore=Minério de Redstone em Ardósia
+Lit Deepslate Redstone Ore=Minério de Redstone em Ardósia Aceso
+Deepslate Copper Ore=Minério de Cobre em Ardósia
+Cobbled Deepslate=Pedregulhos de Ardósia
+Cobbled deepslate is a stone variant that functions similar to cobblestone or blackstone.=Pedregulhos de ardósia é uma variante de rocha que possui funções similares aos pedregulhos ou rochas-negra.
+Cobbled Deepslate Stairs=Escadas de Pedregulhos de Ardósia
+Cobbled Deepslate Slab=Laje de Pedregulhos de Ardósia
+Cobbled Deepslate Wall=Muro de Pedregulhos de Ardósia
+Polished Deepslate=Ardósia Polida
+Polished deepslate is the stone-like polished version of deepslate.=Ardósia polida é a versão da rocha polida em ardósia.
+Polished Deepslate Stairs=Escadas de Ardósia Polida
+Polished Deepslate Slab=Laje de Ardósia Polida
+Polished Deepslate Wall=Muro de Ardósia Polida
+Deepslate Bricks=Tijolos de Ardósia
+Deepslate bricks are the brick version of deepslate.=Tijolos de ardósia são a versão em ardósia dos tijolos.
+Deepslate Brick Stairs=
+Deepslate Brick Slab=
+Deepslate Brick Wall=
+Cracked Deepslate Bricks=Tijolos de Ardósia Rachado
+Deepslate Tiles=Azulejos de Ardósia
+Deepslate tiles are a decorative variant of deepslate.=Azulejos de ardósia são variantes decorativas da ardósia.
+Deepslate Tile Stairs=
+Deepslate Tile Slab=
+Deepslate Tiles Wall=
+Cracked Deepslate Tiles=Azulejos de Ardósia Rachado
+Chiseled Deepslate=Ardósia Cinzelada
+@1 is a variant of @2 that can generate in deepslate and tuff blobs.=
+@1 are a cracked variant.=
+Tuff=Tufo
+Tuff is an ornamental rock formed from volcanic ash, occurring in underground blobs below Y@=16.=
+Chiseled Tuff=
+Chiseled tuff is a chiseled variant of tuff.=
+Chiseled Tuff Bricks=
+Chiseled tuff bricks are a variant of tuff bricks, featuring a large brick in the center of the block, with geometric design above and below.=
+Tuff Stairs=
+Tuff Slab=
+Tuff Wall=
+Polished Tuff=
+Polished tuff is a polished variant of the tuff block.=
+Polished Tuff Stairs=
+Polished Tuff Slab=
+Polished Tuff Wall=
+Tuff Bricks=
+Tuff bricks are a brick variant of tuff.=
+Tuff Bricks Stairs=
+Tuff Bricks Slab=
+Tuff Bricks Wall=
+
+
+##### not used anymore #####
+
+An infested block is a block from which a silverfish will pop out when it is broken. It looks identical to its normal counterpart.=Um bloco infestado é um bloco no qual um silverfish surgirá quando quebrado. Parece idêntico à sua contraparte normal.
+Hides a silverfish=Esconde um silverfish
+Double Cobbled Deepslate Slab=Laje Dupla de Pedregulhos de Ardósia
+Double Polished Deepslate Slab=Laje Dupla de Ardósia Polida

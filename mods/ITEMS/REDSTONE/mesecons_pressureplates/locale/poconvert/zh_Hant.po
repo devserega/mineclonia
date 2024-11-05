@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mesecons_pressureplates x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-08-12 07:19+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.codeberg.org/"
+"projects/mineclonia/mesecons_pressureplates/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+
+msgid "A pressure plate is a redstone component which supplies its surrounding blocks with redstone power while someone or something rests on top of it."
+msgstr ""
+
+msgid "Provides redstone power when pushed"
+msgstr ""
+
+msgid "Pushable by players, mobs and objects"
+msgstr ""
+
+msgid "Pushable by players and mobs"
+msgstr ""
+
+msgid "Pushable by mobs"
+msgstr ""
+
+msgid "Pushable by players"
+msgstr ""
+
+msgid "Stone Pressure Plate"
+msgstr "石製壓力板"
+
+msgid "A stone pressure plate is a redstone component which supplies its surrounding blocks with redstone power while a player or mob stands on top of it. It is not triggered by anything else."
+msgstr ""
+
+msgid "Polished Blackstone Pressure Plate"
+msgstr "拋光黑石壓力板"
+
+msgid "A polished blackstone pressure plate is a redstone component which supplies its surrounding blocks with redstone power while a player or mob stands on top of it. It is not triggered by anything else."
+msgstr ""

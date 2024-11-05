@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_colorblocks x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Terracotta is a basic building material. It comes in many different colors."
+msgstr "La terre cuite est un matériau de construction de base. Elle est disponible dans de nombreuses couleurs différentes."
+
+msgid "Glazed terracotta is a decorative block with a complex pattern. It can be rotated by placing it in different directions."
+msgstr "La terre cuite émaillée est un bloc décoratif au motif complexe. Il peut être tourné en le plaçant dans différentes directions."
+
+msgid "Concrete powder is used for creating concrete, but it can also be used as decoration itself. It comes in different colors. Concrete powder turns into concrete of the same color when it comes in contact with water."
+msgstr "Le béton en poudre est utilisée pour créer du béton, mais il peut également être utilisé comme décoration. Il est disponible en différentes couleurs. Le béton en poudre se transforme en béton de la même couleur au contact de l'eau."
+
+msgid "Concrete is a decorative block which comes in many different colors. It is notable for having a very strong and clean color."
+msgstr "Le béton est un bloc décoratif qui se décline en de nombreuses couleurs différentes. Il est remarquable pour avoir une couleur très forte et nette."
+
+msgid "Turns into concrete on water contact"
+msgstr "Se transforme en béton au contact de l'eau"
+
+msgid "Terracotta"
+msgstr "Terre Cuite"
+
+msgid "Terracotta is a basic building material which comes in many different colors. This particular block is uncolored."
+msgstr "La terre cuite est un matériau de construction de base qui se décline en de nombreuses couleurs différentes. Ce bloc particulier n'est pas coloré."
+
+msgid "@1 Terracotta"
+msgstr "Terre cuite @1"
+
+msgid "@1 Glazed Terracotta"
+msgstr "Terre cuite émaillée @1"
+
+msgid "@1 Concrete Powder"
+msgstr "Béton @1 en poudre"
+
+msgid "@1 Concrete"
+msgstr "Béton @1"
+
+msgid "Colored Terracotta"
+msgstr "Terre Cuite Colorée"
+
+msgid "Glazed Terracotta"
+msgstr "Terre Cuite Émaillée"
+
+msgid "Concrete Powder"
+msgstr "Béton en poudre"
+
+msgid "Concrete"
+msgstr "Béton"
+

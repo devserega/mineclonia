@@ -1,0 +1,9 @@
+# textdomain: mcl_crafting_table
+Crafting=合成
+Inventory=物品欄
+Recipe book=配方手冊
+Fill Craft Grid=填滿合成欄位
+Crafting Table=合成台
+3×3 crafting grid=3×3 合成欄
+A crafting table is a block which grants you access to a 3×3 crafting grid which allows you to perform advanced crafts.=
+Rightclick the crafting table to access the 3×3 crafting grid.=

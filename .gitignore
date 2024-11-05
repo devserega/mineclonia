@@ -1,0 +1,11 @@
+# Text Editor TMP Files
+*.swp
+*.blend1
+*.blend2
+*.blend3
+/.idea/
+*.xcf
+.Rproj.user
+prompt.txt
+__pycache__
+*.~*~

@@ -1,0 +1,5 @@
+# textdomain: mesecons_walllever
+Lever=Interruttore
+Provides redstone power while it's turned on=Fornisce la corrente di pietrarossa mentre è acceso
+A lever is a redstone component which can be flipped on and off. It supplies redstone power to adjacent blocks while it is in the “on” state.=Un interruttore è un componente di pietrarossa che può essere acceso o spento. Fornisce la corrente di pietrarossa ai blocchi adiacenti mentre si trova nello stato "acceso".
+Use the lever to flip it on or off.=

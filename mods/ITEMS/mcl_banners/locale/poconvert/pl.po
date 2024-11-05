@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_banners x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "White Banner"
+msgstr "Biały sztandar"
+
+msgid "White"
+msgstr "Biały "
+
+msgid "Grey Banner"
+msgstr "Szary sztandar"
+
+msgid "Grey"
+msgstr "Szary "
+
+msgid "Light Grey Banner"
+msgstr "Jasnoszary sztandar"
+
+msgid "Light Grey"
+msgstr "Jasnoszary "
+
+msgid "Black Banner"
+msgstr "Czarny sztandar"
+
+msgid "Black"
+msgstr "Czarny "
+
+msgid "Red Banner"
+msgstr "Czerwony sztandar"
+
+msgid "Red"
+msgstr "Czerwony "
+
+msgid "Yellow Banner"
+msgstr "Żółty sztandar"
+
+msgid "Yellow"
+msgstr "Żółty "
+
+msgid "Green Banner"
+msgstr "Zielony sztandar"
+
+msgid "Green"
+msgstr "Zielony "
+
+msgid "Cyan Banner"
+msgstr "Błękitny sztandar"
+
+msgid "Cyan"
+msgstr "Błękitny "
+
+msgid "Blue Banner"
+msgstr "Niebieski sztandar"
+
+msgid "Blue"
+msgstr "Niebieski "
+
+msgid "Magenta Banner"
+msgstr "Karmazynowy sztandar"
+
+msgid "Magenta"
+msgstr "Karmazynowy "
+
+msgid "Orange Banner"
+msgstr "Pomarańczowy sztandar"
+
+msgid "Orange"
+msgstr "Pomarańczowy "
+
+msgid "Purple Banner"
+msgstr "Fioletowy sztandar"
+
+msgid "Violet"
+msgstr "Fioletowy "
+
+msgid "Brown Banner"
+msgstr "Brązowy sztandar"
+
+msgid "Brown"
+msgstr "Brązowy"
+
+msgid "Pink Banner"
+msgstr "Różowy sztandar"
+
+msgid "Pink"
+msgstr "Różowy"
+
+msgid "Lime Banner"
+msgstr "Jasnozielony sztandar"
+
+msgid "Lime"
+msgstr "Jasnozielony "
+
+msgid "Light Blue Banner"
+msgstr "Jasnoniebieski sztandar"
+
+msgid "Light Blue"
+msgstr "Jasnoniebieski "
+
+msgid "Banner"
+msgstr ""
+
+msgid "Banners are tall colorful decorative blocks. They can be placed on the floor and at walls. Banners can be emblazoned with a variety of patterns using a lot of dye in crafting."
+msgstr "Sztandary są kolorowymi dekoracyjnymi blokami. Mogą być postawione na ziemi i na ścianach. Sztandary mogą być upiększone różnymi wzorami przy użyciu sporej ilości farby podczas wytwarzania."
+
+msgid "Use crafting to draw a pattern on top of the banner. Emblazoned banners can be emblazoned again to combine various patterns. You can draw up to 12 layers on a banner that way. If the banner includes a gradient, only 3 layers are possible."
+msgstr "Użyj wytwarzania aby narysować wzór na górze sztandaru. Upiększone sztandary mogą być upiększone ponownie by połączyć kilka wzorów. Możesz narysować do 12 warstw na sztandarze w ten sposób. Jeśli baner zawiera gradient tylko 3 warstwy są możliwe."
+
+msgid "You can copy the pattern of a banner by placing two banners of the same color in the crafting grid—one needs to be emblazoned, the other one must be clean. Finally, you can use a banner on a cauldron with water to wash off its top-most layer."
+msgstr "Możesz skopiować wzór sztandaru kładąc dwa sztandary tego samego koloru w siatce wytwarzania. Jeden z nich musi być upiększony, drugi czysty. Możesz również użyć sztandar na kociołku z wodą aby zmyć górną warstwę."
+
+msgid "@1 Banner"
+msgstr ""
+
+msgid "Preview Banner"
+msgstr ""
+
+msgid "Paintable decoration"
+msgstr "Dekoracja do malowania"
+
+msgid "Can be used to craft special banner designs on the loom"
+msgstr ""
+
+msgid "Special Banner Pattern"
+msgstr ""
+
+msgid "@1 Bordure"
+msgstr "@1 z obramowaniem"
+
+msgid "@1 Bricks"
+msgstr "@1 murowany"
+
+msgid "@1 Roundel"
+msgstr "@1 krąg"
+
+msgid "@1 Creeper Charge"
+msgstr "@1 creeper"
+
+msgid "@1 Saltire"
+msgstr "@1 skośny krzyż"
+
+msgid "@1 Bordure Indented"
+msgstr "@1 z ząbkowanym obramowaniem"
+
+msgid "@1 Per Bend Inverted"
+msgstr "@1 z lewą dolną połową"
+
+msgid "@1 Per Bend Sinister Inverted"
+msgstr "@1 z prawą dolną połową"
+
+msgid "@1 Per Bend"
+msgstr "@1 z prawą górną połową"
+
+msgid "@1 Per Bend Sinister"
+msgstr "@1 z lewą górną połową"
+
+msgid "@1 Flower Charge"
+msgstr "@1 kwiat"
+
+msgid "@1 Gradient"
+msgstr "@1 gradient"
+
+msgid "@1 Base Gradient"
+msgstr "@1 odwrócony"
+
+msgid "@1 Per Fess Inverted"
+msgstr "@1 z dolną połową"
+
+msgid "@1 Per Fess"
+msgstr "@1 z górną połową"
+
+msgid "@1 Per Pale"
+msgstr "@1 z lewą połową"
+
+msgid "@1 Per Pale Inverted"
+msgstr "@1 z prawą połową"
+
+msgid "@1 Thing Charge"
+msgstr "@1 kształt czegoś"
+
+msgid "@1 Globe Charge"
+msgstr ""
+
+msgid "@1 Piglin Charge"
+msgstr ""
+
+msgid "@1 Lozenge"
+msgstr "@1 romb"
+
+msgid "@1 Skull Charge"
+msgstr "@1 kształt czaszki"
+
+msgid "@1 Paly"
+msgstr "@1 z pionowymi paskami"
+
+msgid "@1 Base Dexter Canton"
+msgstr "@1 lewy dolny róg"
+
+msgid "@1 Base Sinister Canton"
+msgstr "@1 prawy dolny róg"
+
+msgid "@1 Chief Dexter Canton"
+msgstr "@1 lewy górny róg"
+
+msgid "@1 Chief Sinister Canton"
+msgstr "@1 prawy górny róg"
+
+msgid "@1 Cross"
+msgstr "@1 krzyż"
+
+msgid "@1 Base"
+msgstr "@1 dolny"
+
+msgid "@1 Pale"
+msgstr "@1 pionowy pasek"
+
+msgid "@1 Bend Sinister"
+msgstr "@1 odwrócony skos"
+
+msgid "@1 Bend"
+msgstr "@1 skos"
+
+msgid "@1 Pale Dexter"
+msgstr "@1 lewy"
+
+msgid "@1 Fess"
+msgstr "@1 poziomy pasek"
+
+msgid "@1 Pale Sinister"
+msgstr "@1 prawy"
+
+msgid "@1 Chief"
+msgstr "@1 górny"
+
+msgid "@1 Chevron"
+msgstr "@1 dolny trójkąt"
+
+msgid "@1 Chevron Inverted"
+msgstr "@1 górny trójkąt"
+
+msgid "@1 Base Indented"
+msgstr "@1 ząbkowany dolny"
+
+msgid "@1 Chief Indented"
+msgstr "@1 ząbkowany górny"
+
+msgid "@1 Flow"
+msgstr ""
+
+msgid "@1 Guster"
+msgstr ""
+
+msgid "And one additional layer"
+msgstr "I jedna dodatkowa warstwa"
+
+msgid "And @1 additional layers"
+msgstr "I @1 dodatkowych warstw"
+

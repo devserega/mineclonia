@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_dyes x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "White"
+msgstr ""
+
+msgid "Light Grey"
+msgstr ""
+
+msgid "Grey"
+msgstr ""
+
+msgid "Black"
+msgstr ""
+
+msgid "Purple"
+msgstr ""
+
+msgid "Blue"
+msgstr ""
+
+msgid "Light Blue"
+msgstr ""
+
+msgid "Cyan"
+msgstr ""
+
+msgid "Green"
+msgstr ""
+
+msgid "Lime"
+msgstr ""
+
+msgid "Yellow"
+msgstr ""
+
+msgid "Brown"
+msgstr ""
+
+msgid "Orange"
+msgstr ""
+
+msgid "Red"
+msgstr ""
+
+msgid "Magenta"
+msgstr ""
+
+msgid "Pink"
+msgstr ""
+
+msgid "@1 Dye"
+msgstr ""
+
+msgid "This item is a dye which is used for dyeing and crafting."
+msgstr ""
+
+msgid "Rightclick on a sheep to dye its wool. Other things are dyed by crafting."
+msgstr ""
+

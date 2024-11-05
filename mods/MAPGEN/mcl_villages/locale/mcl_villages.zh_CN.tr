@@ -1,0 +1,7 @@
+# textdomain: mcl_villages
+Crop type @1 is not supported=不支持作物类型@1
+The timer for this @1 has not run yet!=@1的计时器尚未运行！
+A villager sleeps here=村民就寝之处
+Prevent paths from being placed during villager generation. Replaced by air after village path generation=
+Mark the node as a good place for paths to connect to=
+A place to plant @1 crops=种植@1的地方

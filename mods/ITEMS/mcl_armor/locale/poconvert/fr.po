@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_armor x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "This is a piece of equippable armor which reduces the amount of damage you receive."
+msgstr "Il s'agit d'un morceau d'armure équipable qui réduit la quantité de dégâts que vous recevez."
+
+msgid "To equip it, put it on the corresponding armor slot in your inventory menu."
+msgstr "Pour l'équiper, placez-le sur l'emplacement d'armure correspondant dans votre menu d'inventaire."
+
+msgid "Leather Cap"
+msgstr "Capuchon en cuir"
+
+msgid "Leather Tunic"
+msgstr "Tunique en cuir"
+
+msgid "Leather Pants"
+msgstr "Pantalon en cuir"
+
+msgid "Leather Boots"
+msgstr "Bottes en cuir"
+
+msgid "Colorize a piece of leather armor, or wash it"
+msgstr "Colorer une pièce d'armure en cuir ou la laver"
+
+msgid "Not leather armor."
+msgstr "N'est pas une armure en cuir."
+
+msgid "Washed."
+msgstr "Lavée."
+
+msgid "Done: @1"
+msgstr "Résultat : @1"
+
+msgid "Player isn't online"
+msgstr "Le joueur n'est pas en ligne"
+
+msgid "Golden Helmet"
+msgstr "Casque d'Or"
+
+msgid "Golden Chestplate"
+msgstr "Plastron d'Or"
+
+msgid "Golden Leggings"
+msgstr "Jambières d'Or"
+
+msgid "Golden Boots"
+msgstr "Bottes d'Or"
+
+msgid "Chainmail Helmet"
+msgstr "Casque en cotte de mailles"
+
+msgid "Chainmail Chestplate"
+msgstr "Plastron en cotte de mailles"
+
+msgid "Chainmail Leggings"
+msgstr "Jambières en cotte de mailles"
+
+msgid "Chainmail Boots"
+msgstr "Bottes en cotte de mailles"
+
+msgid "Iron Helmet"
+msgstr "Casque de Fer"
+
+msgid "Iron Chestplate"
+msgstr "Plastron de Fer"
+
+msgid "Iron Leggings"
+msgstr "Jambières de Fer"
+
+msgid "Iron Boots"
+msgstr "Bottes de Fer"
+
+msgid "Diamond Helmet"
+msgstr "Casque de Diamant"
+
+msgid "Diamond Chestplate"
+msgstr "Plastron de Diamant"
+
+msgid "Diamond Leggings"
+msgstr "Jambières de Diamant"
+
+msgid "Diamond Boots"
+msgstr "Bottes de Diamant"
+
+msgid "Netherite Helmet"
+msgstr "Casque de Netherite"
+
+msgid "Netherite Chestplate"
+msgstr "Plastron de Netherite"
+
+msgid "Netherite Leggings"
+msgstr "Jambières de Netherite"
+
+msgid "Netherite Boots"
+msgstr "Bottes de Netherite"
+
+msgid "Projectile Protection"
+msgstr "Protection contre les projectiles"
+
+msgid "Reduces projectile damage."
+msgstr "Réduit les dommages causés par les projectiles."
+
+msgid "Blast Protection"
+msgstr "Protection contre les explosions"
+
+msgid "Reduces explosion damage and knockback."
+msgstr "Réduit les dégâts d'explosion et de recul."
+
+msgid "Fire Protection"
+msgstr "Protection contre le feu"
+
+msgid "Reduces fire damage."
+msgstr "Reduit les dégats de feu."
+
+msgid "Protection"
+msgstr "Protection"
+
+msgid "Reduces most types of damage by 4% for each level."
+msgstr "Réduit la plupart des types de dégâts de 4% pour chaque niveau."
+
+msgid "Feather Falling"
+msgstr "Chute amortie"
+
+msgid "Reduces fall damage."
+msgstr "Réduit les dégats de chute."
+
+msgid "Aqua Affinity"
+msgstr "Affinité aquatique"
+
+msgid "Increases underwater mining speed."
+msgstr "Augmente la vitesse de minage sous-marine."
+
+msgid "Curse of Binding"
+msgstr "Malédiction du lien éternel"
+
+msgid "Item cannot be removed from armor slots except due to death, breaking or in Creative Mode."
+msgstr "L'objet ne peut pas être retiré des emplacements d'armure sauf en cas de mort, de rupture ou en mode créatif."
+
+msgid "Thorns"
+msgstr "Épines"
+
+msgid "Reflects some of the damage taken when hit, at the cost of reducing durability with each proc."
+msgstr "Reflète une partie des dégâts subis lors de la frappe, au prix d'une réduction de la durabilité à chaque déclenchement."
+
+msgid "Elytra"
+msgstr "Élytres"
+
+msgid "Smithing Template"
+msgstr "Modèle de forge"
+
+msgid "@1 Armor Trim"
+msgstr "@1 garniture d'armure"
+
+msgid "Applies to:"
+msgstr "S'applique à :"
+
+msgid "Armor"
+msgstr "Armure"
+
+msgid "Ingredients:"
+msgstr "Ingrédients :"
+
+msgid "Ingot & Crystals"
+msgstr "Lingots & Cristaux"
+

@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_copper x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Waxed @1"
+msgstr "Viaszolt @1"
+
+msgid "Copper Ingot"
+msgstr "Réz úr"
+
+msgid "Molten Raw Copper. It is used to craft blocks."
+msgstr "Olvasztott nyers réz. Blokkok készítéséhez használható."
+
+msgid "Raw Copper"
+msgstr "Nyers Réz"
+
+msgid "Raw Copper. Mine a Copper Ore to get it."
+msgstr "Nyers réz. Bányássz rézércet, hogy hozzájuss."
+
+msgid "Copper Ore"
+msgstr "Rézérc"
+
+msgid "Some copper contained in stone, it is pretty common and can be found below sea level."
+msgstr "Kőben található réz. A tengerszint alatti mélységben meglehetősen gyakori."
+
+msgid "Block of Raw Copper"
+msgstr "Rézérc blokk"
+
+msgid "A block used for compact raw copper storage."
+msgstr "Rézérc kompakt tárolására szolgáló blokk."
+
+msgid "Exposed"
+msgstr "Kitett"
+
+msgid "Weathered"
+msgstr "Viharvert"
+
+msgid "Oxidized"
+msgstr "Patinás"
+
+msgid "Block of"
+msgstr "Blokk"
+
+msgid "@1 Copper"
+msgstr "@1 Réz"
+
+msgid "@1 copper is mostly a decorative block."
+msgstr "A @1 Réz főleg dekorációs célokra használható."
+
+msgid "@1 Cut Copper"
+msgstr "@1 Vágott Réz"
+
+msgid "@1 Chiseled Copper"
+msgstr "@1 Vésett Réz"
+
+msgid "@1 Chiseled copper is mostly a decorative block."
+msgstr "@1 Vésett Réz főleg dekorációs célra."
+
+msgid "@1 Copper Grate"
+msgstr "@1 Rézrács"
+
+msgid "@1 Copper Bulb On"
+msgstr "Világító @1 Réz Izzó"
+
+msgid "@1 Copper Bulb"
+msgstr "@1 Réz Izzó"
+
+msgid "@1 Copper Trapdoor"
+msgstr "@1 Réz Csapóajtó"
+
+msgid "@1 Copper Door"
+msgstr "@1 Réz Ajtó"
+
+msgid "@1 Cut Copper Stairs"
+msgstr ""
+
+msgid "@1 Cut Copper Slab"
+msgstr ""
+

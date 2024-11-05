@@ -1,0 +1,12 @@
+# textdomain: mcl_cake
+Cake=蛋糕
+With 7 tasty slices!=七块，尽享美味！
+Hunger points: +@1 per slice=饥饿点：每块+@1
+Cakes can be placed and eaten to restore hunger points. A cake has 7 slices. Each slice restores 2 hunger points and 0.4 saturation points. Cakes will be destroyed when dug or when the block below them is broken.=
+Place the cake anywhere, then rightclick it to eat a single slice. You can't eat from the cake when your hunger bar is full.=
+Cake (6 Slices Left)=蛋糕（余6块）
+Cake (5 Slices Left)=蛋糕（余5块）
+Cake (4 Slices Left)=蛋糕（余4块）
+Cake (3 Slices Left)=蛋糕（余3块）
+Cake (2 Slices Left)=蛋糕（余2块）
+Cake (1 Slice Left)=蛋糕（余1块）

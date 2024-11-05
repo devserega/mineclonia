@@ -1,0 +1,35 @@
+rules:
+  - id: localization
+    patterns:
+      - pattern: local $LHS = $RHS
+      - pattern-regex: ^local* # restrict to file scope (ugly hack)
+      - metavariable-regex:
+           metavariable: $RHS
+           regex: ^[a-zA-Z_][a-zA-Z0-9_\.]*$ # only match some_stuff and some_stuff.some_field
+      - metavariable-regex:
+           metavariable: $LHS
+           regex: ^[a-z0-9_]*$ # don't match upper case
+      - metavariable-pattern:
+           metavariable: $RHS
+           patterns:
+             - pattern-not: |
+                 false
+             - pattern-not: |
+                 true
+             - pattern-not: |
+                 nil
+      - metavariable-pattern:
+           metavariable: $LHS
+           patterns:
+             - pattern-not: C # often used for color escape
+             - pattern-not: F # often used for formspec escape
+             - pattern-not: mob_class # used in mcl_mobs code
+      - metavariable-regex:
+          metavariable: $LHS
+          regex: ^(?!old).*$ # exclude everything that starts with old
+      - metavariable-regex:
+          metavariable: $LHS
+          regex: ^(?!original).*$ # exclude everything that starts with original
+    message: "replace $LHS $RHS" # prints micro command to replace
+    languages: [lua]
+    severity: WARNING

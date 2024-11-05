@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_mangrove x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Mangrove"
+msgstr ""
+
+msgid "Mangrove Roots"
+msgstr ""
+
+msgid "Mangrove roots are decorative blocks that form as part of mangrove trees."
+msgstr ""
+
+msgid "Mangrove Propagule"
+msgstr ""
+
+msgid "Needs soil and light to grow"
+msgstr ""
+
+msgid "When placed on soil (such as dirt) and exposed to light, an propagule will grow into an mangrove after some time."
+msgstr ""
+
+msgid "Hanging Propagule"
+msgstr ""
+
+msgid "Grows on Mangrove leaves"
+msgstr ""
+
+msgid "water logged mangrove roots"
+msgstr ""
+
+msgid "Mangrove roots, despite being a full block, can be waterlogged and do not flow water out"
+msgstr ""
+
+msgid "These cannot be crafted yet only occure when get in contact of water."
+msgstr ""
+
+msgid "Muddy Mangrove Roots"
+msgstr ""
+
+msgid "crafted with Mud and Mangrove roots"
+msgstr ""
+
+msgid "Muddy Mangrove Roots is a block from mangrove swamp.It drowns player a bit inside it."
+msgstr ""
+

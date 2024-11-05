@@ -1,0 +1,8 @@
+# textdomain: mcl_experience
+Bottle o' Enchanting=Ampolla d'esperienza
+[[<player>] <xp>]=[[<giocatrice>] <esp>]
+Gives a player some XP=Fornisce al giocatore qualche esp.
+Error: Too many parameters!=
+Error: Incorrect value of XP=
+Error: Player not found=
+Added @1 XP to @2, total: @3, experience level: @4=

@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_banners x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "White Banner"
+msgstr "Estandarte blanco"
+
+msgid "White"
+msgstr "blanco"
+
+msgid "Grey Banner"
+msgstr "Estandarte gris"
+
+msgid "Grey"
+msgstr "gris"
+
+msgid "Light Grey Banner"
+msgstr "Estandarte gris claro"
+
+msgid "Light Grey"
+msgstr "gris claro"
+
+msgid "Black Banner"
+msgstr "Estandarte negro"
+
+msgid "Black"
+msgstr "negro"
+
+msgid "Red Banner"
+msgstr "Estandarte roja"
+
+msgid "Red"
+msgstr "rojo"
+
+msgid "Yellow Banner"
+msgstr "Estandarte amarillo"
+
+msgid "Yellow"
+msgstr "amarillo"
+
+msgid "Green Banner"
+msgstr "Estandarte verde"
+
+msgid "Green"
+msgstr "verde"
+
+msgid "Cyan Banner"
+msgstr "Estandarte cian"
+
+msgid "Cyan"
+msgstr "cian"
+
+msgid "Blue Banner"
+msgstr "Estandarte azul"
+
+msgid "Blue"
+msgstr "azul"
+
+msgid "Magenta Banner"
+msgstr "Estandarte magenta"
+
+msgid "Magenta"
+msgstr "magenta"
+
+msgid "Orange Banner"
+msgstr "Estandarte naranja"
+
+msgid "Orange"
+msgstr "naranja"
+
+msgid "Purple Banner"
+msgstr "Estandarte morado"
+
+msgid "Violet"
+msgstr "Violeta"
+
+msgid "Brown Banner"
+msgstr "Estandarte marrón"
+
+msgid "Brown"
+msgstr "marrón"
+
+msgid "Pink Banner"
+msgstr "Estandarte rosa"
+
+msgid "Pink"
+msgstr "rosa"
+
+msgid "Lime Banner"
+msgstr "Estandarte verde lima"
+
+msgid "Lime"
+msgstr "verde lima"
+
+msgid "Light Blue Banner"
+msgstr "Estandarte azul claro"
+
+msgid "Light Blue"
+msgstr "azul claro"
+
+msgid "Banner"
+msgstr "Estandarte"
+
+msgid "Banners are tall colorful decorative blocks. They can be placed on the floor and at walls. Banners can be emblazoned with a variety of patterns using a lot of dye in crafting."
+msgstr "Los estandartes son bloques decorativos altos y coloridos. Se pueden colocar en el suelo y en las paredes. Los estandartes se pueden estampar con una variedad de patrones usando mucho tinte en la creacion."
+
+msgid "Use crafting to draw a pattern on top of the banner. Emblazoned banners can be emblazoned again to combine various patterns. You can draw up to 12 layers on a banner that way. If the banner includes a gradient, only 3 layers are possible."
+msgstr "Utiliza una mesa para dibujar un patrón en la parte superior del estandarte. Los estandartes estampados pueden volver a estamparse para combinar varios patrones. Puede dibujar hasta 12 capas en un estandarte de esa manera. Si el estandarte incluye un degradado, solo son posibles 3 capas."
+
+msgid "You can copy the pattern of a banner by placing two banners of the same color in the crafting grid—one needs to be emblazoned, the other one must be clean. Finally, you can use a banner on a cauldron with water to wash off its top-most layer."
+msgstr "Puede copiar el patrón de un estandarte colocando dos estandartes del mismo color en la cuadrícula de fabricación: una debe ser estampada, la otra debe estar limpia. Finalmente, puede usar un estandarte en un caldero con agua para lavar su capa superior."
+
+msgid "@1 Banner"
+msgstr "Estandarte @1"
+
+msgid "Preview Banner"
+msgstr "Vista previa del Estandarte"
+
+msgid "Paintable decoration"
+msgstr "Decoracion para pintar"
+
+msgid "Can be used to craft special banner designs on the loom"
+msgstr "Se puede usar para crear diseños especiales de estandarte en el telar"
+
+msgid "Special Banner Pattern"
+msgstr "Patrón Especial de Estandarte"
+
+msgid "@1 Bordure"
+msgstr "Borde (@1)"
+
+msgid "@1 Bricks"
+msgstr "Bloque (@1)"
+
+msgid "@1 Roundel"
+msgstr "Medallón (@1)"
+
+msgid "@1 Creeper Charge"
+msgstr "Creeper cargado (@1)"
+
+msgid "@1 Saltire"
+msgstr "Saltire (@1)"
+
+msgid "@1 Bordure Indented"
+msgstr "Sangrado del borde (@1)"
+
+msgid "@1 Per Bend Inverted"
+msgstr "Curva invertida (@1)"
+
+msgid "@1 Per Bend Sinister Inverted"
+msgstr "Curva siniestra invertida (@1)"
+
+msgid "@1 Per Bend"
+msgstr "Curva (@1)"
+
+msgid "@1 Per Bend Sinister"
+msgstr "Curva siniestra (@1)"
+
+msgid "@1 Flower Charge"
+msgstr "Carga de la flor (@1)"
+
+msgid "@1 Gradient"
+msgstr "Farbverlauf (@1)"
+
+msgid "@1 Base Gradient"
+msgstr "Zócalo Degradado (@1)"
+
+msgid "@1 Per Fess Inverted"
+msgstr "División invertida (@1)"
+
+msgid "@1 Per Fess"
+msgstr "División (@1)"
+
+msgid "@1 Per Pale"
+msgstr "Palidez (@1)"
+
+msgid "@1 Per Pale Inverted"
+msgstr "Palidez invertida (@1)"
+
+msgid "@1 Thing Charge"
+msgstr "Carga de objeto (@1)"
+
+msgid "@1 Globe Charge"
+msgstr "@1 Estampado de planeta"
+
+msgid "@1 Piglin Charge"
+msgstr "@1 Estampado de hocico"
+
+msgid "@1 Lozenge"
+msgstr "Rombo (@1)"
+
+msgid "@1 Skull Charge"
+msgstr "Carga de calabera (@1)"
+
+msgid "@1 Paly"
+msgstr "Poster (@1)"
+
+msgid "@1 Base Dexter Canton"
+msgstr "Zócalo inferior derecho (@1)"
+
+msgid "@1 Base Sinister Canton"
+msgstr "Zócalo inferior izquierdo (@1)"
+
+msgid "@1 Chief Dexter Canton"
+msgstr "Encabezado superior derecho (@1)"
+
+msgid "@1 Chief Sinister Canton"
+msgstr "Encabezado superior izquierdo (@1)"
+
+msgid "@1 Cross"
+msgstr "Cruce (@1)"
+
+msgid "@1 Base"
+msgstr "Zócalo (@1)"
+
+msgid "@1 Pale"
+msgstr "Palidez (@1)"
+
+msgid "@1 Bend Sinister"
+msgstr "Curva siniestra (@1)"
+
+msgid "@1 Bend"
+msgstr "Curva (@1)"
+
+msgid "@1 Pale Dexter"
+msgstr "Palidez derecho (@1)"
+
+msgid "@1 Fess"
+msgstr "División (@1)"
+
+msgid "@1 Pale Sinister"
+msgstr "Palidez siniestra (@1)"
+
+msgid "@1 Chief"
+msgstr "Encabezado (@1)"
+
+msgid "@1 Chevron"
+msgstr "Viga (@1)"
+
+msgid "@1 Chevron Inverted"
+msgstr "Viga invertida (@1)"
+
+msgid "@1 Base Indented"
+msgstr "Zócalo sangrada (@1)"
+
+msgid "@1 Chief Indented"
+msgstr "Sangrado del encabezado (@1)"
+
+msgid "@1 Flow"
+msgstr "@1 Flujo"
+
+msgid "@1 Guster"
+msgstr "@1 Torbellino"
+
+msgid "And one additional layer"
+msgstr "Y una capa adicional"
+
+msgid "And @1 additional layers"
+msgstr "Y @1 capas adicionales"
+

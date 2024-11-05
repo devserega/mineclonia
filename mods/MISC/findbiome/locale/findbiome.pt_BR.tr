@@ -1,0 +1,9 @@
+# textdomain: findbiome
+Find and teleport to biome=Encontra e teleporta para um bioma
+<biome>=<bioma>
+No player.=Nenhum jogador.
+Biome found at @1.=Bioma encontrado em @1.
+No biome found!=Nenhum bioma encontrado!
+Biome does not exist!=Bioma não existe!
+List all biomes=Lista de todos os biomas
+No biomes.=Nenhum bioma.

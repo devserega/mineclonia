@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_beds x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-09-14 17:35+0000\n"
+"Last-Translator: liulitchi <liulitchi@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Simplified Han script) <https://translate.codeberg."
+"org/projects/mineclonia/mcl_beds/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "Beds allow you to sleep at night and make the time pass faster."
+msgstr ""
+
+msgid "To use a bed, stand close to it and right-click the bed to sleep in it. Sleeping only works when the sun sets, at night or during a thunderstorm. The bed must also be clear of any danger."
+msgstr ""
+
+msgid "You have heard of other worlds in which a bed would set the start point for your next life. But this world is not one of them."
+msgstr ""
+
+msgid "By using a bed, you set the starting point for your next life. If you die, you will start your next life at this bed, unless it is obstructed or destroyed."
+msgstr ""
+
+msgid "In this world, going to bed won't skip the night, but it will skip thunderstorms."
+msgstr ""
+
+msgid "Sleeping allows you to skip the night. The night is skipped when all players in this world went to sleep. The night is skipped after sleeping for a few seconds. Thunderstorms can be skipped in the same manner."
+msgstr ""
+
+msgid "Allows you to sleep"
+msgstr ""
+
+msgid "Bed"
+msgstr "床铺"
+
+msgid "@1 Bed"
+msgstr ""
+
+msgid "You can only sleep at night or during a thunderstorm."
+msgstr ""
+
+msgid "You can't sleep, the bed's too far away!"
+msgstr "床离你太远，无法就寝！"
+
+msgid "This bed is already occupied!"
+msgstr "床上有人了，不能就寝！"
+
+msgid "You have to stop moving before going to bed!"
+msgstr ""
+
+msgid "You can't sleep now, monsters are nearby!"
+msgstr "怪物还在附近徘徊，现在还不能睡！"
+
+msgid "You can't sleep, the bed is obstructed!"
+msgstr ""
+
+msgid "It's too dangerous to sleep here!"
+msgstr "此处就寝不太安全！"
+
+msgid "Leave bed"
+msgstr "离开床铺"
+
+msgid "Abort sleep"
+msgstr "取消休息"
+
+msgid "Chat:"
+msgstr "聊天："
+
+msgid "send!"
+msgstr "发送！"
+
+msgid "Players in bed: @1/@2"
+msgstr "就寝人员：@1/@2"
+
+msgid "Note: Night skip is disabled."
+msgstr "注意：已禁用跳过夜间。"
+
+msgid "You're sleeping."
+msgstr "你已就寝。"
+
+msgid "You will fall asleep when all players are in bed."
+msgstr ""
+
+msgid "You will fall asleep when @1% of all players are in bed."
+msgstr ""
+
+msgid "You're in bed."
+msgstr ""
+
+msgid "@1/@2 players currently in bed."
+msgstr ""
+
+msgid "You exceeded the maximum number of messages per 10 seconds!"
+msgstr ""
+
+msgid "You are missing the 'shout' privilege! It's required in order to talk in chat..."
+msgstr ""
+
+msgid "Sorry, but you have to wait @1 seconds until you may use this button again!"
+msgstr ""
+
+msgid "Hey! Would you guys mind sleeping?"
+msgstr ""
+
+msgid "New respawn position set!"
+msgstr "已设置新的重生位置！"
+
+msgid "Respawn Anchor"
+msgstr ""

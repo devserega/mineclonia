@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_shields x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Shield"
+msgstr "Bouclier"
+
+msgid "A shield is a tool used for protecting the player against attacks."
+msgstr "Un bouclier est un outil utilisé pour protéger le joueur contre les attaques."
+
+msgid "White Shield"
+msgstr "Bouclier Blanc"
+
+msgid "Grey Shield"
+msgstr "Bouclier Gris"
+
+msgid "Light Grey Shield"
+msgstr "Bouclier Gris Clair"
+
+msgid "Black Shield"
+msgstr "Bouclier Noir"
+
+msgid "Red Shield"
+msgstr "Bouclier Rouge"
+
+msgid "Yellow Shield"
+msgstr "Bouclier Jaune"
+
+msgid "Green Shield"
+msgstr "Bouclier Vert"
+
+msgid "Cyan Shield"
+msgstr "Bouclier Cyan"
+
+msgid "Blue Shield"
+msgstr "Bouclier Bleu"
+
+msgid "Magenta Shield"
+msgstr "Bouclier Magenta"
+
+msgid "Orange Shield"
+msgstr "Bouclier Orange"
+
+msgid "Violet Shield"
+msgstr "Bouclier violet"
+
+msgid "Brown Shield"
+msgstr "Bouclier Marron"
+
+msgid "Pink Shield"
+msgstr "Bouclier Rose"
+
+msgid "Lime Shield"
+msgstr "Bouclier Vert Clair"
+
+msgid "Light Blue Shield"
+msgstr "Bouclier Bleu Clair"
+

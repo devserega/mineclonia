@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_droppers x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Dropper"
+msgstr "Dropper"
+
+msgid "Inventory"
+msgstr "Inventaire"
+
+msgid "9 inventory slots"
+msgstr "9 emplacements d'inventaire"
+
+msgid "Drops item when powered by redstone power"
+msgstr "Obtient un objet lorsqu'il est alimenté par la puissance Redstone"
+
+msgid "A dropper is a redstone component and a container with 9 inventory slots which, when supplied with redstone power, drops an item or puts it into a container in front of it."
+msgstr "Un dropper est un composant redstone et un conteneur avec 9 emplacements d'inventaire qui, lorsqu'ils sont alimentés en puissance redstone, déposent un objet ou le placent dans un conteneur en face de lui."
+
+msgid "Droppers can be placed in 6 possible directions, items will be dropped out of the hole. Use the dropper to access its inventory. Supply it with redstone energy once to make the dropper drop or transfer a random item."
+msgstr "Les droppers peuvent être placés dans 6 directions possibles, les objets seront déposés hors du trou. Utilisez le dropper pour accéder à son inventaire. Fournissez-lui de l'énergie redstone pour faire tomber un élement ou transférer un élément aléatoire."
+
+msgid "Downwards-Facing Dropper"
+msgstr "Dropper orienté vers le bas"
+
+msgid "Upwards-Facing Dropper"
+msgstr "Dropper orienté vers le haut"
+

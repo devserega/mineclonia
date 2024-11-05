@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_credits x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-08-13 17:09+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.codeberg.org/"
+"projects/mineclonia/mcl_credits/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+
+msgid "A faithful Open Source clone of Minecraft"
+msgstr "Minecraft 的忠實開源複製品"
+
+msgid "Sneak to skip"
+msgstr "潛行以略過"
+
+msgid "Jump to speed up (additionally sprint)"
+msgstr ""
+
+msgid "Show the Mineclonia end credits"
+msgstr ""
+
+msgid "Creators of Mineclonia"
+msgstr ""
+
+msgid "Creator of MineClone 2"
+msgstr ""
+
+msgid "Creator of MineClone"
+msgstr ""
+
+msgid "Active Contributors"
+msgstr ""
+
+msgid "Previous Contributors"
+msgstr ""
+
+msgid "Original Mod Authors"
+msgstr ""
+
+msgid "3D Models"
+msgstr "3D 模型"
+
+msgid "Textures and menu images"
+msgstr ""
+
+msgid "Translations"
+msgstr "翻譯"
+
+msgid "Special thanks"
+msgstr "特別鳴謝"

@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_banners x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "White Banner"
+msgstr "Stendardo Bianco"
+
+msgid "White"
+msgstr "Bianco"
+
+msgid "Grey Banner"
+msgstr "Stendardo Grigio"
+
+msgid "Grey"
+msgstr "Grigio"
+
+msgid "Light Grey Banner"
+msgstr ""
+
+msgid "Light Grey"
+msgstr "Grigio Chiaro"
+
+msgid "Black Banner"
+msgstr ""
+
+msgid "Black"
+msgstr "Nero"
+
+msgid "Red Banner"
+msgstr ""
+
+msgid "Red"
+msgstr "Rosso"
+
+msgid "Yellow Banner"
+msgstr ""
+
+msgid "Yellow"
+msgstr "Giallo"
+
+msgid "Green Banner"
+msgstr ""
+
+msgid "Green"
+msgstr "Verde"
+
+msgid "Cyan Banner"
+msgstr ""
+
+msgid "Cyan"
+msgstr "Ciano"
+
+msgid "Blue Banner"
+msgstr ""
+
+msgid "Blue"
+msgstr "Blu"
+
+msgid "Magenta Banner"
+msgstr ""
+
+msgid "Magenta"
+msgstr "Magenta"
+
+msgid "Orange Banner"
+msgstr ""
+
+msgid "Orange"
+msgstr "Arancione"
+
+msgid "Purple Banner"
+msgstr ""
+
+msgid "Violet"
+msgstr ""
+
+msgid "Brown Banner"
+msgstr ""
+
+msgid "Brown"
+msgstr "Marrone"
+
+msgid "Pink Banner"
+msgstr ""
+
+msgid "Pink"
+msgstr "Rosa"
+
+msgid "Lime Banner"
+msgstr ""
+
+msgid "Lime"
+msgstr "Lime"
+
+msgid "Light Blue Banner"
+msgstr "Stendardo Azzurro"
+
+msgid "Light Blue"
+msgstr "Azzurro"
+
+msgid "Banner"
+msgstr ""
+
+msgid "Banners are tall colorful decorative blocks. They can be placed on the floor and at walls. Banners can be emblazoned with a variety of patterns using a lot of dye in crafting."
+msgstr ""
+
+msgid "Use crafting to draw a pattern on top of the banner. Emblazoned banners can be emblazoned again to combine various patterns. You can draw up to 12 layers on a banner that way. If the banner includes a gradient, only 3 layers are possible."
+msgstr ""
+
+msgid "You can copy the pattern of a banner by placing two banners of the same color in the crafting grid—one needs to be emblazoned, the other one must be clean. Finally, you can use a banner on a cauldron with water to wash off its top-most layer."
+msgstr ""
+
+msgid "@1 Banner"
+msgstr ""
+
+msgid "Preview Banner"
+msgstr ""
+
+msgid "Paintable decoration"
+msgstr ""
+
+msgid "Can be used to craft special banner designs on the loom"
+msgstr ""
+
+msgid "Special Banner Pattern"
+msgstr ""
+
+msgid "@1 Bordure"
+msgstr ""
+
+msgid "@1 Bricks"
+msgstr ""
+
+msgid "@1 Roundel"
+msgstr ""
+
+msgid "@1 Creeper Charge"
+msgstr ""
+
+msgid "@1 Saltire"
+msgstr ""
+
+msgid "@1 Bordure Indented"
+msgstr ""
+
+msgid "@1 Per Bend Inverted"
+msgstr ""
+
+msgid "@1 Per Bend Sinister Inverted"
+msgstr ""
+
+msgid "@1 Per Bend"
+msgstr ""
+
+msgid "@1 Per Bend Sinister"
+msgstr ""
+
+msgid "@1 Flower Charge"
+msgstr ""
+
+msgid "@1 Gradient"
+msgstr ""
+
+msgid "@1 Base Gradient"
+msgstr ""
+
+msgid "@1 Per Fess Inverted"
+msgstr ""
+
+msgid "@1 Per Fess"
+msgstr ""
+
+msgid "@1 Per Pale"
+msgstr ""
+
+msgid "@1 Per Pale Inverted"
+msgstr ""
+
+msgid "@1 Thing Charge"
+msgstr ""
+
+msgid "@1 Globe Charge"
+msgstr ""
+
+msgid "@1 Piglin Charge"
+msgstr ""
+
+msgid "@1 Lozenge"
+msgstr ""
+
+msgid "@1 Skull Charge"
+msgstr ""
+
+msgid "@1 Paly"
+msgstr ""
+
+msgid "@1 Base Dexter Canton"
+msgstr ""
+
+msgid "@1 Base Sinister Canton"
+msgstr ""
+
+msgid "@1 Chief Dexter Canton"
+msgstr ""
+
+msgid "@1 Chief Sinister Canton"
+msgstr ""
+
+msgid "@1 Cross"
+msgstr ""
+
+msgid "@1 Base"
+msgstr ""
+
+msgid "@1 Pale"
+msgstr ""
+
+msgid "@1 Bend Sinister"
+msgstr ""
+
+msgid "@1 Bend"
+msgstr ""
+
+msgid "@1 Pale Dexter"
+msgstr ""
+
+msgid "@1 Fess"
+msgstr ""
+
+msgid "@1 Pale Sinister"
+msgstr ""
+
+msgid "@1 Chief"
+msgstr ""
+
+msgid "@1 Chevron"
+msgstr ""
+
+msgid "@1 Chevron Inverted"
+msgstr ""
+
+msgid "@1 Base Indented"
+msgstr ""
+
+msgid "@1 Chief Indented"
+msgstr ""
+
+msgid "@1 Flow"
+msgstr ""
+
+msgid "@1 Guster"
+msgstr ""
+
+msgid "And one additional layer"
+msgstr ""
+
+msgid "And @1 additional layers"
+msgstr ""
+

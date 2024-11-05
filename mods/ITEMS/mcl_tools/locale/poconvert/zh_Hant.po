@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_tools x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-08-15 18:36+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.codeberg.org/"
+"projects/mineclonia/mcl_tools/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+
+msgid "Solid Blocks of Steel. These are only forged if those that are brave enough can defeat the trials that await them."
+msgstr ""
+
+msgid "Heavy Core"
+msgstr ""
+
+msgid "Pickaxes are mining tools to mine hard blocks, such as stone. A pickaxe can also be used as weapon, but it is rather inefficient."
+msgstr ""
+
+msgid "An axe is your tool of choice to cut down trees, wood-based blocks and other blocks. Axes deal a lot of damage as well, but they are rather slow."
+msgstr ""
+
+msgid "Swords are great in melee combat, as they are fast, deal high damage and can endure countless battles. Swords can also be used to cut down a few particular blocks, such as cobwebs."
+msgstr ""
+
+msgid "Shovels are tools for digging coarse blocks, such as dirt, sand and gravel. They can also be used to turn grass blocks to grass paths. Shovels can be used as weapons, but they are very weak."
+msgstr ""
+
+msgid "To turn a grass block into a grass path, hold the shovel in your hand, then use (rightclick) the top or side of a grass block. This only works when there's air above the grass block."
+msgstr ""
+
+msgid "Shears are tools to shear sheep and to mine a few block types. Shears are a special mining tool and can be used to obtain the original item from grass, leaves and similar blocks that require cutting."
+msgstr ""
+
+msgid "To shear sheep or carve faceless pumpkins, use the “place” key on them. Faces can only be carved at the side of faceless pumpkins. Mining works as usual, but the drops are different for a few blocks."
+msgstr ""
+
+msgid "The mace is a slow melee weapon that deals incredible damage. “dig” key to use it. This weapon has a cooldown of 1.6 seconds, but if you fall the mace will deal more damage than if you are on the ground. The further you fall the more damage done. If you hit a mob or player then you will receive no fall damage, but beware. If you miss you will die. "
+msgstr ""
+
+msgid "Wooden Pickaxe"
+msgstr ""
+
+msgid "Stone Pickaxe"
+msgstr ""
+
+msgid "Iron Pickaxe"
+msgstr ""
+
+msgid "Golden Pickaxe"
+msgstr "金鎬"
+
+msgid "Diamond Pickaxe"
+msgstr ""
+
+msgid "Netherite Pickaxe"
+msgstr "獄髓鎬"
+
+msgid "Wooden Shovel"
+msgstr ""
+
+msgid "Stone Shovel"
+msgstr ""
+
+msgid "Iron Shovel"
+msgstr ""
+
+msgid "Golden Shovel"
+msgstr ""
+
+msgid "Diamond Shovel"
+msgstr ""
+
+msgid "Netherite Shovel"
+msgstr "獄髓鏟"
+
+msgid "Wooden Axe"
+msgstr ""
+
+msgid "Stone Axe"
+msgstr ""
+
+msgid "Iron Axe"
+msgstr ""
+
+msgid "Golden Axe"
+msgstr "金斧"
+
+msgid "Diamond Axe"
+msgstr ""
+
+msgid "Netherite Axe"
+msgstr "獄髓斧"
+
+msgid "Wooden Sword"
+msgstr "木劍"
+
+msgid "Stone Sword"
+msgstr "石劍"
+
+msgid "Iron Sword"
+msgstr "鐵劍"
+
+msgid "Golden Sword"
+msgstr "金劍"
+
+msgid "Diamond Sword"
+msgstr "鑽石劍"
+
+msgid "Netherite Sword"
+msgstr "獄髓劍"
+
+msgid "Shears"
+msgstr ""
+
+msgid "Mace"
+msgstr ""

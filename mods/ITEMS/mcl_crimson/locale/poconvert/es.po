@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_crimson x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Crimson"
+msgstr "Carmesí"
+
+msgid "Warped"
+msgstr "Distorsionado"
+
+msgid "Warped Fungus"
+msgstr "Hongo distorsionado"
+
+msgid "Warped fungus is a mushroom found in the nether's warped forest."
+msgstr "El hongo distorsionado es un hongo que se encuentra en el bosque distorsionado del Nether."
+
+msgid "Twisting Vines"
+msgstr "Enredaderas retorcidas"
+
+msgid "Weeping Vines"
+msgstr "Enredaderas llorosas"
+
+msgid "Nether Sprouts"
+msgstr "Rastrojos del Nether"
+
+msgid "Warped Roots"
+msgstr "Raíces distorsionadas"
+
+msgid "Warped Wart Block"
+msgstr "Bloque de verrugas distorsionadas"
+
+msgid "Shroomlight"
+msgstr "Hongo luminoso"
+
+msgid "Warped Nylium"
+msgstr "Nilio distorsionado"
+
+msgid "Crimson Fungus"
+msgstr "Hongo carmesí"
+
+msgid "Crimson fungus is a mushroom found in the nether's crimson forest."
+msgstr "El hongo carmesí es un hongo que se encuentra en el bosque carmesí del Nether."
+
+msgid "Crimson Roots"
+msgstr "Raíces carmesí"
+
+msgid "Crimson Nylium"
+msgstr "Nilio carmesí"
+

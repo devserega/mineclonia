@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_structures x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-08-26 12:08+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.codeberg.org/"
+"projects/mineclonia/mcl_structures/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.7\n"
+
+msgid "Generate a pre-defined structure near your position."
+msgstr "在你的位置附近產生預先定義的結構。"
+
+msgid "Structure placed."
+msgstr ""
+
+msgid "Error: No structure type given. Please use “/spawnstruct <type>”."
+msgstr ""
+
+msgid "Error: Unknown structure type. Please use “/spawnstruct <type>”."
+msgstr ""
+
+msgid "Use /help spawnstruct to see a list of available types."
+msgstr ""

@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_monster_eggs x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Hides a silverfish"
+msgstr "Cache un Poisson d'Argent"
+
+msgid "Infested Stone"
+msgstr "Roche Infestée"
+
+msgid "Infested Cobblestone"
+msgstr "Pierre Infestée"
+
+msgid "Infested Stone Bricks"
+msgstr "Pierre Taillée Infestée"
+
+msgid "Infested Cracked Stone Bricks"
+msgstr "Pierre Taillée Craquelée Infestée"
+
+msgid "Infested Mossy Stone Bricks"
+msgstr "Pierre Taillée Moussue Infestée"
+
+msgid "Infested Chiseled Stone Bricks"
+msgstr "Pierre sculptée Infestée"
+
+msgid "\n"
+"			An infested block is a block from which a silverfish will pop out when it is broken.\n"
+"			It looks identical to its normal counterpart.\n"
+"		"
+msgstr "\n"
+"\t\t\tUn bloc infesté est un bloc d'où sort un poisson d'argent lorsqu'il est cassé.\n"
+"\t\t\tIl est identique à son homologue normal.\n"
+"\t\t"
+

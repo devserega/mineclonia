@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_copper x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Waxed @1"
+msgstr "@1 ciré"
+
+msgid "Copper Ingot"
+msgstr "Lingot de cuivre"
+
+msgid "Molten Raw Copper. It is used to craft blocks."
+msgstr "Cuivre brut fondu. Utilisé pour fabriquer des blocs."
+
+msgid "Raw Copper"
+msgstr "Cuivre brut"
+
+msgid "Raw Copper. Mine a Copper Ore to get it."
+msgstr "Cuivre brut. Miner du minerai de cuivre pour l'obtenir."
+
+msgid "Copper Ore"
+msgstr "Minerai de cuivre"
+
+msgid "Some copper contained in stone, it is pretty common and can be found below sea level."
+msgstr "Un peu de cuivre se trouve dans la pierre, il est plutôt répandu et peut être trouvé sous le niveau de la mer."
+
+msgid "Block of Raw Copper"
+msgstr "Bloc de cuivre brut"
+
+msgid "A block used for compact raw copper storage."
+msgstr "Un bloc utilisé pour le stockage compact de cuivre brut."
+
+msgid "Exposed"
+msgstr "Exposé"
+
+msgid "Weathered"
+msgstr "Érodé"
+
+msgid "Oxidized"
+msgstr "Oxydé"
+
+msgid "Block of"
+msgstr "Bloc de"
+
+msgid "@1 Copper"
+msgstr "@1 Cuivre"
+
+msgid "@1 copper is mostly a decorative block."
+msgstr "Le @1 cuivre est surtout un bloc décoratif."
+
+msgid "@1 Cut Copper"
+msgstr "Cuivre Taillé @1"
+
+msgid "@1 Chiseled Copper"
+msgstr "Cuivre Ciselé @1"
+
+msgid "@1 Chiseled copper is mostly a decorative block."
+msgstr "Le @1 Cuivre Ciselé est surtout un bloc décoratif."
+
+msgid "@1 Copper Grate"
+msgstr "Grille en cuivre @1"
+
+msgid "@1 Copper Bulb On"
+msgstr "Ampoule en Cuivre @1 allumée"
+
+msgid "@1 Copper Bulb"
+msgstr "Ampoule en Cuivre @1"
+
+msgid "@1 Copper Trapdoor"
+msgstr "Trappe en Cuivre @1"
+
+msgid "@1 Copper Door"
+msgstr "Porte en Cuivre @1"
+
+msgid "@1 Cut Copper Stairs"
+msgstr ""
+
+msgid "@1 Cut Copper Slab"
+msgstr ""
+

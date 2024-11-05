@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_copper x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Waxed @1"
+msgstr ""
+
+msgid "Copper Ingot"
+msgstr ""
+
+msgid "Molten Raw Copper. It is used to craft blocks."
+msgstr ""
+
+msgid "Raw Copper"
+msgstr ""
+
+msgid "Raw Copper. Mine a Copper Ore to get it."
+msgstr ""
+
+msgid "Copper Ore"
+msgstr ""
+
+msgid "Some copper contained in stone, it is pretty common and can be found below sea level."
+msgstr ""
+
+msgid "Block of Raw Copper"
+msgstr ""
+
+msgid "A block used for compact raw copper storage."
+msgstr ""
+
+msgid "Exposed"
+msgstr ""
+
+msgid "Weathered"
+msgstr ""
+
+msgid "Oxidized"
+msgstr ""
+
+msgid "Block of"
+msgstr ""
+
+msgid "@1 Copper"
+msgstr ""
+
+msgid "@1 copper is mostly a decorative block."
+msgstr ""
+
+msgid "@1 Cut Copper"
+msgstr ""
+
+msgid "@1 Chiseled Copper"
+msgstr ""
+
+msgid "@1 Chiseled copper is mostly a decorative block."
+msgstr ""
+
+msgid "@1 Copper Grate"
+msgstr ""
+
+msgid "@1 Copper Bulb On"
+msgstr ""
+
+msgid "@1 Copper Bulb"
+msgstr ""
+
+msgid "@1 Copper Trapdoor"
+msgstr ""
+
+msgid "@1 Copper Door"
+msgstr ""
+
+msgid "@1 Cut Copper Stairs"
+msgstr ""
+
+msgid "@1 Cut Copper Slab"
+msgstr ""
+

@@ -1,0 +1,21 @@
+# textdomain: mcl_buckets
+Bucket of @1=Teli Vödör @1
+This bucket is filled with water and @1.=Ebben a vödörben víz és @1 van.
+Place it to empty the bucket and place a @1. Obtain by right clicking on a @2 with a bucket of water.=Tedd le a vödröt, hogy kiürítsd és elhelyezd: @1. Felveheted, ha egy vödör vízzel jobb gombot nyomsz erre: @2.
+Places a water source and a @1.=Vízforrást és @1-t helyez el.
+Empty Bucket=Üres Vödör
+A bucket can be used to collect and release liquids.=A vödörrel folyadékot szállíthatsz és önthetsz ki.
+Punch a liquid source to collect it. You can then use the filled bucket to place the liquid somewhere else.=Üss meg egy folyadékforrást a begyűjtéshez. Ezután a teli vödör segítségével elhelyezheted a folyadékot valahol máshol.
+Collects liquids=Folyadékot gyűjt be
+Lava Bucket=Láva Vödör
+A bucket can be used to collect and release liquids. This one is filled with hot lava, safely contained inside. Use with caution.=A vödör folyadékok összegyűjtésére és kiöntésére használható. Ez tele van forró lávával. Használd óvatosan.
+Get in a safe distance and place the bucket to empty it and create a lava source at this spot. Don't burn yourself!=Kerülj biztonságos távolságba és helyezd el a vödröt a kiürítéshez. Ezzel lávaforrást hozol létre ezen a helyen. Ne égesd meg magad!
+Places a lava source=Lávaforrást helyez el
+Water Bucket=Vizes Vödör
+A bucket can be used to collect and release liquids. This one is filled with water.=A vödör folyadékok összegyűjtésére és kiöntésére használható. Ez vízzel van tele.
+Place it to empty the bucket and create a water source.=Helyezd el a vödröt a kiürítéshez, ezzel vízforrást hozol létre.
+Places a water source=Vízforrást hoz létre
+River Water Bucket=Folyóvizes Vödör
+A bucket can be used to collect and release liquids. This one is filled with river water.=A vödör folyadékok összegyűjtésére és kiöntésére használható. Ez folyóvízzel van tele.
+Place it to empty the bucket and create a river water source.=Helyezd el a vödröt a kiürítéshez, ezzel folyóvíz forrást hozol létre.
+Places a river water source=Folyóvíz forrást hoz létre

@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_trees x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "When placed on soil (such as dirt) and exposed to light, a sapling will grow into a tree after some time."
+msgstr ""
+
+msgid "Needs soil and light to grow"
+msgstr ""
+
+msgid "Wooden doors are 2-block high barriers which can be opened or closed by hand and by a redstone signal."
+msgstr ""
+
+msgid "To open or close a wooden door, rightclick it or supply its lower half with a redstone signal."
+msgstr ""
+
+msgid "Wooden trapdoors are horizontal barriers which can be opened and closed by hand or a redstone signal. They occupy the upper or lower part of a block, depending on how they have been placed. When open, they can be climbed like a ladder."
+msgstr ""
+
+msgid "To open or close the trapdoor, rightclick it or send a redstone signal to it."
+msgstr ""
+
+msgid "@1 Log"
+msgstr ""
+
+msgid "The trunk of a @1 tree."
+msgstr ""
+
+msgid "@1 Planks"
+msgstr ""
+
+msgid "@1 Bark"
+msgstr ""
+
+msgid "This is a decorative block surrounded by the bark of a tree trunk."
+msgstr ""
+
+msgid "Stripped @1 Log"
+msgstr ""
+
+msgid "The stripped trunk of an @1 tree."
+msgstr ""
+
+msgid "Stripped @1 Wood"
+msgstr ""
+
+msgid "The stripped wood of an @1 tree."
+msgstr ""
+
+msgid "@1 Sapling"
+msgstr ""
+
+msgid "@1 Leaves"
+msgstr ""
+
+msgid "@1 leaves are grown from @2 trees."
+msgstr ""
+
+msgid "@1 Fence"
+msgstr ""
+
+msgid "@1 Fence Gate"
+msgstr ""
+
+msgid "@1 Door"
+msgstr ""
+
+msgid "@1 Trapdoor"
+msgstr ""
+
+msgid "@1 Stairs"
+msgstr ""
+
+msgid "@1 Bark Stairs"
+msgstr ""
+
+msgid "@1 Slab"
+msgstr ""
+
+msgid "@1 Bark Slab"
+msgstr ""
+
+msgid "@1 Sign"
+msgstr ""
+
+msgid "@1 Pressure Plate"
+msgstr ""
+
+msgid "A wooden pressure plate is a redstone component which supplies its surrounding blocks with redstone power while any movable object (including dropped items, players and mobs) rests on top of it."
+msgstr ""
+
+msgid "@1 Button"
+msgstr ""
+
+msgid "A wooden button is a redstone component made out of wood which can be pushed to provide redstone power. When pushed, it powers adjacent redstone components for 1.5 seconds. Wooden buttons may also be pushed by arrows."
+msgstr ""
+
+msgid "@1 Boat"
+msgstr ""
+
+msgid "@1 Chest Boat"
+msgstr ""
+

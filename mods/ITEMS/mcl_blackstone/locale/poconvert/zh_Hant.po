@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_blackstone x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-08-26 12:08+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.codeberg.org/"
+"projects/mineclonia/mcl_blackstone/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.7\n"
+
+msgid "Blackstone"
+msgstr "黑石"
+
+msgid "Gilded Blackstone"
+msgstr ""
+
+msgid "Nether Gold Ore"
+msgstr ""
+
+msgid "Polished Basalt"
+msgstr ""
+
+msgid "Basalt"
+msgstr ""
+
+msgid "Smooth Basalt"
+msgstr ""
+
+msgid "Polished Blackstone"
+msgstr ""
+
+msgid "Chiseled Polished Blackstone"
+msgstr ""
+
+msgid "Polished Blackstone Bricks"
+msgstr ""
+
+msgid "Cracked Polished Blackstone Bricks"
+msgstr ""
+
+msgid "Quartz Bricks"
+msgstr ""
+
+msgid "Soul Soil"
+msgstr ""
+
+msgid "Eternal Soul Fire"
+msgstr ""
+
+msgid "Blackstone Stairs"
+msgstr ""
+
+msgid "Blackstone Slab"
+msgstr ""
+
+msgid "Polished Blackstone Stairs"
+msgstr ""
+
+msgid "Polished Blackstone Slab"
+msgstr ""
+
+msgid "Blackstone Brick Stairs"
+msgstr ""
+
+msgid "Blackstone Brick Slab"
+msgstr ""
+
+msgid "Blackstone Wall"
+msgstr ""
+
+msgid "Soul Torch"
+msgstr ""
+
+msgid "Torches are light sources which can be placed at the side or on the top of most blocks."
+msgstr ""

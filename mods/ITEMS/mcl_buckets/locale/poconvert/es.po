@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_buckets x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Bucket of @1"
+msgstr "Cubo de @1"
+
+msgid "This bucket is filled with water and @1."
+msgstr "Este cubo está lleno de agua y @1."
+
+msgid "Place it to empty the bucket and place a @1. Obtain by right clicking on a @2 with a bucket of water."
+msgstr "Colócalo para vaciar el cubo y colocar un @1. Obténlo al hacer clic derecho en un @2 con un cubo de agua."
+
+msgid "Places a water source and a @1."
+msgstr "Coloca una fuente de agua y un @1."
+
+msgid "Empty Bucket"
+msgstr "Cubo vacío"
+
+msgid "A bucket can be used to collect and release liquids."
+msgstr "Se puede usar un cubo para recoger y liberar líquidos."
+
+msgid "Punch a liquid source to collect it. You can then use the filled bucket to place the liquid somewhere else."
+msgstr "Golpea una fuente de líquido para recolectarla. Luego puede usar el cubo lleno para colocar el líquido en otro lugar."
+
+msgid "Collects liquids"
+msgstr "Recoge líquidos"
+
+msgid "Lava Bucket"
+msgstr "Cubo con lava"
+
+msgid "A bucket can be used to collect and release liquids. This one is filled with hot lava, safely contained inside. Use with caution."
+msgstr "Se puede usar un cubo para recoger y liberar líquidos. Este está lleno de lava caliente, contenida de forma segura en el interior. Usar con precaución."
+
+msgid "Get in a safe distance and place the bucket to empty it and create a lava source at this spot. Don't burn yourself!"
+msgstr "Aléjate a una distancia segura y coloca el cubo para vaciarlo y crea una fuente de lava en este lugar. ¡No te quemes!"
+
+msgid "Places a lava source"
+msgstr "Coloca una fuente de lava"
+
+msgid "Water Bucket"
+msgstr "Cubo con agua"
+
+msgid "A bucket can be used to collect and release liquids. This one is filled with water."
+msgstr "Se puede usar un cubo para recoger y liberar líquidos. Este está lleno de agua."
+
+msgid "Place it to empty the bucket and create a water source."
+msgstr "Colóquelo para vaciar el cubo y crear una fuente de agua."
+
+msgid "Places a water source"
+msgstr "Coloca una fuente de agua"
+
+msgid "River Water Bucket"
+msgstr "Cubo de agua de río"
+
+msgid "A bucket can be used to collect and release liquids. This one is filled with river water."
+msgstr "Se puede usar un cubo para recoger y liberar líquidos. Este está lleno de agua de río."
+
+msgid "Place it to empty the bucket and create a river water source."
+msgstr "Colóquelo para vaciar el cubo y crear una fuente de agua de río."
+
+msgid "Places a river water source"
+msgstr "Coloca una fuente de agua de río"
+

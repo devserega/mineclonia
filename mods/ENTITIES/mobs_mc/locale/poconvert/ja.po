@@ -1,0 +1,327 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mobs_mc x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Axolotl"
+msgstr "ウーパールーパー"
+
+msgid "Bat"
+msgstr "コウモリ"
+
+msgid "Blaze"
+msgstr "ブレイズ"
+
+msgid "Chicken"
+msgstr "ニワトリ"
+
+msgid "Cod"
+msgstr "タラ"
+
+msgid "Cow"
+msgstr "ウシ"
+
+msgid "Mooshroom"
+msgstr "ムーシュルーム"
+
+msgid "Creeper"
+msgstr "クリーパー"
+
+msgid "Charged Creeper"
+msgstr ""
+
+msgid "Dolphin"
+msgstr "イルカ"
+
+msgid "Ender Dragon"
+msgstr "エンダードラゴン"
+
+msgid "Enderman"
+msgstr "エンダーマン"
+
+msgid "Endermite"
+msgstr "エンダーマイト"
+
+msgid "Ghast"
+msgstr "ガスト"
+
+msgid "Ghast Fireball"
+msgstr ""
+
+msgid "Guardian"
+msgstr "ガーディアン"
+
+msgid "Elder Guardian"
+msgstr "エルダーガーディアン"
+
+msgid "Hoglin"
+msgstr ""
+
+msgid "Zoglin"
+msgstr ""
+
+msgid "Baby Hoglin"
+msgstr ""
+
+msgid "Horse"
+msgstr "ウマ"
+
+msgid "Skeleton Horse"
+msgstr "スケルトンホース"
+
+msgid "Zombie Horse"
+msgstr "ゾンビホース"
+
+msgid "Donkey"
+msgstr "ロバ"
+
+msgid "Mule"
+msgstr "ラバ"
+
+msgid "Sneak to dismount"
+msgstr ""
+
+msgid "Iron Golem"
+msgstr "アイアンゴーレム"
+
+msgid "Llama"
+msgstr "ラマ"
+
+msgid "Ocelot"
+msgstr "ヤマネコ"
+
+msgid "Cat"
+msgstr ""
+
+msgid "Parrot"
+msgstr "オウム"
+
+msgid "Pig"
+msgstr "ブタ"
+
+msgid "Piglin"
+msgstr ""
+
+msgid "Zombiefied Piglin"
+msgstr ""
+
+msgid "Piglin Brute"
+msgstr ""
+
+msgid "Zombie Piglin"
+msgstr ""
+
+msgid "Pillager"
+msgstr "ピリジャー"
+
+msgid "Polar Bear"
+msgstr "シロクマ"
+
+msgid "Rabbit"
+msgstr "ウサギ"
+
+msgid "Killer Bunny"
+msgstr "殺人ウサギ"
+
+msgid "Salmon"
+msgstr "サケ"
+
+msgid "Sheep"
+msgstr "ヒツジ"
+
+msgid "Shulker"
+msgstr "シュルカー"
+
+msgid "Silverfish"
+msgstr "シルバーフィッシュ"
+
+msgid "Skeleton"
+msgstr "スケルトン"
+
+msgid "Stray"
+msgstr "ストレイ"
+
+msgid "Wither Skeleton"
+msgstr "ウィザースケルトン"
+
+msgid "Slime - big"
+msgstr ""
+
+msgid "Slime - small"
+msgstr ""
+
+msgid "Slime - tiny"
+msgstr ""
+
+msgid "Magma Cube - big"
+msgstr ""
+
+msgid "Magma Cube - small"
+msgstr ""
+
+msgid "Magma Cube - tiny"
+msgstr ""
+
+msgid "Magma Cube"
+msgstr "マグマキューブ"
+
+msgid "Slime"
+msgstr "スライム"
+
+msgid "Snow Golem"
+msgstr "スノーゴーレム"
+
+msgid "Spider"
+msgstr "クモ"
+
+msgid "Cave Spider"
+msgstr "洞窟グモ"
+
+msgid "Squid"
+msgstr "イカ"
+
+msgid "Glow Squid"
+msgstr ""
+
+msgid "Strider"
+msgstr ""
+
+msgid "Baby Strider"
+msgstr ""
+
+msgid "Tropical Fish"
+msgstr ""
+
+msgid "Tropical fish"
+msgstr "クマノミ"
+
+msgid "Vex"
+msgstr "ヴェックス"
+
+msgid "Villager"
+msgstr "村人"
+
+msgid "Evoker"
+msgstr "エヴォーカー"
+
+msgid "Illusioner"
+msgstr "イリュージョナー"
+
+msgid "Vindicator"
+msgstr "ヴィンディケーター"
+
+msgid "Zombie Villager"
+msgstr "村人ゾンビ"
+
+msgid "@1 sleeps here"
+msgstr ""
+
+msgid "A villager sleeps here"
+msgstr ""
+
+msgid "@1 works here"
+msgstr ""
+
+msgid "A villager works here"
+msgstr ""
+
+msgid "Unemployed"
+msgstr ""
+
+msgid "Farmer"
+msgstr "農民"
+
+msgid "Fisherman"
+msgstr "漁師"
+
+msgid "Fletcher"
+msgstr "矢師"
+
+msgid "Shepherd"
+msgstr "羊飼い"
+
+msgid "Librarian"
+msgstr "司書"
+
+msgid "Cartographer"
+msgstr "製図家"
+
+msgid "Armorer"
+msgstr "防具鍛冶"
+
+msgid "Leatherworker"
+msgstr "革職人"
+
+msgid "Butcher"
+msgstr "肉屋"
+
+msgid "Weapon Smith"
+msgstr "武器鍛冶"
+
+msgid "Tool Smith"
+msgstr "道具鍛冶"
+
+msgid "Cleric"
+msgstr "聖職者"
+
+msgid "Mason"
+msgstr ""
+
+msgid "Nitwit"
+msgstr "求職者"
+
+msgid "Wandering Trader"
+msgstr ""
+
+msgid "Novice"
+msgstr ""
+
+msgid "Apprentice"
+msgstr ""
+
+msgid "Journeyman"
+msgstr ""
+
+msgid "Expert"
+msgstr ""
+
+msgid "Master"
+msgstr ""
+
+msgid "Witch"
+msgstr "魔女"
+
+msgid "Wither"
+msgstr "ウィザー"
+
+msgid "Wolf"
+msgstr "オオカミ"
+
+msgid "Dog"
+msgstr ""
+
+msgid "Zombie"
+msgstr "ゾンビ"
+
+msgid "Baby Zombie"
+msgstr ""
+
+msgid "Husk"
+msgstr "ハスク"
+
+msgid "Baby Husk"
+msgstr ""
+
+msgid "Zombified Piglin"
+msgstr ""
+

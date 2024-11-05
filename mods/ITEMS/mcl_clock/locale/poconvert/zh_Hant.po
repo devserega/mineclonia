@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_clock x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-08-17 07:41+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.translate.codeberg.org>\n"
+"Language-Team: Chinese (Traditional) <https://translate.codeberg.org/"
+"projects/mineclonia/mcl_clock/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
+
+msgid "Clocks are tools which shows the current time of day in the Overworld."
+msgstr "時鐘是顯示主世界目前時間的工具。"
+
+msgid "The clock contains a rotating disc with a sun symbol (yellow disc) and moon symbol and a little “pointer” which shows the current time of day by estimating the real position of the sun and the moon in the sky. Noon is represented by the sun symbol and midnight is represented by the moon symbol."
+msgstr ""
+
+msgid "Displays the time of day in the Overworld"
+msgstr "顯示主世界中的時間"
+
+msgid "Clock"
+msgstr "時鐘"

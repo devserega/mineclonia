@@ -1,0 +1,10 @@
+# textdomain: mcl_beacons
+Primary Power:=Poder Primário:
+Secondary Power:=
+Inventory:=Inventário:
+Beacon=Sinalizador
+
+
+##### not used anymore #####
+
+Beacon:=Sinalizador:

@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mesecons_pressureplates x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "A pressure plate is a redstone component which supplies its surrounding blocks with redstone power while someone or something rests on top of it."
+msgstr "Нажимная плита это компонент редстоуна, который выдает сигнал редстоуна окружающим его блокам, когда кто-то или что-то находится прямо на нём."
+
+msgid "Provides redstone power when pushed"
+msgstr "Выдает сигнал редстоуна при нажатии"
+
+msgid "Pushable by players, mobs and objects"
+msgstr "Нажимается игроками, мобами и предметами"
+
+msgid "Pushable by players and mobs"
+msgstr "Нажимается игроками и мобами"
+
+msgid "Pushable by mobs"
+msgstr "Нажимается мобами"
+
+msgid "Pushable by players"
+msgstr "Нажимается игроками"
+
+msgid "Stone Pressure Plate"
+msgstr "Каменная нажимная плита"
+
+msgid "A stone pressure plate is a redstone component which supplies its surrounding blocks with redstone power while a player or mob stands on top of it. It is not triggered by anything else."
+msgstr "Каменная нажимная плита это компонент редстоуна, который выдает сигнал редстоуна окружающим его блокам, когда игрок или моб находится прямо на нём. От чего-то другого она не сработает."
+
+msgid "Polished Blackstone Pressure Plate"
+msgstr "Нажимная плита из полированного чернокамня"
+
+msgid "A polished blackstone pressure plate is a redstone component which supplies its surrounding blocks with redstone power while a player or mob stands on top of it. It is not triggered by anything else."
+msgstr "Нажимная плита из полированного чернокамня это компонент редстоуна, который выдает сигнал редстоуна окружающим его блокам, когда игрок или моб находится прямо на нём. От чего-то другого она не сработает."
+

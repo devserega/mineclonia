@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_banners x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "White Banner"
+msgstr "白色の旗"
+
+msgid "White"
+msgstr "白色"
+
+msgid "Grey Banner"
+msgstr "灰色の旗"
+
+msgid "Grey"
+msgstr "灰色"
+
+msgid "Light Grey Banner"
+msgstr "薄灰色の旗"
+
+msgid "Light Grey"
+msgstr "薄灰色"
+
+msgid "Black Banner"
+msgstr "黒色の旗"
+
+msgid "Black"
+msgstr "黒色"
+
+msgid "Red Banner"
+msgstr "赤色の旗"
+
+msgid "Red"
+msgstr "赤色"
+
+msgid "Yellow Banner"
+msgstr "黄色の旗"
+
+msgid "Yellow"
+msgstr "黄色"
+
+msgid "Green Banner"
+msgstr "緑色の旗"
+
+msgid "Green"
+msgstr "緑色"
+
+msgid "Cyan Banner"
+msgstr "青緑色の旗"
+
+msgid "Cyan"
+msgstr "青緑色"
+
+msgid "Blue Banner"
+msgstr "青色の旗"
+
+msgid "Blue"
+msgstr "青色"
+
+msgid "Magenta Banner"
+msgstr "赤紫色の旗"
+
+msgid "Magenta"
+msgstr "赤紫色"
+
+msgid "Orange Banner"
+msgstr "橙色の旗"
+
+msgid "Orange"
+msgstr "橙色"
+
+msgid "Purple Banner"
+msgstr "紫色の旗"
+
+msgid "Violet"
+msgstr "紫色"
+
+msgid "Brown Banner"
+msgstr "茶色の旗"
+
+msgid "Brown"
+msgstr "茶色"
+
+msgid "Pink Banner"
+msgstr "桃色の旗"
+
+msgid "Pink"
+msgstr "桃色"
+
+msgid "Lime Banner"
+msgstr "黄緑色の旗"
+
+msgid "Lime"
+msgstr "黄緑色"
+
+msgid "Light Blue Banner"
+msgstr "空色の旗"
+
+msgid "Light Blue"
+msgstr "空色"
+
+msgid "Banner"
+msgstr ""
+
+msgid "Banners are tall colorful decorative blocks. They can be placed on the floor and at walls. Banners can be emblazoned with a variety of patterns using a lot of dye in crafting."
+msgstr "旗は、背の高いカラフルな装飾ブロックです。床や壁に配置できます。クラフトで染料を多用すると、さまざまな模様のエンブレムが作れます。"
+
+msgid "Use crafting to draw a pattern on top of the banner. Emblazoned banners can be emblazoned again to combine various patterns. You can draw up to 12 layers on a banner that way. If the banner includes a gradient, only 3 layers are possible."
+msgstr "クラフトによって、旗の面に模様を描きます。エンブレム入りの旗を再度エンブレム化することで、様々なパターンを組み合わせられます。この方法では、旗に最大12枚のレイヤー（重ねられる層）が描けます。グラデーションを含む場合は、3レイヤーまでとなります。"
+
+msgid "You can copy the pattern of a banner by placing two banners of the same color in the crafting grid—one needs to be emblazoned, the other one must be clean. Finally, you can use a banner on a cauldron with water to wash off its top-most layer."
+msgstr "同じ色の旗を2枚並べて、旗の模様を写せます。1枚はエンブレム入りで、もう1枚はまっさらな状態であることが必要です。最後に、旗を大釜の上に置いて使うことで、その一番上のレイヤーを水で洗い流す事もできます。"
+
+msgid "@1 Banner"
+msgstr ""
+
+msgid "Preview Banner"
+msgstr ""
+
+msgid "Paintable decoration"
+msgstr "塗装可能な装飾"
+
+msgid "Can be used to craft special banner designs on the loom"
+msgstr ""
+
+msgid "Special Banner Pattern"
+msgstr ""
+
+msgid "@1 Bordure"
+msgstr "@1 縁取り"
+
+msgid "@1 Bricks"
+msgstr "@1 レンガ模様"
+
+msgid "@1 Roundel"
+msgstr "@1 円形"
+
+msgid "@1 Creeper Charge"
+msgstr "@1 クリーパー模様"
+
+msgid "@1 Saltire"
+msgstr "@1 ✕字"
+
+msgid "@1 Bordure Indented"
+msgstr "@1 波形の縁取り"
+
+msgid "@1 Per Bend Inverted"
+msgstr "@1 ＼分割 左下塗り"
+
+msgid "@1 Per Bend Sinister Inverted"
+msgstr "@1 ／分割 右下塗り"
+
+msgid "@1 Per Bend"
+msgstr "@1 ＼分割 右上塗り"
+
+msgid "@1 Per Bend Sinister"
+msgstr "@1 ／分割 左上塗り"
+
+msgid "@1 Flower Charge"
+msgstr "@1 花模様"
+
+msgid "@1 Gradient"
+msgstr "@1 グラデーション 上から塗り"
+
+msgid "@1 Base Gradient"
+msgstr "@1 グラデーション 下から塗り"
+
+msgid "@1 Per Fess Inverted"
+msgstr "@1 上下分割 下塗り"
+
+msgid "@1 Per Fess"
+msgstr "@1 上下分割 上塗り"
+
+msgid "@1 Per Pale"
+msgstr "@1 左右分割 左塗り"
+
+msgid "@1 Per Pale Inverted"
+msgstr "@1 左右分割 右塗り"
+
+msgid "@1 Thing Charge"
+msgstr "@1 何かの模様"
+
+msgid "@1 Globe Charge"
+msgstr ""
+
+msgid "@1 Piglin Charge"
+msgstr ""
+
+msgid "@1 Lozenge"
+msgstr "@1 菱形"
+
+msgid "@1 Skull Charge"
+msgstr "@1 骸骨模様"
+
+msgid "@1 Paly"
+msgstr "@1 縦縞"
+
+msgid "@1 Base Dexter Canton"
+msgstr "@1 矩形 左下塗り"
+
+msgid "@1 Base Sinister Canton"
+msgstr "@1 矩形 右下塗り"
+
+msgid "@1 Chief Dexter Canton"
+msgstr "@1 矩形 左上塗り"
+
+msgid "@1 Chief Sinister Canton"
+msgstr "@1 矩形 右上塗り"
+
+msgid "@1 Cross"
+msgstr "@1 十字"
+
+msgid "@1 Base"
+msgstr "@1 横帯 下端塗り"
+
+msgid "@1 Pale"
+msgstr "@1 縦帯 中央塗り"
+
+msgid "@1 Bend Sinister"
+msgstr "@1 ／帯"
+
+msgid "@1 Bend"
+msgstr "@1 ＼帯"
+
+msgid "@1 Pale Dexter"
+msgstr "@1 縦帯 左端塗り"
+
+msgid "@1 Fess"
+msgstr "@1 横帯 中央塗り"
+
+msgid "@1 Pale Sinister"
+msgstr "@1 縦帯 右端塗り"
+
+msgid "@1 Chief"
+msgstr "@1 横帯 上端塗り"
+
+msgid "@1 Chevron"
+msgstr "@1 下に三角形"
+
+msgid "@1 Chevron Inverted"
+msgstr "@1 上に逆三角形"
+
+msgid "@1 Base Indented"
+msgstr "@1 下に波形 "
+
+msgid "@1 Chief Indented"
+msgstr "@1 上に波形"
+
+msgid "@1 Flow"
+msgstr ""
+
+msgid "@1 Guster"
+msgstr ""
+
+msgid "And one additional layer"
+msgstr "さらにレイヤーを1枚追加"
+
+msgid "And @1 additional layers"
+msgstr "さらにレイヤーを@1枚追加"
+

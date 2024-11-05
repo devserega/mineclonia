@@ -1,0 +1,8 @@
+# textdomain: mcl_experience
+Bottle o' Enchanting=經驗瓶
+[[<player>] <xp>]=[[<玩家>] <經驗值>]
+Gives a player some XP=給一名玩家一些經驗值
+Error: Too many parameters!=
+Error: Incorrect value of XP=
+Error: Player not found=
+Added @1 XP to @2, total: @3, experience level: @4=已增加 @1 點經驗值至 @2，總計：@3，經驗等級：@4

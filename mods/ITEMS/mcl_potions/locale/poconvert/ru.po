@@ -1,0 +1,507 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_potions x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "<effect>|heal|list|clear|remove <duration|heal-amount|effect>|INF [<level>] [<factor>] [NOPART]"
+msgstr "<effect>|heal|list|clear|remove <duration|heal-amount|effect>|INF [<level>] [<factor>] [NOPART]"
+
+msgid "Add a status effect to yourself. Arguments: <effect>: name of status effect. Passing \"list\" as effect name lists available effects. Passing \"heal\" as effect name heals (or harms) by amount designed by the next parameter. Passing \"clear\" as effect name removes all effects. Passing \"remove\" as effect name removes the effect named by the next parameter. <duration>: duration in seconds. Passing \"INF\" as duration makes the effect infinite. (<heal-amount>: amount of healing when the effect is \"heal\", passing a negative value subtracts health. <effect>: name of a status effect to be removed when using \"remove\" as the previous parameter.) <level>: effect power determinant, bigger level results in more powerful effect for effects that depend on the level (no changes for other effects), defaults to 1, pass F to use low-level factor instead. <factor>: effect strength modifier, can mean different things depending on the effect, no changes for effects that do not depend on level/factor. NOPART at the end means no particles will be shown for this effect."
+msgstr "Добавьте себе в статус эффект. Аргументы: <effect>: имя эффекта состояния. Передача «list» в качестве имени эффекта приводит список доступных эффектов. Передача «heal» в качестве имени эффекта исцеляет (или наносит вред) на величину, определяемую следующим параметром. Передача «clear» в качестве имени эффекта снимает все эффекты. Передача «remove» в качестве имени эффекта снимает эффект, названный следующим параметром. <duration>: продолжительность в секундах. Передача «INF» в качестве длительности делает эффект бесконечным. (<heal-amount>: количество исцеления при эффекте «heal», передача отрицательного значения вычитает здоровье. <effect>: имя эффекта состояния, который будет снят при использовании «remove» в качестве предыдущего параметра). <level>: определитель силы эффекта, больший уровень приводит к более мощному эффекту для эффектов, зависящих от уровня (для других эффектов изменений нет), по умолчанию 1, передайте F, чтобы использовать низкоуровневый фактор вместо этого. <фактор>: модификатор силы эффекта, может означать разные вещи в зависимости от эффекта, не изменяется для эффектов, которые не зависят от уровня/фактора. NOPART в конце означает, что для этого эффекта не будут показаны частицы."
+
+msgid "Missing effect parameter!"
+msgstr "Отсутствует параметр эффекта!"
+
+msgid "Missing or invalid heal amount parameter!"
+msgstr "Отсутствующий или недопустимый параметр суммы исцеления!"
+
+msgid "Player @1 healed by @2 HP."
+msgstr "Игрок @1 исцелился на @2 HP."
+
+msgid "Player @1 harmed by @2 HP."
+msgstr "Игроку @1 нанесен урон @2 HP."
+
+msgid "Effects cleared for player @1"
+msgstr "Эффекты очищены для игрока @1"
+
+msgid "Removed effect @1 from player @2"
+msgstr "Снятие эффекта @1 с игрока @2"
+
+msgid "@1 is not an available status effect."
+msgstr "@1 не является допустимым эффектом."
+
+msgid "Missing or invalid duration parameter!"
+msgstr "Отсутствует либо неправильно задан параметр длительности!"
+
+msgid "Invalid level parameter!"
+msgstr "Неверный параметр уровня!"
+
+msgid "Missing or invalid factor parameter when level is F!"
+msgstr "Отсутствующий или недопустимый параметр фактора, когда уровень - F!"
+
+msgid "@1 effect given to player @2 for @3 seconds with factor of @4."
+msgstr "Эффект @1 дается игроку @2 на @3 секунды с коэффициентом @4."
+
+msgid "@1 effect given to player @2 for @3 seconds."
+msgstr "Эффект @1 дается игроку @2 на @3 секунды."
+
+msgid "Giving effect @1 to player @2 failed."
+msgstr "Передача эффекта @1 игроку @2 не удалась."
+
+msgid "@1 effect on level @2 given to player @3 for @4 seconds."
+msgstr "Эффект @1 на уровне @2 дается игроку @3 на @4 секунды."
+
+msgid "Invisiblity"
+msgstr "Невидимость"
+
+msgid "body is invisible"
+msgstr "тело невидимо"
+
+msgid "Poison"
+msgstr "отравления"
+
+msgid "-1 HP / @1 s"
+msgstr "-1 HP / @1 с"
+
+msgid "Regeneration"
+msgstr "регенерации"
+
+msgid "+1 HP / @1 s"
+msgstr "+1 HP / @1 с"
+
+msgid "Strength"
+msgstr "Прочность"
+
+msgid "+@1% melee damage"
+msgstr "+@1% урона в ближнем бою"
+
+msgid "Weakness"
+msgstr "слабости+"
+
+msgid "-@1% melee damage"
+msgstr "-@1% урона в ближнем бою"
+
+msgid "Water Breathing"
+msgstr "подводного дыхания"
+
+msgid "limitless breathing under water"
+msgstr "Безграничное дыхание под водой"
+
+msgid "Dolphin's Grace"
+msgstr "Благодать дельфина"
+
+msgid "swimming gracefully"
+msgstr "грациозное плавание"
+
+msgid "Leaping"
+msgstr "прыгучести"
+
+msgid "+@1% jumping power"
+msgstr "+@1% силы прыжка"
+
+msgid "-@1% jumping power"
+msgstr "-@1% силы прыжка"
+
+msgid "Slow Falling"
+msgstr "Медленное падение"
+
+msgid "decreases gravity effects"
+msgstr "уменьшает эффект гравитации"
+
+msgid "Swiftness"
+msgstr "стремительности"
+
+msgid "+@1% running speed"
+msgstr "+@1% скорости бега"
+
+msgid "Slowness"
+msgstr "замедления"
+
+msgid "-@1% running speed"
+msgstr "-@1% скорости бега"
+
+msgid "Levitation"
+msgstr "Левитация"
+
+msgid "moves body upwards at @1 nodes/s"
+msgstr "перемещает тело вверх со скоростью @1 узлов/с"
+
+msgid "Night Vision"
+msgstr "ночного зрения"
+
+msgid "improved vision during the night"
+msgstr "улучшение зрения в ночное время"
+
+msgid "Darkness"
+msgstr "Тьма"
+
+msgid "surrounded by darkness"
+msgstr "окружает темнотой"
+
+msgid "not seeing anything beyond @1 nodes"
+msgstr "не видно дальше @1 узлов"
+
+msgid "Glowing"
+msgstr "Светящийся"
+
+msgid "more visible at all times"
+msgstr "более заметны в любое время"
+
+msgid "Health Boost"
+msgstr "Укрепление здоровья"
+
+msgid "HP increased by @1"
+msgstr "HP увеличено на @1"
+
+msgid "Absorption"
+msgstr "Поглощение"
+
+msgid "absorbs up to @1 incoming damage"
+msgstr "Поглощает до @1 единиц получаемого урона"
+
+msgid "Fire Resistance"
+msgstr "огнестойкости"
+
+msgid "resistance to fire damage"
+msgstr "устойчивость к огню"
+
+msgid "Resistance"
+msgstr "Сопротивление"
+
+msgid "resist @1% of incoming damage"
+msgstr "сопротивление @1% к получаемому урону"
+
+msgid "Luck"
+msgstr "Везение"
+
+msgid "Bad Luck"
+msgstr "Неудача"
+
+msgid "Bad Omen"
+msgstr "Дурное предзнаменование"
+
+msgid "danger is imminent"
+msgstr "опасность неминуема"
+
+msgid "Hero of the Village"
+msgstr "Герой деревни"
+
+msgid "Withering"
+msgstr "Увядание"
+
+msgid "-1 HP / @1 s, can kill"
+msgstr "-1 HP / @1 с, может убить"
+
+msgid "impaired sight"
+msgstr "ослабленное зрение"
+
+msgid "Hunger"
+msgstr "Голод"
+
+msgid "exhausts by @1 per second"
+msgstr "истощается на @1 в секунду"
+
+msgid "Nausea"
+msgstr "Тошнота"
+
+msgid "not feeling very well..."
+msgstr "не очень хорошо себя чувствую..."
+
+msgid "frequency: @1 / 1 s"
+msgstr "частота: @1 / 1 s"
+
+msgid "Saturation"
+msgstr "Насыщение"
+
+msgid "saturates by @1 per second"
+msgstr "насыщается на @1 в секунду"
+
+msgid "Haste"
+msgstr "Спешка"
+
+msgid "+@1% mining and attack speed"
+msgstr "+@1% добычи и скорости атаки"
+
+msgid "Fatigue"
+msgstr "Усталость"
+
+msgid "-@1% mining and attack speed"
+msgstr "-@1% добычи и скорости атаки"
+
+msgid "Conduit Power"
+msgstr "Питание по шлангу"
+
+msgid "+@1% mining and attack speed in water"
+msgstr "+@1% добычи и скорости атаки в воде"
+
+msgid "Fermented Spider Eye"
+msgstr "Приготовленный паучий глаз"
+
+msgid "Try different combinations to create potions."
+msgstr "Пробуйте разные сочетания для приготовления зелий."
+
+msgid "Glass Bottle"
+msgstr "Пузырёк"
+
+msgid "Liquid container"
+msgstr "Контейнер для жидкостей"
+
+msgid "A glass bottle is used as a container for liquids and can be used to collect water directly."
+msgstr "Стеклянный пузырёк используется для хранения жидкостей, её также можно использовать для сбора воды."
+
+msgid "To collect water, use it on a cauldron with water (which removes a level of water) or any water source (which removes no water)."
+msgstr "Воду в пузырёк можно набрать из котла (это уменьшает уровень воды в котле) или из другого источника (уровень которого не уменьшится)."
+
+msgid "Water Bottle"
+msgstr "Пузырёк с водой"
+
+msgid "Water bottles can be used to fill cauldrons. Drinking water has no effect."
+msgstr "Пузырёк с водой можно использовать для наполнения котла. Выпивание воды не даст никакого эффекта."
+
+msgid "Use the “Place” key to drink. Place this item on a cauldron to pour the water into the cauldron."
+msgstr "Используйте правую кнопку мыши, чтобы выпить. Используйте этот предмет на котле, чтобы вылить воду в котёл."
+
+msgid "River Water Bottle"
+msgstr "Пузырёк с речной водой"
+
+msgid "River water bottles can be used to fill cauldrons. Drinking it has no effect."
+msgstr "Пузырёк с речной водой можно использовать для наполнения котла. Выпивание воды не даст никакого эффекта."
+
+msgid "Use the “Place” key to drink. Place this item on a cauldron to pour the river water into the cauldron."
+msgstr "Используйте правую кнопку мыши, чтобы выпить. Используйте этот предмет на котле, чтобы вылить речную воду в котёл."
+
+msgid "Splash Water Bottle"
+msgstr "Взрывное зелье"
+
+msgid "Extinguishes fire and hurts some mobs"
+msgstr "Тушит огонь и ранит некоторых мобов"
+
+msgid "A throwable water bottle that will shatter on impact, where it extinguishes nearby fire and hurts mobs that are vulnerable to water."
+msgstr "Пузырёк с водой, который можно метать. Он разбивается при ударе, тушит ближайший огонь и ранит мобов, уязвимых к воде."
+
+msgid "Lingering Water Bottle"
+msgstr "Туманное зелье"
+
+msgid "A throwable water bottle that will shatter on impact, where it creates a cloud of water vapor that lingers on the ground for a while. This cloud extinguishes fire and hurts mobs that are vulnerable to water."
+msgstr "Пузырёк с водой, который можно метать. Он разбивается при ударе, образуя облако пара, которое оседает на землю через некоторое время. Это облако тушит огонь и ранит мобов, уязвимых к воде."
+
+msgid "Glistering Melon"
+msgstr "Сверкающий ломтик арбуза"
+
+msgid "This shiny melon is full of tiny gold nuggets and would be nice in an item frame. It isn't edible and not useful for anything else."
+msgstr "Сверкающий ломтик арбуза содержит в себе золотые самородки и может отлично смотреться в рамке. Ломтик не съедобен."
+
+msgid "No effect"
+msgstr "без эффекта"
+
+msgid "A throwable potion that will shatter on impact, where it creates a magic cloud that lingers around for a while. Any player or mob inside the cloud will receive the potion's effect or set of effects, possibly repeatedly."
+msgstr "Бросаемое зелье, которое при ударе разлетается на куски и создает магическое облако, которое держится некоторое время. Любой игрок или моб, оказавшийся внутри облака, получит эффект или набор эффектов зелья, возможно, неоднократно."
+
+msgid "Use the “Punch” key to throw it."
+msgstr "Нажмите [Ударить], чтобы бросить."
+
+msgid "Use the “Place” key to drink it."
+msgstr "Нажмите [Использовать], чтобы выпить."
+
+msgid "Drinking a potion gives you a particular effect or set of effects."
+msgstr "Выпив зелье, вы получаете определенный эффект или набор эффектов."
+
+msgid "@1 Potion @2"
+msgstr "@1 Зелье @2"
+
+msgid "@1 Potion"
+msgstr "Зелье @1"
+
+msgid "Potion @1"
+msgstr "Зелье @1"
+
+msgid "Strange Potion"
+msgstr "Странное зелье"
+
+msgid "Splash @1"
+msgstr "Всплеск @1"
+
+msgid "Lingering @1"
+msgstr "Затянувшийся @1"
+
+msgid "@1 Arrow @2"
+msgstr "@1 Стрела @2"
+
+msgid "@1 Arrow"
+msgstr "@1 Стрела"
+
+msgid "Arrow @1"
+msgstr "Стрела @1"
+
+msgid "Strange Tipped Arrow"
+msgstr "Стрела со странным наконечником"
+
+msgid "Dragon's Breath"
+msgstr "Дыхание дракона"
+
+msgid "This item is used in brewing and can be combined with splash potions to create lingering potions."
+msgstr "Этот предмет используется в зельеварении и может объединяться со взрывающимися зельями, чтобы создать эффект оседания."
+
+msgid "Awkward"
+msgstr "Неловкость"
+
+msgid "Has an awkward taste and is used for brewing potions."
+msgstr "Имеет неприятный вкус и используется для приготовления других зелий."
+
+msgid "Mundane"
+msgstr "Мирская жизнь"
+
+msgid "Has a terrible taste and is not really useful for brewing potions."
+msgstr "Имеет ужасный вкус и не очень подходит для варки зелий."
+
+msgid "Thick"
+msgstr "Толстый"
+
+msgid "Has a bitter taste and is not really useful for brewing potions."
+msgstr "Имеет горький вкус и не очень подходит для варки зелий."
+
+msgid "of Healing"
+msgstr "Исцеление"
+
+msgid "+@1 HP"
+msgstr "+@1 HP"
+
+msgid "Instantly heals."
+msgstr "Мгновенно исцеляет."
+
+msgid "of Harming"
+msgstr "причинение вреда"
+
+msgid "-@1 HP"
+msgstr "-@1 HP"
+
+msgid "Instantly deals damage."
+msgstr "Наносит мгновенный урон."
+
+msgid "of Night Vision"
+msgstr "Ночное зрение"
+
+msgid "Increases the perceived brightness of light under a dark sky."
+msgstr "Усиливает восприятие яркости освещения в тёмных местах."
+
+msgid "of Swiftness"
+msgstr "Стремительность"
+
+msgid "Increases walking speed."
+msgstr "Увеличивает скорость ходьбы."
+
+msgid "of Slowness"
+msgstr "медлительность"
+
+msgid "Decreases walking speed."
+msgstr "Уменьшает скорость ходьбы."
+
+msgid "of Leaping"
+msgstr "Прыгучесть"
+
+msgid "Increases jump strength."
+msgstr "Увеличивает силу прыжка."
+
+msgid "of Decay"
+msgstr "упадок"
+
+msgid "Applies the withering effect which deals damage at a regular interval and can kill."
+msgstr "Применяет эффект увядания, который наносит урон с регулярным интервалом и может убить."
+
+msgid "of Poison"
+msgstr "Яд"
+
+msgid "Applies the poison effect which deals damage at a regular interval."
+msgstr "Наносит эффект яда, который вызывает урон через равные промежутки времени."
+
+msgid "of Regeneration"
+msgstr "Регенерация"
+
+msgid "Regenerates health over time."
+msgstr "Восстанавливает здоровье со временем."
+
+msgid "of Invisibility"
+msgstr "невидимости"
+
+msgid "Grants invisibility."
+msgstr "Делает невидимым."
+
+msgid "of Water Breathing"
+msgstr "Водное дыхание"
+
+msgid "Grants limitless breath underwater."
+msgstr "Даёт возможность дышать под водой."
+
+msgid "of Fire Resistance"
+msgstr "Огнестойкость"
+
+msgid "Grants immunity to damage from heat sources like fire."
+msgstr "Делает невосприимчивым к урону от источников тепла, например, от огня."
+
+msgid "of Strength"
+msgstr "прочности"
+
+msgid "Increases attack power."
+msgstr "Увеличивает силу атаки."
+
+msgid "of Weakness"
+msgstr "Слабости"
+
+msgid "Decreases attack power."
+msgstr "Уменьшает силу атаки."
+
+msgid "of Slow Falling"
+msgstr "медленного падения"
+
+msgid "Instead of falling, you descend gracefully."
+msgstr "Вместо того чтобы падать, вы грациозно спускаетесь вниз."
+
+msgid "of the Turtle Master"
+msgstr "Повелителя черепах"
+
+msgid "Decreases damage taken at the cost of speed."
+msgstr "Уменьшает получаемый урон за счет скорости."
+
+msgid "of Luck"
+msgstr "удачливый"
+
+msgid "Increases luck."
+msgstr "Увеличивает удачу."
+
+msgid "of Bad Luck"
+msgstr "неудачи"
+
+msgid "Decreases luck."
+msgstr "Уменьшает удачу."
+
+msgid "Ominous Bottle"
+msgstr "Зловещая бутылка"
+
+msgid "Attracts danger."
+msgstr "Привлекает опасность."
+
+msgid "Unknown Potion"
+msgstr "Неизвестное зелье"
+
+msgid "Right-click to identify"
+msgstr "Щелкните правой кнопкой мыши, чтобы узнать"
+
+msgid "Unknown Tipped Arrow"
+msgstr "Неизвестная стрела с наконечником"
+
+msgid "A throwable potion that will shatter on impact, where it gives all nearby players and mobs a status effect or a set of status effects."
+msgstr "Бросаемое зелье, которое при ударе разлетается на куски и накладывает на всех ближайших игроков и мобов статусный эффект или набор статусных эффектов."
+
+msgid "This particular arrow is tipped and will give an effect when it hits a player or mob."
+msgstr "Эта обмакнутая в зелье стрела даёт эффект при попадании в игрока или моба."
+

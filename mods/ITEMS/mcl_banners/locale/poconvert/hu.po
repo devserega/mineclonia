@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain mcl_banners x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "White Banner"
+msgstr "Fehér Zászló"
+
+msgid "White"
+msgstr "Fehér"
+
+msgid "Grey Banner"
+msgstr "Szürke Zászló"
+
+msgid "Grey"
+msgstr "Szürke"
+
+msgid "Light Grey Banner"
+msgstr "Világosszürke Zászló"
+
+msgid "Light Grey"
+msgstr "Világosszürke"
+
+msgid "Black Banner"
+msgstr "Fekete Zászló"
+
+msgid "Black"
+msgstr "Fekete"
+
+msgid "Red Banner"
+msgstr "Vörös Zászló"
+
+msgid "Red"
+msgstr "Vörös"
+
+msgid "Yellow Banner"
+msgstr "Sárga Zászló"
+
+msgid "Yellow"
+msgstr "Sárga"
+
+msgid "Green Banner"
+msgstr "Zöld Zászló"
+
+msgid "Green"
+msgstr "Zöld"
+
+msgid "Cyan Banner"
+msgstr "Türkiz Zászló"
+
+msgid "Cyan"
+msgstr "Türkiz"
+
+msgid "Blue Banner"
+msgstr "Kék Zászló"
+
+msgid "Blue"
+msgstr "Kék"
+
+msgid "Magenta Banner"
+msgstr "Bíbor Zászló"
+
+msgid "Magenta"
+msgstr "Bíbor"
+
+msgid "Orange Banner"
+msgstr "Narancs Zászló"
+
+msgid "Orange"
+msgstr "Narancs"
+
+msgid "Purple Banner"
+msgstr "Lila Zászló"
+
+msgid "Violet"
+msgstr "Ibolya"
+
+msgid "Brown Banner"
+msgstr "Barna Zászló"
+
+msgid "Brown"
+msgstr "Barna"
+
+msgid "Pink Banner"
+msgstr "Rózsaszín Zászló"
+
+msgid "Pink"
+msgstr "Rózsaszín"
+
+msgid "Lime Banner"
+msgstr "Élénkzöld Zászló"
+
+msgid "Lime"
+msgstr "Élénkzöld"
+
+msgid "Light Blue Banner"
+msgstr "Világoskék Zászló"
+
+msgid "Light Blue"
+msgstr "Világoskék"
+
+msgid "Banner"
+msgstr "Zászló"
+
+msgid "Banners are tall colorful decorative blocks. They can be placed on the floor and at walls. Banners can be emblazoned with a variety of patterns using a lot of dye in crafting."
+msgstr "A zászlók magas, színes dekoratív blokkok. Elhelyezhetők a padlón és a falakon. A zászlók kézművesség során sok festék felhasználásával sokféle mintával díszíthetők."
+
+msgid "Use crafting to draw a pattern on top of the banner. Emblazoned banners can be emblazoned again to combine various patterns. You can draw up to 12 layers on a banner that way. If the banner includes a gradient, only 3 layers are possible."
+msgstr "Kézművességgel rajzolj mintát a zászló tetejére. A díszes zászlók újra díszíthetők a különböző minták kombinálásához. Egy zászlóra legfeljebb 12 réteget rajzolhatsz így. Ha a zászló színátmenetet is tartalmaz, csak 3 réteg lehetséges."
+
+msgid "You can copy the pattern of a banner by placing two banners of the same color in the crafting grid—one needs to be emblazoned, the other one must be clean. Finally, you can use a banner on a cauldron with water to wash off its top-most layer."
+msgstr "A zászló mintáját úgy másolhatod, hogy két azonos színű zászlót helyezel el a kézművesrácsba – az egyiknek díszesnek, a másiknak üresnek kell lennie. A zászlót egy üst víz fölött használva lemoshatod a legfelső rétegét."
+
+msgid "@1 Banner"
+msgstr "@1 Zászló"
+
+msgid "Preview Banner"
+msgstr "Zászló Előnézet"
+
+msgid "Paintable decoration"
+msgstr "Festhető dekoráció"
+
+msgid "Can be used to craft special banner designs on the loom"
+msgstr "A szövőszéken speciális zászló minták készítésére használható"
+
+msgid "Special Banner Pattern"
+msgstr "Különleges Zászló Minta"
+
+msgid "@1 Bordure"
+msgstr "@1 Szegély"
+
+msgid "@1 Bricks"
+msgstr "@1 Tégla"
+
+msgid "@1 Roundel"
+msgstr "@1 Karika"
+
+msgid "@1 Creeper Charge"
+msgstr "@1 Creeper Forma"
+
+msgid "@1 Saltire"
+msgstr "@1 Andráskereszt"
+
+msgid "@1 Bordure Indented"
+msgstr "@1 Behúzott Szegély"
+
+msgid "@1 Per Bend Inverted"
+msgstr "@1 Behúzott Átló"
+
+msgid "@1 Per Bend Sinister Inverted"
+msgstr "@1 Fordított Behúzott Átló"
+
+msgid "@1 Per Bend"
+msgstr "@1 Átló"
+
+msgid "@1 Per Bend Sinister"
+msgstr "@1 Fordított Átló"
+
+msgid "@1 Flower Charge"
+msgstr "@1 Virágminta"
+
+msgid "@1 Gradient"
+msgstr "@1 Színátmenet"
+
+msgid "@1 Base Gradient"
+msgstr "@1 Alapszínátmenet"
+
+msgid "@1 Per Fess Inverted"
+msgstr "@1 Fordított Osztás"
+
+msgid "@1 Per Fess"
+msgstr "@1 Osztás"
+
+msgid "@1 Per Pale"
+msgstr "@1 Bal Szél"
+
+msgid "@1 Per Pale Inverted"
+msgstr "@1 Jobb Szél"
+
+msgid "@1 Thing Charge"
+msgstr "@1 Valami"
+
+msgid "@1 Globe Charge"
+msgstr "@1 Földgömb"
+
+msgid "@1 Piglin Charge"
+msgstr "@1 Piglin Minta"
+
+msgid "@1 Lozenge"
+msgstr "@1 Rombusz"
+
+msgid "@1 Skull Charge"
+msgstr "@1 Halálfej"
+
+msgid "@1 Paly"
+msgstr "@1 Csíkok"
+
+msgid "@1 Base Dexter Canton"
+msgstr "@1 Bal Alsó"
+
+msgid "@1 Base Sinister Canton"
+msgstr "@1 Jobb Alsó"
+
+msgid "@1 Chief Dexter Canton"
+msgstr "@1 Bal Felső"
+
+msgid "@1 Chief Sinister Canton"
+msgstr "@1 Jobb Felső"
+
+msgid "@1 Cross"
+msgstr "@1 Kereszt"
+
+msgid "@1 Base"
+msgstr "@1 Alsó Sáv"
+
+msgid "@1 Pale"
+msgstr "@1 Oszlop"
+
+msgid "@1 Bend Sinister"
+msgstr "@1 Jobbátlós Szalag"
+
+msgid "@1 Bend"
+msgstr "@1 Balátlós Szalag"
+
+msgid "@1 Pale Dexter"
+msgstr "@1 Jobb Sáv"
+
+msgid "@1 Fess"
+msgstr "@1 Vízszintes Szalag"
+
+msgid "@1 Pale Sinister"
+msgstr "@1 Bal Sáv"
+
+msgid "@1 Chief"
+msgstr "@1 Felső"
+
+msgid "@1 Chevron"
+msgstr "@1 Alsó Háromszög"
+
+msgid "@1 Chevron Inverted"
+msgstr "@1 Felső Háromszög"
+
+msgid "@1 Base Indented"
+msgstr "@1 Alsó Behúzás"
+
+msgid "@1 Chief Indented"
+msgstr "@1 Felső Behúzás"
+
+msgid "@1 Flow"
+msgstr "@1 Folyam"
+
+msgid "@1 Guster"
+msgstr "@1 Szőlőfürt"
+
+msgid "And one additional layer"
+msgstr "Egy további réteg"
+
+msgid "And @1 additional layers"
+msgstr "És @1 további réteg"
+

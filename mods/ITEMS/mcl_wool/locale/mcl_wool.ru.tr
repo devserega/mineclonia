@@ -1,0 +1,7 @@
+# textdomain: mcl_wool
+Carpet=Ковёр
+Wool=Шерсть
+Wool is a decorative block which comes in many different colors.=Шерсть это декоративный блок, который может быть разных цветов.
+Carpets are thin floor covers which come in many different colors.=Ковры это тонкие напольные покрытия, которые бывают разных цветов.
+@1 Wool=@1 шерсть
+@1 Carpet=@1 ковер
